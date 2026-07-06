@@ -1,0 +1,75 @@
+/* ==========================================================================
+   Alt Makers brand palette
+   Ink       #2d3231  (text)
+   Eggshell  #f6f4eb  (background)
+   Green     #65826a  (highlight / primary accent)
+   Apricot   #eba96f  (highlight / secondary accent)
+   Sun Yellow#f6b500  (highlight / call-to-action)
+   Font: Poppins (set via theme.font in mkdocs.yml)
+   ========================================================================== */
+
+/* Light mode (default) */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:         #2d3231;
+  --md-primary-fg-color--light:  #495050;
+  --md-primary-fg-color--dark:   #1c201f;
+  --md-primary-bg-color:         #f6f4eb;
+  --md-primary-bg-color--light:  #f6f4ebcc;
+
+  --md-accent-fg-color:              #65826a;
+  --md-accent-fg-color--transparent: #65826a1a;
+  --md-accent-bg-color:              #f6f4eb;
+  --md-accent-bg-color--light:       #f6f4ebcc;
+
+  --md-default-bg-color:          #f6f4eb;
+  --md-default-fg-color:          #2d3231;
+  --md-default-fg-color--light:   #2d3231b3;
+  --md-default-fg-color--lighter: #2d323166;
+  --md-default-fg-color--lightest:#2d32311a;
+
+  --md-typeset-color:   #2d3231;
+  --md-typeset-a-color: #65826a;
+}
+
+/* Dark mode (slate) — keep Material's dark surface, but pull the accent/highlights from the brand */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #2d3231;
+  --md-accent-fg-color:  #f6b500;
+  --md-typeset-a-color:  #f6b500;
+}
+
+/* Links inside body copy get a subtle hover shift to the apricot highlight */
+.md-typeset a:hover {
+  color: #eba96f;
+}
+
+/* Buttons (Markdown [text](link){ .md-button } syntax) pick up the brand highlights */
+.md-button {
+  background-color: #eba96f;
+  border-color: #eba96f;
+  color: #2d3231;
+}
+.md-button:hover,
+.md-button:focus {
+  background-color: #f6b500;
+  border-color: #f6b500;
+  color: #2d3231;
+}
+.md-button--primary {
+  background-color: #65826a;
+  border-color: #65826a;
+  color: #f6f4eb;
+}
+.md-button--primary:hover,
+.md-button--primary:focus {
+  background-color: #2d3231;
+  border-color: #2d3231;
+  color: #f6f4eb;
+}
+
+/* Search result highlight + nav active link tint toward brand green */
+.md-nav__link--active,
+.md-nav__link:focus,
+.md-nav__link:hover {
+  color: #65826a;
+}

@@ -17,7 +17,7 @@ docs/
 mkdocs.yml               Site config and navigation
 ```
 
-## Editing (admins only)
+## Editing (admins only: [you + partner + helpers])
 
 1. Clone the repo.
 2. Install MkDocs Material once: `pip install mkdocs-material`
@@ -28,6 +28,7 @@ mkdocs.yml               Site config and navigation
 
 ## First-time setup checklist
 
+- [ ] Create a new GitHub repo and push this folder to it.
 - [ ] In the repo, go to **Settings → Pages** and set the source to **GitHub Actions**.
 - [ ] Update `site_url` in `mkdocs.yml` once you know the Pages URL (or your custom domain).
 - [ ] Add your partner/helpers as **Collaborators** with **Write** access under **Settings → Collaborators** (keep the repo public, or use "Deploy from a branch" visibility settings, so members can read without needing GitHub accounts).

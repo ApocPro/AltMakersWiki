@@ -4,6 +4,8 @@ site_url: https://wiki.alt-makers.com/
 
 theme:
   name: material
+  font:
+    text: Poppins
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -44,3 +46,6 @@ markdown_extensions:
 
 plugins:
   - search
+
+extra_css:
+  - stylesheets/extra.css
