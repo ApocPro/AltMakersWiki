@@ -1,6 +1,6 @@
 site_name: Makerspace Wiki
 site_description: Tool and equipment reference wiki for our makerspace
-# site_url: https://<your-org>.github.io/<your-repo>/   # set this once GitHub Pages is enabled
+site_url: https://www.alt-makers.com/wiki
 
 theme:
   name: material
