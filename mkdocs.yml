@@ -1,0 +1,46 @@
+site_name: Makerspace Wiki
+site_description: Tool and equipment reference wiki for our makerspace
+# site_url: https://<your-org>.github.io/<your-repo>/   # set this once GitHub Pages is enabled
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - CNC: cnc.md
+  - Laser Cutters: lasercutters.md
+  - 3D Printers: 3d-printers.md
+  - Woodworking & Carpentry: woodworking.md
+  - Sewing: sewing.md
+  - Electronics: electronics.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+plugins:
+  - search
