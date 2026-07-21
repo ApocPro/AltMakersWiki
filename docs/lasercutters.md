@@ -29,6 +29,7 @@ _[bed size class, laser type/power, typical use cases]_
 
 **Manuals & Resources**
 
+- [Monport Effi 16S — Material & Settings Library](lasercutters-material-settings-effi16s.md)
 - [ ] Manufacturer manual (link)
 - [ ] Internal SOP / checklist (link)
 
@@ -100,11 +101,11 @@ _[Approved materials list, thicknesses, and prohibited materials — laser cutte
 | | | |
 
 !!! danger "Never cut these materials"
-    _[e.g. PVC/vinyl, chlorinated plastics, ABS, any material of unknown composition — these release toxic/corrosive fumes.]_
+    See the full unsuitable/hazardous materials list: [English](lasercutters-unsafe-materials-en.md) · [Deutsch](lasercutters-unsafe-materials-de.md). Covers PVC, ABS, polystyrene/PP foam, aramids (Kevlar/Nomex), PTFE, chrome-tanned leather, galvanized and reflective metals, and more — with the reason each one is unsafe.
 
 ## Tool Settings
 
-_[Reference table of power/speed/pass settings per material and thickness, once tested.]_
+Full reference tables (proven settings plus starting points imported from happylab's Trotec library) live on their own page: **[Monport Effi 16S — Material & Settings Library](lasercutters-material-settings-effi16s.md)**. It covers paper/cardboard, wood, plastics, textiles/leather, and stamp rubber, split into settings that are actually tested on this machine versus ones that still need a test cut.
 
 | Material | Thickness | Power | Speed | Passes | Notes |
 |---|---|---|---|---|---|

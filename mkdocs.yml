@@ -29,7 +29,11 @@ theme:
 nav:
   - Home: index.md
   - CNC: cnc.md
-  - Laser Cutters: lasercutters.md
+  - Laser Cutters:
+      - Overview: lasercutters.md
+      - Effi 16S Material Settings: lasercutters-material-settings-effi16s.md
+      - Unsafe Materials (EN): lasercutters-unsafe-materials-en.md
+      - Nicht geeignete Materialien (DE): lasercutters-unsafe-materials-de.md
   - 3D Printers: 3d-printers.md
   - Woodworking & Carpentry: woodworking.md
   - Sewing: sewing.md
