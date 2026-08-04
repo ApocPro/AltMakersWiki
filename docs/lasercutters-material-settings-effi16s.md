@@ -5,6 +5,12 @@ Reference cut/engrave settings for the **Monport Effi 16S (150W CO2)**. Speed is
 !!! danger "Test-cut anything not in section 1"
     Only the settings in **1. Proven Settings** have actually been run on this machine. Everything in **2. Imported from Trotec Q500** is a calculated starting point, not a verified value — always run a small test cut before committing a full job, and adjust from there. Always run air assist and exhaust ventilation regardless of material.
 
+**General notes for reading these tables:**
+
+- Always order engrave layers above cut layers in Lightburn — this way engraving happens before a cut has a chance to shift or dislodge the material.
+- "Passes: 1" in a row below means that setting is meant to cut all the way through in one pass. For material thicker than what's listed, increase the pass count and lower the Z-focus offset between passes rather than pushing power up or speed down indefinitely.
+- Fill direction is a separate choice from power/speed: **Bidirectional** (fires moving both directions) is fastest; **Unidirectional** (fires one direction only) is slower but can look more visually consistent; **Crosshatch** (a pass in each direction) gives the most uniform, deepest engrave.
+
 ## 1. Proven Settings
 
 Tested on the Monport and safe to use as-is.
@@ -15,6 +21,9 @@ Tested on the Monport and safe to use as-is.
 | Birkensperrholz (birch plywood) | 4 mm | Cut | 70% | 38 | Cut settings |
 | HDF (water-resistant) | 3 mm | Cut | 25% | 12 | Cut settings for water-resistant HDF |
 | HDF (water-resistant) | — | Engrave | 16% | 240 | Engrave settings for water-resistant HDF |
+| MDF (white) | — (engrave/fill) | Engrave | 20% | 230 | Fill mode, bidirectional; air assist **off** (kept off deliberately to avoid blowing white MDF dust around); line interval widened from Lightburn's 0.1mm default since this laser's focal spot is ~0.15mm |
+| MDF (white) | 3 mm | Cut | 26% | 9 | Line mode; air assist **on** (required for all cuts). Arrived at live during training — *[NEEDS VERIFICATION: exact speed/power heard as "9mm/s at 26%" from Monport's quarter-inch birch chart, not an MDF-specific value — confirm]* |
+| MDF (white) | 5 mm | Cut | 26% | 9 | Same quarter-inch-chart settings as the 3mm cut, reused to ensure a full through-cut — *[NEEDS VERIFICATION: confirm depth and consider dedicated MDF settings once available]* |
 
 ## 2. Imported from Trotec Q500 (120 W) — needs test cuts
 

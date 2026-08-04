@@ -31,10 +31,13 @@ The Effi 16s is a 150W CO2 laser engraver/cutter with a built-in water chiller a
 
 **Manuals & Resources**
 
-- [Monport Effi 16S — Material & Settings Library](lasercutters-material-settings-effi16s.md)
 - [ ] [Monport Effi16S product/spec page](https://monportlaser.com/products/monport-effi16s-upgraded-150w-co2-laser-engraver-cutter-with-autofocus-and-built-in-water-chiller)
 - [ ] [Monport Effi16S manuals (ManualsLib)](https://www.manualslib.com/products/Monport-Effi16s-14512154.html)
 - [ ] Internal SOP / checklist (link) — *[NEEDS VERIFICATION: not yet created]*
+
+**Material & Settings Library**
+
+There's no separate "Tool Settings" section on this page — the tool is always the laser, so every cut/engrave setting lives together with the material it's for. See **[Monport Effi 16S — Material & Settings Library](lasercutters-material-settings-effi16s.md)** for the full reference, split into settings proven on this machine versus ones imported from another lab's laser that still need a test cut.
 
 ---
 
@@ -112,38 +115,40 @@ _[NEEDS VERIFICATION — not covered in the training transcript. General pattern
 
 ## Materials
 
-Only MDF (white) was actually tested and confirmed during training (3mm and 5mm thicknesses, settings below). Monport's own reference chart also lists Baltic birch, acrylic/plexiglass, and leather as compatible materials for this laser class, but these have **not** been locally tested/confirmed — check the Lightburn material library (being added — see note below) or get sign-off from a shop lead before using an untested material.
+There's no separate "Tool Settings" section on this page — the tool is always the laser, so power/speed/passes are documented together with the material they're for, in the settings library linked throughout this section.
 
-*[NEEDS VERIFICATION: the built-in Lightburn material library was not yet populated as of this training session — confirm it now has entries for Baltic birch, MDF, acrylic, and other approved materials, and update this table accordingly.]*
+**What's generally safe to cut:** wood and wood composites (plywood, MDF, hardboard), paper and cardboard, acrylic/PMMA, and untreated or vegetable-tanned leather are all commonly laser-safe categories on this class of machine. "Generally safe" isn't the same as "already dialed in," though — check the settings library below for what's actually been tested on our machine versus what's just a reasonable starting point.
 
-| Material | Max thickness | Notes |
-|---|---|---|
-| MDF (white) | 5mm (single pass) | Confirmed in training; see Tool Settings below |
-| Baltic birch plywood | _[NEEDS VERIFICATION]_ | Listed in Monport's reference chart; not locally tested |
-| Acrylic/plexiglass | _[NEEDS VERIFICATION]_ | Listed in Monport's reference chart; not locally tested |
-| Leather | _[NEEDS VERIFICATION]_ | Listed in Monport's reference chart; not locally tested |
+**Settings library:** every proven and imported cut/engrave setting for the Effi 16s — MDF, plywood/hardboard, paper/cardboard, acrylic, leather, stamp rubber, and more — lives on its own page: **[Monport Effi 16S — Material & Settings Library](lasercutters-material-settings-effi16s.md)**. Always check there before assuming a setting for your material and thickness.
 
 !!! danger "Never cut these materials"
     PVC/vinyl, ABS, polycarbonate, and other chlorinated or halogenated plastics — these release toxic chlorine gas/hydrochloric acid when laser-cut, even with ventilation running. Also avoid fiberglass, certain foams, HDPE, coniferous/oily woods, and any material of unknown composition. If you can't confirm what a material is made of, don't cut it — ask first.
 
     See the full unsuitable/hazardous materials reference for the reasoning behind each one (and more entries not listed here): [English](lasercutters-unsafe-materials-en.md) · [Deutsch](lasercutters-unsafe-materials-de.md).
 
-## Tool Settings
+### How settings get made
 
-The values below were arrived at live during training on the **Effi 16s (150W)**, cutting/engraving **white MDF**. Treat the cut setting as a working starting point, not a fully verified reference — the audio was unclear on a couple of numbers, and it was derived from Monport's Baltic-birch chart (converted from a quarter-inch imperial spec) rather than an MDF-specific value. Re-verify against the Lightburn material library once it's populated.
+Every entry in the settings library started one of two ways: it was tested directly on this machine, or it was converted from another lab's laser (with power capped and speed adjusted to compensate) as a *starting point that still needs a test cut*. Never assume a setting is safe to run at full speed just because it's written down — confirm which category it falls into, and for anything imported/unverified, stay nearby and keep the exhaust running for the first pass.
 
-For every other material (paper/cardboard, plywood/hardboard, acrylic, leather, stamp rubber, etc.), see the full **[Monport Effi 16S — Material & Settings Library](lasercutters-material-settings-effi16s.md)**, which separates settings actually tested on this machine from ones imported from another lab's laser that still need a test cut.
+### How power and speed affect the result
 
-| Material | Thickness | Power | Speed | Passes | Notes |
-|---|---|---|---|---|---|
-| MDF (white) | — (engrave/fill) | 20% | 230 mm/s | 1 | Fill mode, bidirectional; air assist **off** (kept off deliberately to avoid blowing white MDF dust around — air assist for engraving is a matter of preference); line interval widened from Lightburn's 0.1mm default since this laser's focal spot is ~0.15mm (0.1mm default causes overlap) |
-| MDF (white) | 3mm | 26% | 9 mm/s | 1 | Cut (Line mode); air assist **on** (required for all cuts) *[NEEDS VERIFICATION: exact speed/power heard as "9mm/s at 26%" from Monport's quarter-inch birch chart — confirm]* |
-| MDF (white) | 5mm | 26% | 9 mm/s | 1 | Same quarter-inch-chart settings used for the 3mm cut were reused here to ensure full through-cut; confirm depth and consider dedicated MDF settings once available |
+The laser cuts or engraves by putting heat into the material — power and speed both control how much heat lands on a given point, just in different ways:
 
-General notes:
-- Engrave layers should always be ordered above cut layers, so engraving happens before the material can shift from cutting.
-- Number of Passes = 1 is meant to cut all the way through in one go; for thicker material, increase passes and adjust the Z-focus offset down between passes rather than trying to increase power/reduce speed indefinitely.
-- Bidirectional fill (laser fires moving both directions) is faster; unidirectional (fires one direction only) is slower but can look more consistent; crosshatch (do a pass each direction) gives more uniform/deeper engraves.
+- **Power** is how strong the beam is. More power delivers more energy — useful for cutting through thicker material or getting a darker engrave, but too much causes charring, a wider kerf (cut width), melting on plastics, and a higher fire risk.
+- **Speed** is how fast the head moves, which controls how long the beam dwells on each point. Slower speed means more time for heat to build up — deeper cuts and darker engraves, but more charring the slower you go. Faster speed reduces heat exposure and charring, but may not fully cut through or may leave a faint engrave.
+
+In practice you're balancing the two: enough combined power and dwell time to do the job cleanly, without so much heat that you get excess charring, melting, or fire. Because materials absorb and conduct heat differently — and this varies even between thicknesses or finishes of the "same" material — a setting that works well for one doesn't reliably transfer to another. That's why every material in the settings library has its own tested values rather than one generic number.
+
+### Running a material test in Lightburn
+
+If a material or thickness isn't in the settings library yet, don't guess at a setting — use Lightburn's built-in test tool on a scrap piece first:
+
+1. Get a scrap piece of the actual material and thickness you'll be using — settings vary by thickness and even by color/finish, not just material type.
+2. Go to **Laser Tools → Material Test** (also called the Material Test Generator).
+3. Choose whether you're testing a **Cut** or an **Engrave**, then set a speed range, a power range, and the number of rows/columns — Lightburn lays out a grid, stepping through a different speed/power combination in each cell.
+4. Run the test with the exhaust running, and stay nearby in case anything flares up.
+5. Inspect the grid: for a cut, look for the fastest / lowest-power combination that still cuts all the way through cleanly without heavy charring; for an engrave, look for the combination with the depth/contrast you want without scorching.
+6. Note down the winning power, speed, and pass count for that exact material and thickness, and add it to the [Monport Effi 16S — Material & Settings Library](lasercutters-material-settings-effi16s.md) so the next person doesn't have to repeat the test.
 
 ## Safety
 
