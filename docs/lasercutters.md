@@ -20,14 +20,32 @@ The full job, start to finish, in order. Each step links to the detailed section
 ### 2. Prepare your file in Lightburn
 
 1. **Import your design** (the import icon at the top left, or drag and drop). Bring it from home on a USB stick or cloud storage. PNG, JPG, SVG, and most vector formats all work.  (Adobe Illustrator is known to sometime export to svg with incorrect pixel resolution and alter your size to approximately 75%, if you designed in illustrator, make sure that the size of your design is correct)
+
+    ![Lightburn toolbar with the Import button](img/Laser/Import%20Button.jpg){ width="480" }
+
 2. **Trace it if it's an image.** Tools → Trace Image. The defaults are usually fine. Afterwards, delete or hide the original image. You want Lightburn to only cut or engrave based on the traced lines, not the picture. It can engrave the picture, but this can cause issues when the white of an image isn't 100% white.→ [Details](#lightburn)
+
+    ![Lightburn Tools menu with Trace Image selected](img/Laser/Trace%20Image.jpg){ width="480" }
+
 3. **Put each operation on its own layer.**
     - Anything you want to **engrave** → a layer set to **Fill**.
     - Anything you want to **cut** → a layer set to **Line**.
-4. **Apply the material settings.** Open the **Material Library** window on the bottom right (Window → Library if it isn't showing). Select a layer in Cuts/Layers. Then choose your material in the library, followed by process (cut or engrave) and then thickness (only for cutting), and click **Assign**. Do this for each layer. The library sets speed, power and air assist for you. You don't have to type in your own numbers unless your material isn't in the library. → [Settings library](lasercutters-material-settings-effi16s.md)
+
+    ![Cuts/Layers panel with the Mode dropdown: Line, Fill, Offset Fill](img/Laser/Cuts-Layers%20%28Line%20and%20Fill%29.jpg){ width="480" }
+
+4. **Apply the material settings.** Open the **Material Library** window on the bottom right. Select a layer in Cuts/Layers. Then choose your material in the library, followed by process (cut or engrave) and then thickness (only for cutting), and click **Assign**. Do this for each layer. The library sets speed, power and air assist for you. You don't have to type in your own numbers unless your material isn't in the library. → [Settings library](lasercutters-material-settings-effi16s.md)
+
+    ![Material Library tab with materials, thicknesses and the Assign button](img/Laser/Material%20Settings.jpg){ width="480" }
+
     - Material not in the library? Run a [material test](#running-a-material-test-in-lightburn) on a scrap first.
+
+        ![Laser Tools menu with Material Test highlighted](img/Laser/Material%20Test%20Menu.jpg){ width="480" }
+
 5. **Check the layer order.** Engrave layers go above cut layers. Inner cuts (holes) go above the outer cut. The job runs top to bottom, and if a part is cut free before holes or engraving it can shift.
 6. **Set Start From.** For most jobs, pick **Current Position**. The job then starts from wherever the laser head is, and you'll position the head over your material in step 4.
+
+    ![Laser panel: Start, Frame buttons and the Start From dropdown](img/Laser/Laser%20Control%20Menu.jpg){ width="480" }
+
 7. **Preview** (the monitor icon). Black lines mean the laser is firing and red lines are travel moves. Check that nothing's missing and nothing extra is there.
 
 ### 3. Turn on the machine
@@ -36,18 +54,31 @@ The full job, start to finish, in order. Each step links to the detailed section
 2. Twist the **emergency stop** to release it. This turns the machine on.
 3. **Log in:** hold your member chip on the reader. Your name and your booking show on the display. If someone's booked right after you, you'll see a countdown. The laser shuts off when their booking starts. This **Turns on the laser**  The head homes to the back-right corner automatically. As mentioned in step 1, make sure there's no material in the machine yet, so nothing is in its path.
 
+    ![Fabman reader showing the logged-in member, laser current display to its left](img/Laser/Fabman%20Bridge%20and%20Laser%20Power%20Display.jpg){ width="480" }
+
+
 ### 4. Load, focus, and position
 
 1. **Lower the bed** using the up/down buttons at the top of the keypad. Lower it first, because the last person might have used thinner material.
+
+    ![Machine keypad: bed up/down at the top corners, arrow keys, FOCUS, ENT, RUN/PAUSE, STOP](img/Laser/Machine%20Controls.jpg){ width="480" }
+
 2. **Place your material** on the bed. Check to make sure that it is flat (or as flat as you can make it).  If needed there are pinch clamps that can be used to help flatten bent material.
 3. Use the arrow keys on the keypad to **Jog the head** over the corner of your material where the job should start. 
 4. **Autofocus:** press the **focus** button (bottom right of the keypad). **Make sure the stylus is over your material**, not over a gap, then press **ENT**. The red dot isn't reliable until after you focus. 
 5. **Frame the job:** select your design in Lightburn and click **Frame** (the square button, or the circle "rubber band" button for irregular shapes). Watch that the head stays inside your material. If framing is crazy slow, set the speed in the Move tab to about 200 mm/s. If there has been an update, Lightburn starts at a very slow default.
+    - **Optional: line up with the camera.** In the **Cameras** tab, click **Update Overlay** to show a photo of the bed behind your design, then drag the design onto your material. If you position this way, set **Start From** to **Absolute Coords**.
+
+        ![Cameras tab with Update Overlay and the overhead camera view](img/Laser/Camera%20Overlay%20Controls.jpg){ width="480" }
+
 
 ### 5. Test, then cut
 
 1. **Cut a small test square first,** especially for anything you haven't cut before. Draw a small square on its own cut layer. Turn **Output** off on your real layers, run the square, and check that it cuts all the way through. Then turn Output back on for your design, and off for the square.
-2. **Turn on the exhaust** (red switch). Leave it at the setting it's on.
+2. **Turn on the exhaust** (red button in the middle). Leave it at the setting it's on.  If it beeps at you it means that the filter is dirty, decreasing the fan speed (far left button) will make it stop beeping.  Please inform us on the laser discord channel so we can clean the filter the next time we are in. https://discord.gg/4HSJGxNX7
+
+    ![Fume extractor control panel with the red power button](img/Laser/Filter%20Power.jpg){ width="480" }
+
 3. **Close the lid** with both handles. The laser won't fire while it's open.
 4. **Press Start.**
 5. **Stay with the machine.** The display flashes every two minutes. Tap the check mark to confirm you're still there, or the job will stop. Don't stare at the beam through the window for long periods.
