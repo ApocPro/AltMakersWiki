@@ -138,7 +138,6 @@ There's no separate "Tool Settings" section on this page — the tool is always 
 ### Lightburn
 
 **Used for:** Primary laser control software for both machines — importing/designing artwork, tracing images into vector lines, assigning cut/engrave settings by layer, previewing the job, and running it on the machine.
-**Access:** Shared workstation login: `alt-makers-2026`. *[NEEDS VERIFICATION: confirm license seat/install details, and whether this login should be kept in an access-restricted doc instead of a public wiki.]*
 
 **Basic Workflow**
 
