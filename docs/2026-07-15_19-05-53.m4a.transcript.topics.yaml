@@ -1,0 +1,89 @@
+title: Laser Cutter Training and Makerspace Operations Overview
+summary: This session provided a comprehensive training and operational walkthrough
+    for a new 150-watt laser cutter at a makerspace. The discussion covered the complete
+    workflow from digital design import and software configuration in LightBurn to
+    physical machine operation, safety protocols, and material handling. Key emphasis
+    was placed on correct software layering, safe power limits, prohibited materials,
+    and the necessity of test cuts. The session also detailed the booking system,
+    credit-based billing, and membership requirements for machine access.
+topics:
+-   title: Software Interface and Design Workflow (LightBurn)
+    summary: An overview of the LightBurn software used to control the laser cutter,
+        covering file import, vectorization, layer management, and operational sequencing.
+        The discussion explained how to prepare designs in various external programs,
+        import them into LightBurn, and assign cut or engrave operations using specific
+        layer settings. The importance of operation order and positioning coordinates
+        was highlighted to ensure precision.
+    key_facts:
+    - 'Software: LightBurn'
+    - 'License costs: approximately $90 (core), $200 (pro)'
+    - 'Compatible design software: Fusion, Adobe AI, Inkscape, Photoshop, CorelDRAW'
+    - 'Import formats: PNG, vector graphics'
+    - 'Vectorization: Trace image function converts bitmaps to vectors'
+    - 'Layer operations: Line equals cut, Fill equals engrave'
+    - 'Recommended sequence: Engrave before cutting'
+    - 'Cutting order: Center outwards to prevent shifting'
+    - 'Home position: Upper right corner'
+    - 'Coordinate modes: Absolute vs. Current position'
+-   title: Machine Operation and Safety Protocols
+    summary: Step-by-step procedures for operating the laser cutter, including logging
+        in, focusing, material placement, and initiating cuts. Critical safety measures
+        were emphasized, such as maintaining safe power levels to preserve the laser
+        tube, never raising the bed into the laser head, and understanding the safety
+        sensors that disable the machine when the lid is open. The function of air
+        assist and emergency protocols were also covered.
+    key_facts:
+    - 'Machine model: Monport 150-watt laser cutter'
+    - 'Bed dimensions: 1.6 meters by 1 meter'
+    - 'Cooling system: Integrated water-cooled chiller'
+    - 'Maximum recommended power: 70% to extend laser tube lifespan'
+    - 'Safety sensor: Automatically shuts off laser when lid is opened'
+    - 'Bed movement rule: Never raise the bed into the laser head'
+    - 'Air assist: Keeps lens clean and blows away debris during cutting'
+    - 'Emergency stop: Located on the control panel'
+    - 'Fire safety: Fire extinguisher positioned near the machine'
+    - 'Post-cut procedure: Remove all scraps to prevent fire hazards'
+-   title: Material Restrictions and Compatibility
+    summary: Guidelines for safe material selection, highlighting prohibited substances
+        that release toxic fumes or damaging residues when exposed to laser light.
+        The session covered the differences between knife and honeycomb beds, kerf
+        width considerations for tight fits, and routine maintenance requirements
+        to ensure consistent machine performance.
+    key_facts:
+    - 'Prohibited materials: PVC (produces chlorine gas), CR/Neoprene, PTFE/Teflon'
+    - 'Problematic material: Latex (produces sticky black smoke that coats the lens)'
+    - 'Lens maintenance: Clean daily to maintain consistent power output'
+    - 'Bed types: Knife bed (flattens strong materials), Honeycomb bed (supports flimsy
+        materials)'
+    - 'Kerf width: 0.15 millimeters'
+    - 'Fit tolerance: Allow slight clearance to avoid forcing pieces together'
+-   title: Material Testing, Settings, and Advanced Cuts
+    summary: Methods for determining optimal speed and power settings through systematic
+        test cuts. The discussion addressed handling thicker materials using multiple
+        passes and Z-offset adjustments, focusing techniques for deep cuts, and interpreting
+        manufacturer guidelines. Practical examples of speed and power combinations
+        were provided to guide users in achieving clean results without burning the
+        material.
+    key_facts:
+    - 'Testing method: Run 5 to 10 variable test blocks'
+    - 'Key parameters: Speed (millimeters per second) and Power (%)'
+    - 'Thick material technique: Multiple passes with Z-offset adjustments'
+    - 'Focus depth for thick materials: Set to bottom of material to prevent trapezoidal
+        cuts'
+    - 'Example settings: 9 mm/s at 26% power, 17 mm/s at 25% power'
+    - 'Material library: Under development based on Monport guidelines'
+    - 'Overlapping settings: Avoid extreme power increases to prevent charring'
+-   title: Membership, Booking, and Billing System
+    summary: Operational rules governing machine access, scheduling, and credit usage
+        within the makerspace. The session explained how to book time slots, manage
+        credit balances, handle overlapping bookings, and complete the necessary training
+        to activate machine privileges. Procedures for existing and new members were
+        clarified to ensure smooth integration into the space.
+    key_facts:
+    - 'Booking policy: First-come, first-served or book 4 hours in advance'
+    - 'Credit consumption rate: 6 credits per minute'
+    - 'Overdraft fee: 10 cents per credit'
+    - 'Handoff system: Pay-it-forward feature for overlapping bookings'
+    - 'Machine shutdown: Occurs 5 minutes before the next scheduled booking'
+    - 'Training activation: Existing members updated automatically by trainer'
+    - 'New member requirement: Email confirmation of training completion'

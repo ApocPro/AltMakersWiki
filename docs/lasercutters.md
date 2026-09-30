@@ -1,13 +1,74 @@
 # Laser Cutters
 
-The laser cutting area is for engraving and cutting thin, flat sheet materials (wood, acrylic, leather, cardboard, etc.) using a focused laser beam controlled through Lightburn software. Use a laser cutter when you need clean, precise 2D cuts or surface engraving on flat stock within the machine's thickness limit; use the CNC router instead for thicker stock, 3D shaping, or materials that aren't laser-safe. *[NEEDS VERIFICATION: confirm this laser-vs-CNC guidance with a shop lead.]*
+The laser cutting area is for engraving and cutting thin, flat sheet materials (wood, acrylic, leather, cardboard, etc.) using a focused laser beam controlled through Lightburn software. Use a laser cutter when you need clean, precise 2D cuts or surface engraving on flat stock within the machine's thickness limit; use the CNC router instead for thicker stock, 3D shaping, or materials that aren't laser-safe. 
+
+## Quick Start: Cutting on the Effi 16s
+
+The full job, start to finish, in order. Each step links to the detailed section if you need more. This assumes you've done the laser training and your member chip is activated for the laser.
+
+!!! warning "Three rules that protect you and the machine"
+    - **Never raise the bed into the laser head.** Always lower first, then bring it up slowly.
+    - **Never go above 70% power.** Higher power shortens the life of the laser tube (and it's expensive to replace).
+    - **Never leave the machine while it's running.** You have to confirm you're there every two minutes, and no one else can do that for you unless they're a trained member.
+
+### 1. Before you start
+
+1. Check that your material is safe to cut. If it's not in the [settings library](lasercutters-material-settings-effi16s.md), or you're not sure what it's made of, check the [unsafe materials list](lasercutters-unsafe-materials-en.md) or ask. **No PVC/vinyl, ever.**
+2. If the room is above 35 °C, don't use the laser. The chiller can't keep the tube cool.
+3. Make sure the bed is empty. Scraps left over from the last job can make your focus uneven and are a fire risk.
+
+### 2. Prepare your file in Lightburn
+
+1. **Import your design** (the import icon at the top left, or drag and drop). Bring it from home on a USB stick or cloud storage. PNG, JPG, SVG, and most vector formats all work.  (Adobe Illustrator is known to sometime export to svg with incorrect pixel resolution and alter your size to approximately 75%, if you designed in illustrator, make sure that the size of your design is correct)
+2. **Trace it if it's an image.** Tools → Trace Image. The defaults are usually fine. Afterwards, delete or hide the original image. You want Lightburn to only cut or engrave based on the traced lines, not the picture. It can engrave the picture, but this can cause issues when the white of an image isn't 100% white.→ [Details](#lightburn)
+3. **Put each operation on its own layer.**
+    - Anything you want to **engrave** → a layer set to **Fill**.
+    - Anything you want to **cut** → a layer set to **Line**.
+4. **Apply the material settings.** Open the **Material Library** window on the bottom right (Window → Library if it isn't showing). Select a layer in Cuts/Layers. Then choose your material in the library, followed by process (cut or engrave) and then thickness (only for cutting), and click **Assign**. Do this for each layer. The library sets speed, power and air assist for you. You don't have to type in your own numbers unless your material isn't in the library. → [Settings library](lasercutters-material-settings-effi16s.md)
+    - Material not in the library? Run a [material test](#running-a-material-test-in-lightburn) on a scrap first.
+5. **Check the layer order.** Engrave layers go above cut layers. Inner cuts (holes) go above the outer cut. The job runs top to bottom, and if a part is cut free before holes or engraving it can shift.
+6. **Set Start From.** For most jobs, pick **Current Position**. The job then starts from wherever the laser head is, and you'll position the head over your material in step 4.
+7. **Preview** (the monitor icon). Black lines mean the laser is firing and red lines are travel moves. Check that nothing's missing and nothing extra is there.
+
+### 3. Turn on the machine
+
+1. Check that the bed of the laser cutter is empty and free of obstructions.
+2. Twist the **emergency stop** to release it. This turns the machine on.
+3. **Log in:** hold your member chip on the reader. Your name and your booking show on the display. If someone's booked right after you, you'll see a countdown. The laser shuts off when their booking starts. This **Turns on the laser**  The head homes to the back-right corner automatically. As mentioned in step 1, make sure there's no material in the machine yet, so nothing is in its path.
+
+### 4. Load, focus, and position
+
+1. **Lower the bed** using the up/down buttons at the top of the keypad. Lower it first, because the last person might have used thinner material.
+2. **Place your material** on the bed. Check to make sure that it is flat (or as flat as you can make it).  If needed there are pinch clamps that can be used to help flatten bent material.
+3. Use the arrow keys on the keypad to **Jog the head** over the corner of your material where the job should start. 
+4. **Autofocus:** press the **focus** button (bottom right of the keypad). **Make sure the stylus is over your material**, not over a gap, then press **ENT**. The red dot isn't reliable until after you focus. 
+5. **Frame the job:** select your design in Lightburn and click **Frame** (the square button, or the circle "rubber band" button for irregular shapes). Watch that the head stays inside your material. If framing is crazy slow, set the speed in the Move tab to about 200 mm/s. If there has been an update, Lightburn starts at a very slow default.
+
+### 5. Test, then cut
+
+1. **Cut a small test square first,** especially for anything you haven't cut before. Draw a small square on its own cut layer. Turn **Output** off on your real layers, run the square, and check that it cuts all the way through. Then turn Output back on for your design, and off for the square.
+2. **Turn on the exhaust** (red switch). Leave it at the setting it's on.
+3. **Close the lid** with both handles. The laser won't fire while it's open.
+4. **Press Start.**
+5. **Stay with the machine.** The display flashes every two minutes. Tap the check mark to confirm you're still there, or the job will stop. Don't stare at the beam through the window for long periods.
+    - A small candle-sized flame is normal. If a flame keeps growing, **open the lid.** That cuts the laser immediately. Then move the head away with the arrow keys and blow out or remove the material. The fire extinguisher is next to the machine. → [Safety](#safety)
+    - **Pause** holds your place so you can resume. **Stop** (or the **space bar** in Lightburn) ends the job, and you can't restart it from the middle.
+
+### 6. When you're done
+
+1. When the machine beeps, **wait a few seconds** for the exhaust to clear the smoke before you open the lid.
+2. **Take out your parts and all your scraps.** Nothing should stay on or under the bed. Use the vacuum if you need to. Don't blow scraps into the back of the machine with compressed air. Offcuts bigger than about 5 cm can go on the scrap shelf. Anything smaller goes in the bin.
+3. **Lower the bed a little** unless you're about to cut the same material again.
+4. **End your session:** press **X** on your booking on the display. That turns off the laser power. Then press the **emergency stop** to turn off the lights. Leave the other switches alone.
+
+---
 
 ## Machines
 
 ### Monport Effi 16s
 
-**Location:** _[NEEDS VERIFICATION — where in the shop]_
-**Training required:** Yes. Access to the shared Lightburn workstation currently uses a shared login (`alt-makers-2026`). *[NEEDS VERIFICATION: confirm whether a separate certification/sign-off is required beyond this login, and whether this credential should live in a restricted document rather than a public wiki page.]*
+**Location:** _back corner of the woodworking area_
+**Training required:** Yes. 
 
 **Overview**
 The Effi 16s is a 150W CO2 laser engraver/cutter with a built-in water chiller and autofocus. It has a roughly 1.6m x 1m working bed and is the primary machine covered in our internal training walkthrough. It's controlled through Lightburn and uses a physical keypad on the machine for jogging, focusing, and starting jobs.
@@ -18,8 +79,8 @@ The Effi 16s is a 150W CO2 laser engraver/cutter with a built-in water chiller a
 |---|---|
 | Bed size | ~1600 x 1000 mm (1.6 m x 1 m) |
 | Laser type/power | CO2, 150W (rated; peak up to ~180W) |
-| Max material thickness | 5mm MDF cuts through in a single pass at tested settings below; thicker material may need multiple passes with Z-offset between passes. *[NEEDS VERIFICATION: confirm the machine's published max cut depth per material.]* |
-| Software/controller | Lightburn (front-end); onboard digital control panel/keypad for jogging, focus, and start *[NEEDS VERIFICATION: confirm controller brand, e.g. Ruida]* |
+| Max material thickness | 8mm MDF cuts through in a single pass at tested settings; thicker material may need multiple passes with Z-offset between passes. Monport claims that it is capable to cut 20mm thick acrylic in a single pass, but this is not tested on this machine.
+| Software/controller | Lightburn (front-end); onboard digital control panel/keypad for jogging and focus |
 
 **Basic Operating Steps**
 
@@ -40,34 +101,6 @@ The Effi 16s is a 150W CO2 laser engraver/cutter with a built-in water chiller a
 There's no separate "Tool Settings" section on this page — the tool is always the laser, so every cut/engrave setting lives together with the material it's for. See **[Monport Effi 16S — Material & Settings Library](lasercutters-material-settings-effi16s.md)** for the full reference, split into settings proven on this machine versus ones imported from another lab's laser that still need a test cut.
 
 ---
-
-### Monport Mega
-
-**Location:** _[NEEDS VERIFICATION — where in the shop]_
-**Training required:** _[NEEDS VERIFICATION — yes/no, link to sign-off form]_
-
-**Overview**
-The Mega is a smaller desktop 70W CO2 laser, meant for smaller jobs or as a second machine when the Effi 16s is in use. It has a smaller bed and lower power than the Effi 16s, so it's better suited to smaller or lower-power engraving/cutting jobs rather than large sheet work. *[NEEDS VERIFICATION: this comparison is inferred from published specs, not from the training transcript — confirm with a shop lead which jobs should default to the Mega vs. the Effi 16s.]*
-
-**Key Specifications**
-
-| Spec | Value |
-|---|---|
-| Bed size | ~700–780 x 400–440 mm *[NEEDS VERIFICATION: exact bed size varies by Mega/Mega S listing — confirm on the physical unit]* |
-| Laser type/power | CO2, 70W |
-| Max material thickness | _[NEEDS VERIFICATION]_ |
-| Software/controller | Lightburn |
-
-**Basic Operating Steps**
-
-1. _[NEEDS VERIFICATION — likely mirrors the Effi 16s workflow below, but confirm keypad/homing differences]_
-2. 
-3. 
-
-**Manuals & Resources**
-
-- [ ] [Monport Mega product page](https://monportlaser.com/products/monport-mega-the-worlds-premier-70w-intelligent-desktop-engraving-machine)
-- [ ] Internal SOP / checklist (link) — *[NEEDS VERIFICATION: not yet created]*
 
 ## Software
 
@@ -103,23 +136,18 @@ The Mega is a smaller desktop 70W CO2 laser, meant for smaller jobs or as a seco
 
 ### Inkscape
 
-**Used for:** Optional vector design/cleanup before bringing artwork into Lightburn — useful if you want to build clean vector lines yourself rather than relying on Lightburn's image trace.
-**Access:** Free, open source. *[NEEDS VERIFICATION: confirm install location/link for shop computers.]*
-
-**Basic Workflow**
-_[NEEDS VERIFICATION — not covered in the training transcript. General pattern: design or clean up vectors in Inkscape → export/save as SVG → import that SVG into Lightburn instead of tracing a raster image.]_
+**Used for:** Common Vector Design Software — useful if you want to build clean vector lines yourself rather than relying on Lightburn's image trace.
+**Access:** Free, open source. 
 
 **Resources**
 
-- [ ] Getting-started guide (link) — *[NEEDS VERIFICATION]*
+- [ ] https://www.youtube.com/watch?v=tBRVsxmhyQg
 
 ## Materials
 
-There's no separate "Tool Settings" section on this page — the tool is always the laser, so power/speed/passes are documented together with the material they're for, in the settings library linked throughout this section.
-
 **What's generally safe to cut:** wood and wood composites (plywood, MDF, hardboard), paper and cardboard, acrylic/PMMA, and untreated or vegetable-tanned leather are all commonly laser-safe categories on this class of machine. "Generally safe" isn't the same as "already dialed in," though — check the settings library below for what's actually been tested on our machine versus what's just a reasonable starting point.
 
-**Settings library:** every proven and imported cut/engrave setting for the Effi 16s — MDF, plywood/hardboard, paper/cardboard, acrylic, leather, stamp rubber, and more — lives on its own page: **[Monport Effi 16S — Material & Settings Library](lasercutters-material-settings-effi16s.md)**. Always check there before assuming a setting for your material and thickness.
+**Material library:** every proven and imported cut/engrave setting for the Effi 16s — MDF, plywood/hardboard, paper/cardboard, acrylic, leather, stamp rubber, and more — lives on its own page: **[Monport Effi 16S — Material & Settings Library](lasercutters-material-settings-effi16s.md)**. Always check there before assuming a setting for your material and thickness.
 
 !!! danger "Never cut these materials"
     PVC/vinyl, ABS, polycarbonate, and other chlorinated or halogenated plastics — these release toxic chlorine gas/hydrochloric acid when laser-cut, even with ventilation running. Also avoid fiberglass, certain foams, HDPE, coniferous/oily woods, and any material of unknown composition. If you can't confirm what a material is made of, don't cut it — ask first.
@@ -153,14 +181,12 @@ If a material or thickness isn't in the settings library yet, don't guess at a s
 ## Safety
 
 !!! danger "Required before first use"
-    _[NEEDS VERIFICATION: confirm the certification/training requirement and sign-off process — the transcript only mentions a shared Lightburn login (`alt-makers-2026`), not a formal certification step.]_
 
-- **PPE:** Laser safety glasses rated for this laser's wavelength if operating with the lid open at any point; general good practice includes avoiding loose clothing/hair near the machine. *[NEEDS VERIFICATION]*
-- **Ventilation/exhaust:** The exhaust/air filter must be confirmed running before closing the lid and starting any job — this was called out explicitly as a pre-start checklist item during training.
-- **Fire safety:** Never leave the machine running unattended. A small amount of flame/smoke during cutting or engraving is normal (air assist blows it away from the beam path, and the fan pulls smoke out). If you see a large or sustained flame, open the lid immediately — this cuts power to the laser automatically, same as pressing emergency stop. Location of fire extinguisher: _[NEEDS VERIFICATION]_.
+- **PPE:** The lid of the lasercutter must be fully closed at all times when running the laser cutter.  
+- **Ventilation/exhaust:** The exhaust/air filter must be confirmed running before starting any job.
+- **Fire safety:** Never leave the machine running unattended. A small amount of flame/smoke during cutting or engraving is normal (air assist blows it away from the beam path, and the fan pulls smoke out). If you see a large or sustained flame, open the lid immediately — this cuts power to the laser automatically, same as pressing emergency stop. There are fire blankets on the wall next to the machine. The fire extinguisher should be considered an absolute last resort to keep the building from burning down.
 - **Material approval:** Always confirm a material is on the approved list (see Materials section) before cutting — never guess based on appearance.
-- **Emergency stop:** Twisting/releasing the emergency-stop switch also powers the machine on; pressing it (or simply opening the lid at any time) immediately halts the laser. Exact physical location on each machine: _[NEEDS VERIFICATION]_.
-- **Emergency procedures:** _[NEEDS VERIFICATION — who to contact, incident reporting process]_
+- **Emergency stop:** Twisting/releasing the emergency-stop switch also powers the machine on; pressing it (or simply opening the lid at any time) immediately halts the laser. 
 
 ## FAQ
 
@@ -168,7 +194,7 @@ If a material or thickness isn't in the settings library yet, don't guess at a s
 A: Check the Materials list above and the Lightburn material library first. If it's not listed, don't assume it's fine — get approval from a shop lead before cutting. Unknown-composition materials (and anything containing PVC/vinyl, ABS, or other chlorinated plastics) are never safe to cut, regardless of ventilation.
 
 **Q: What do I do if the laser doesn't fire / air assist doesn't turn on?**
-A: Check that the layer's **Output** toggle is on in the Cuts/Layers panel, that the lid is fully closed (an open lid disables firing), and that the machine's power/interlock is engaged. *[NEEDS VERIFICATION: this troubleshooting wasn't directly covered in the training transcript — confirm steps and add air-assist-specific checks, e.g. compressor/air line connection.]*
+A: Check that the layer's **Output** toggle is on in the Cuts/Layers panel, that the lid is fully closed (an open lid disables firing), that the key is turned on, and that the plugs going into the bridge controlling the machine are fully connected.
 
 **Q: Can I bring my own material?**
-A: _[NEEDS VERIFICATION — not addressed in the training transcript. As a general safety rule, any new/outside material should be checked against the Materials list and approved before use, since the main risk with laser cutters is toxic fumes from unknown plastics.]_
+A: Yes, as long as it is not something on the forbidden materials list you are welcome to cut your own material.  Plastics in Germany are required to be labelled when they are sold so you should be able to check whether there is something toxic or not.  Do not cut any material that you do not know what the contents of the material actually are.  Random plastics that you took out of some toy produced outside of the EU can contain very harmful chemicals when burning.

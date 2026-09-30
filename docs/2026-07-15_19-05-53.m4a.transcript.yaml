@@ -1,0 +1,5359 @@
+segments:
+-   speaker: Unknown
+    transcription: This interview should be in German, but if we all can speak English,
+        then is it okay if I do it in English?
+    start: 1.5
+    end: 9.2
+-   speaker: Unknown
+    transcription: ' Yes.'
+    start: 9.3
+    end: 9.5
+-   speaker: Unknown
+    transcription: ' Okay.'
+    start: 10.5
+    end: 10.7
+-   speaker: Unknown
+    transcription: ' There''s supposed to be three other people that are signed up.'
+    start: 11.1
+    end: 13.1
+-   speaker: Unknown
+    transcription: ' If they come and they want me to do it in German, then I will
+        switch to German.'
+    start: 13.2
+    end: 16.3
+-   speaker: Unknown
+    transcription: ' I''ve done it in German many times, but as you can probably hear,
+        German is not my native language.'
+    start: 17.0
+    end: 23.1
+-   speaker: Unknown
+    transcription: ' But we did want to make it split so that it switches every other
+        time, English and German, because'
+    start: 24.9
+    end: 32.1
+-   speaker: Unknown
+    transcription: ' Melody and I both used to be members at Happy Lab and we both
+        did the trainings and it was always difficult when you had a group of'
+    start: 34.3
+    end: 41.4
+-   speaker: Unknown
+    transcription: ' 13 people and one person cannot speak any English and one person
+        cannot speak any German and doing both, we wanted to split it.'
+    start: 42.0
+    end: 50.6
+-   speaker: Unknown
+    transcription: ' Everybody seems fairly confident.'
+    start: 52.1
+    end: 53.8
+-   speaker: Unknown
+    transcription: ' wiki.altmakers is going to be where we have all of the information.'
+    start: 56.5
+    end: 61.7
+-   speaker: Unknown
+    transcription: ' This is very rough, raw.'
+    start: 61.9
+    end: 64.4
+-   speaker: Unknown
+    transcription: ' I''m working on building it.'
+    start: 65.0
+    end: 66.5
+-   speaker: Unknown
+    transcription: ' So there''s not a lot.'
+    start: 66.9
+    end: 69.2
+-   speaker: Unknown
+    transcription: ' I do have some that I took from that and worked and built up.'
+    start: 70.5
+    end: 74.4
+-   speaker: Unknown
+    transcription: ' Ming-Lo and I did some recordings and did some and I will go
+        through and'
+    start: 77.2
+    end: 82.3
+-   speaker: Unknown
+    transcription: ' I just have here.'
+    start: 84.6
+    end: 85.4
+-   speaker: Unknown
+    transcription: ' I have done a little bit with the laser cutter, but'
+    start: 85.8
+    end: 89.6
+-   speaker: Unknown
+    transcription: If you see verification, various things, there is a lot here that
+        is just AI generated for the purpose of quick get down information to have
+        an outline.
+    start: 90.8
+    end: 102.9
+-   speaker: Unknown
+    transcription: ' And I will actually fill it in with the real information.'
+    start: 102.9
+    end: 105.4
+-   speaker: Unknown
+    transcription: ' I mean, it''s all right.'
+    start: 106.5
+    end: 107.6
+-   speaker: Unknown
+    transcription: ' I did a little transcribed recording with Melody explaining to
+        her the steps you need.'
+    start: 107.8
+    end: 113.4
+-   speaker: Unknown
+    transcription: ' Main thing is that the laser cutter is controlled with light
+        burn.'
+    start: 118.6
+    end: 124.3
+-   speaker: Unknown
+    transcription: ' Lightburn, the official license is on the computer next to the
+        machine.'
+    start: 126.4
+    end: 130.1
+-   speaker: Unknown
+    transcription: ' You can develop your design in whatever you would like.'
+    start: 131.0
+    end: 135.5
+-   speaker: Unknown
+    transcription: ' It used to be back in the day that laser cutters only understood
+        vector graphics, and it had to be a vector.'
+    start: 136.8
+    end: 144.6
+-   speaker: Unknown
+    transcription: ' That is no longer the case.'
+    start: 145.0
+    end: 146.9
+-   speaker: Unknown
+    transcription: ' You can take a bitmap or a PNG off of a website and put it into
+        Lightburn, and then it has a...'
+    start: 147.2
+    end: 158.0
+-   speaker: Unknown
+    transcription: ' Trace image function.'
+    start: 158.9
+    end: 160.4
+-   speaker: Unknown
+    transcription: ' It''s currently grayed out because there''s not an image there.'
+    start: 160.4
+    end: 162.4
+-   speaker: Unknown
+    transcription: ' And it will make the vectors that you need for you.'
+    start: 162.7
+    end: 165.8
+-   speaker: Unknown
+    transcription: ' So if I import...'
+    start: 165.9
+    end: 168.8
+-   speaker: Unknown
+    transcription: ' So the machine still operates on vectors, it''s just that the
+        software vectorize.'
+    start: 170.1
+    end: 175.4
+-   speaker: Unknown
+    transcription: ' Yeah, exactly.'
+    start: 175.6
+    end: 176.2
+-   speaker: Unknown
+    transcription: ' Yeah, it still works on vectors, but you don''t need to'
+    start: 176.4
+    end: 179.3
+-   speaker: Unknown
+    transcription: do your design in a vector graphic.
+    start: 181.4
+    end: 184.2
+-   speaker: Unknown
+    transcription: ' Let''s see, do I have anything?'
+    start: 184.3
+    end: 186.5
+-   speaker: Unknown
+    transcription: ' I did not bring my personal computer.'
+    start: 187.4
+    end: 189.4
+-   speaker: Unknown
+    transcription: ' I''ve been at my other job all day.'
+    start: 189.5
+    end: 191.2
+-   speaker: Unknown
+    transcription: ' This is my work computer.'
+    start: 191.2
+    end: 193.4
+-   speaker: Unknown
+    transcription: ' I was kind of hoping I had a random thing on here.'
+    start: 193.5
+    end: 196.8
+-   speaker: Unknown
+    transcription: ' Let''s go here, here.'
+    start: 197.3
+    end: 200.1
+-   speaker: Unknown
+    transcription: ' Come on, save image.'
+    start: 203.6
+    end: 204.4
+-   speaker: Unknown
+    transcription: ' Image save image as'
+    start: 206.8
+    end: 210.9
+-   speaker: Unknown
+    transcription: Desktop.
+    start: 213.536
+    end: 214.336
+-   speaker: Unknown
+    transcription: ' Save.'
+    start: 214.836
+    end: 215.536
+-   speaker: Unknown
+    transcription: ' Import desktop.'
+    start: 218.136
+    end: 219.736
+-   speaker: Unknown
+    transcription: ' Ah, an A-V-I-F?'
+    start: 222.336
+    end: 224.136
+-   speaker: Unknown
+    transcription: ' Okay, it won''t take everything.'
+    start: 224.336
+    end: 226.036
+-   speaker: Unknown
+    transcription: ' Then we''ll just go, I don''t know.'
+    start: 228.736
+    end: 231.036
+-   speaker: Unknown
+    transcription: ' I don''t know.'
+    start: 239.136
+    end: 239.836
+-   speaker: Unknown
+    transcription: ' PNG.'
+    start: 242.236
+    end: 242.836
+-   speaker: Unknown
+    transcription: Things like this are going to be easier for it to...
+    start: 255.644
+    end: 261.144
+-   speaker: Unknown
+    transcription: ' It''s not copy image.'
+    start: 261.644
+    end: 262.744
+-   speaker: Unknown
+    transcription: ' Okay, sure.'
+    start: 265.444
+    end: 266.044
+-   speaker: Unknown
+    transcription: ' So it puts it on here and then when you tell it to trace the
+        image, you have some settings for cutoff and transparency and threshold.'
+    start: 275.944
+    end: 288.544
+-   speaker: Unknown
+    transcription: ' You can generally just leave these alone and with an image like
+        this, you''ll get a perfectly fine trace.'
+    start: 289.044
+    end: 295.744
+-   speaker: Unknown
+    transcription: ' If you have something that is more complex with a whole bunch
+        of different colors, then you''ll have to mess around with threshold settings
+        to get what you would like out of it.'
+    start: 296.044
+    end: 307.044
+-   speaker: Unknown
+    transcription: ' Obviously, the crazier it is, the harder it is going to be for
+        it to interpret that.'
+    start: 307.744
+    end: 313.244
+-   speaker: Unknown
+    transcription: ' Pretty much needs to be black and white.'
+    start: 313.344
+    end: 314.944
+-   speaker: Unknown
+    transcription: ' Black and white is ideal, but it can take just about anything.'
+    start: 315.844
+    end: 320.244
+-   speaker: Unknown
+    transcription: ' So now you can see I have the actual image and then I have a
+        line drawing.'
+    start: 320.544
+    end: 324.644
+-   speaker: Unknown
+    transcription: ' If I hide the image, that is what it did.'
+    start: 324.744
+    end: 328.844
+-   speaker: Unknown
+    transcription: ' And it does it while it''s selected, it does it in the dotted
+        line.'
+    start: 330.544
+    end: 333.344
+-   speaker: Unknown
+    transcription: So with that, I can engrave and I can cut.
+    start: 333.544
+    end: 337.644
+-   speaker: Unknown
+    transcription: ' So literally just by downloading.'
+    start: 338.844
+    end: 340.344
+-   speaker: Unknown
+    transcription: ' So if you''re at home and you''re designing your own thing, you
+        can do this in Fusion.'
+    start: 342.244
+    end: 347.544
+-   speaker: Unknown
+    transcription: ' You can do this in Adobe AI.'
+    start: 347.544
+    end: 349.144
+-   speaker: Unknown
+    transcription: ' You can do this in Inkscape.'
+    start: 349.244
+    end: 350.544
+-   speaker: Unknown
+    transcription: ' You could do this in Photoshop, CorelDRAW, whatever you would
+        like.'
+    start: 350.544
+    end: 355.144
+-   speaker: Unknown
+    transcription: ' You just need to bring...'
+    start: 355.444
+    end: 357.244
+-   speaker: Unknown
+    transcription: ' Your file here, you can either use some cloud storage and log
+        in on the computer or bring a thumb drive and put the thumb drive into the
+        machine.'
+    start: 357.944
+    end: 366.944
+-   speaker: Unknown
+    transcription: ' Then as you see, you import it with this little icon on the top
+        left corner with the arrow.'
+    start: 368.244
+    end: 375.044
+-   speaker: Unknown
+    transcription: Let's make this a little bigger.
+    start: 377.036
+    end: 377.936
+-   speaker: Unknown
+    transcription: ' There we go.'
+    start: 377.936
+    end: 378.336
+-   speaker: Unknown
+    transcription: ' So that''s how you would import your file.'
+    start: 380.236
+    end: 382.036
+-   speaker: Unknown
+    transcription: ' If you have Lightburn, you can obviously open a Lightburn file
+        here, but in general, Lightburn costs for the core version, I think it''s
+        like 90 bucks or something.'
+    start: 383.436
+    end: 397.836
+-   speaker: Unknown
+    transcription: ' Like it''s not cheap.'
+    start: 397.936
+    end: 399.136
+-   speaker: Unknown
+    transcription: ' So you can just use our, we have the pro version, which is 200
+        bucks.'
+    start: 399.736
+    end: 403.336
+-   speaker: Unknown
+    transcription: ' And we did that so that members have the best full featured thing.'
+    start: 404.136
+    end: 407.436
+-   speaker: Unknown
+    transcription: ' And you can just do the design and then come here and plop it
+        in.'
+    start: 407.936
+    end: 410.536
+-   speaker: Unknown
+    transcription: ' And as you can see, it doesn''t take long to get set up.'
+    start: 410.636
+    end: 413.136
+-   speaker: Unknown
+    transcription: ' You have a few windows.'
+    start: 416.036
+    end: 419.636
+-   speaker: Unknown
+    transcription: ' This window in the middle represents the actual bed frame of
+        the laser.'
+    start: 419.736
+    end: 427.236
+-   speaker: Unknown
+    transcription: ' This, what I currently have on my machine, is a 30-day free trial
+        I put on my work machine.'
+    start: 429.536
+    end: 435.036
+-   speaker: Unknown
+    transcription: ' This is not representative of our actual laser cutter.'
+    start: 435.536
+    end: 439.236
+-   speaker: Unknown
+    transcription: ' I''ll show you, but the screen over there is much smaller.'
+    start: 439.236
+    end: 442.136
+-   speaker: Unknown
+    transcription: ' So right now, it''s just some generic machine, but this is automatically
+        selected over there.'
+    start: 442.836
+    end: 448.836
+-   speaker: Unknown
+    transcription: ' So in the bottom right-hand window is the laser.'
+    start: 449.236
+    end: 452.736
+-   speaker: Unknown
+    transcription: ' Design elements and I will show you a bit more of that on the
+        actual machine.'
+    start: 454.336
+    end: 460.036
+-   speaker: Unknown
+    transcription: ' The cut and layers, this is where you determine what you''re
+        doing with.'
+    start: 461.436
+    end: 465.136
+-   speaker: Unknown
+    transcription: This first one was the image we imported and we can't make any
+        changes on that because that's just a PNG image.
+    start: 466.036
+    end: 472.136
+-   speaker: Unknown
+    transcription: ' So after we trace it, now I have the possibility to choose between
+        line fill and offset fill.'
+    start: 472.636
+    end: 481.836
+-   speaker: Unknown
+    transcription: ' Line is Lightburn''s word for cut.'
+    start: 483.436
+    end: 486.436
+-   speaker: Unknown
+    transcription: ' So if you would like it to make cuts on those lines and you would
+        like to have this star shape cut out and these letters cut out, you leave
+        it on line.'
+    start: 486.636
+    end: 495.636
+-   speaker: Unknown
+    transcription: ' If you would like it to engrave, what Phil is going to do is
+        find the outermost closed'
+    start: 496.236
+    end: 505.536
+-   speaker: Unknown
+    transcription: ' line and then fill everything in unless it comes across another
+        closed line and then it will create that empty.'
+    start: 506.936
+    end: 516.536
+-   speaker: Unknown
+    transcription: ' So basically fill will engrave all of this area that''s inside
+        the star but it won''t fill inside the free because it just references okay
+        outside inside outside.'
+    start: 516.836
+    end: 530.636
+-   speaker: Unknown
+    transcription: ' But you have to know that it''s just choosing, starting from
+        your outermost closed whatever and going in from there.'
+    start: 532.636
+    end: 540.636
+-   speaker: Unknown
+    transcription: ' A lot of people leave the image showing and think that it somehow
+        reads that this is what it should be engraving.'
+    start: 541.136
+    end: 547.636
+-   speaker: Unknown
+    transcription: ' No, it''s based on that outline.'
+    start: 547.836
+    end: 550.436
+-   speaker: Unknown
+    transcription: ' And then offset fill would do the reverse.'
+    start: 551.636
+    end: 554.436
+-   speaker: Unknown
+    transcription: Offset fill would then actually fill in the free, leave the star
+        shape empty, and in theory, it would fill out the entire
+    start: 555.636
+    end: 567.636
+-   speaker: Unknown
+    transcription: ' laser bed unless you enclosed it in something else.'
+    start: 568.636
+    end: 571.736
+-   speaker: Unknown
+    transcription: ' So you would need to have another line in here.'
+    start: 571.736
+    end: 573.936
+-   speaker: Unknown
+    transcription: ' So if I wanted to do something like that, I would then take one
+        of the drawing tools here and draw something around it.'
+    start: 574.536
+    end: 583.936
+-   speaker: Unknown
+    transcription: ' And then the position here is the position on the bed.'
+    start: 587.936
+    end: 593.536
+-   speaker: Unknown
+    transcription: ' So if I have this selected and I see the center is 214 and 113,
+        then I can select this and tell it I want this to be 214 and 113.'
+    start: 593.736
+    end: 607.036
+-   speaker: Unknown
+    transcription: except that it decides to be nine.
+    start: 613.036
+    end: 615.736
+-   speaker: Unknown
+    transcription: ' What?'
+    start: 616.236
+    end: 616.536
+-   speaker: Unknown
+    transcription: ' What?'
+    start: 618.736
+    end: 619.136
+-   speaker: Unknown
+    transcription: ' I don''t know why I did that.'
+    start: 620.036
+    end: 621.036
+-   speaker: Unknown
+    transcription: ' Position, not the width and height.'
+    start: 621.436
+    end: 623.136
+-   speaker: Unknown
+    transcription: ' Yeah, but no, I want it to be the position.'
+    start: 623.636
+    end: 625.136
+-   speaker: Unknown
+    transcription: ' But I typed in 214, 214, enter, 9.'
+    start: 625.736
+    end: 632.536
+-   speaker: Unknown
+    transcription: ' Okay.'
+    start: 634.836
+    end: 635.136
+-   speaker: Unknown
+    transcription: ' It''s okay?'
+    start: 637.136
+    end: 637.436
+-   speaker: Unknown
+    transcription: I have done this before on our actual program and it works just
+        fine.
+    start: 639.868
+    end: 644.968
+-   speaker: Unknown
+    transcription: ' I think this is some weird thing about the dummy machine that
+        doesn''t actually exist.'
+    start: 645.268
+    end: 649.868
+-   speaker: Unknown
+    transcription: ' So sorry that''s not doing exactly what I expect.'
+    start: 649.968
+    end: 652.968
+-   speaker: Unknown
+    transcription: ' But that''s how I would line up things that I''ve drawn on here.'
+    start: 653.168
+    end: 655.568
+-   speaker: Unknown
+    transcription: ' If you don''t like the specific shape of the box, there''s different
+        features like you can add radius to the corners.'
+    start: 660.268
+    end: 669.368
+-   speaker: Unknown
+    transcription: ' I have no idea now it''s just up 500.'
+    start: 670.468
+    end: 672.568
+-   speaker: Unknown
+    transcription: ' Let''s try 10.'
+    start: 674.468
+    end: 675.368
+-   speaker: Unknown
+    transcription: ' Yes, it will accept that.'
+    start: 675.768
+    end: 676.668
+-   speaker: Unknown
+    transcription: ' And so here, while I have this tool selected, I can'
+    start: 676.968
+    end: 680.468
+-   speaker: Unknown
+    transcription: ' Choose the corner.'
+    start: 684.068
+    end: 684.868
+-   speaker: Unknown
+    transcription: Oh, now it's doing 960.
+    start: 687.572
+    end: 689.172
+-   speaker: Unknown
+    transcription: ' Why?'
+    start: 689.372
+    end: 690.072
+-   speaker: Unknown
+    transcription: ' What is up with this?'
+    start: 691.372
+    end: 692.272
+-   speaker: Unknown
+    transcription: ' 100.'
+    start: 695.372
+    end: 695.972
+-   speaker: Unknown
+    transcription: ' I have no idea what''s going on.'
+    start: 698.672
+    end: 700.572
+-   speaker: Unknown
+    transcription: ' Every time I step away from it, it does something weird.'
+    start: 702.472
+    end: 704.872
+-   speaker: Unknown
+    transcription: ' Is this doing something weird?'
+    start: 705.472
+    end: 706.772
+-   speaker: Unknown
+    transcription: ' Five.'
+    start: 708.872
+    end: 709.372
+-   speaker: Unknown
+    transcription: ' Yes, five, enter.'
+    start: 711.072
+    end: 712.772
+-   speaker: Unknown
+    transcription: ' Click on corner.'
+    start: 714.272
+    end: 715.372
+-   speaker: Unknown
+    transcription: ' 500.'
+    start: 716.372
+    end: 716.972
+-   speaker: Unknown
+    transcription: Have you tried typing enter?
+    start: 720.528
+    end: 722.328
+-   speaker: Unknown
+    transcription: ' Five.'
+    start: 727.128
+    end: 727.628
+-   speaker: Unknown
+    transcription: ' Enter.'
+    start: 728.428
+    end: 728.928
+-   speaker: Unknown
+    transcription: ' It makes 500 million.'
+    start: 730.528
+    end: 732.828
+-   speaker: Unknown
+    transcription: ' 5.0.'
+    start: 734.828
+    end: 736.628
+-   speaker: Unknown
+    transcription: ' Whoops.'
+    start: 736.728
+    end: 737.028
+-   speaker: Unknown
+    transcription: ' And then it jumps to 500.'
+    start: 747.528
+    end: 748.928
+-   speaker: Unknown
+    transcription: I don't know what this is doing.
+    start: 751.464
+    end: 752.964
+-   speaker: Unknown
+    transcription: ' Okay.'
+    start: 756.864
+    end: 757.064
+-   speaker: Unknown
+    transcription: ' I can show you when we''re doing it on the actual laser, when
+        I do an actual example, this dummy program is causing me grief.'
+    start: 760.264
+    end: 766.764
+-   speaker: Unknown
+    transcription: ' But one of the things that I would recommend is doing a full
+        design on a actual dedicated design software and then importing it into Lightburn
+        and not trying to do, as I''m doing right now, your actual design.'
+    start: 767.464
+    end: 782.264
+-   speaker: Unknown
+    transcription: ' This radius function on the machine works really well.'
+    start: 783.064
+    end: 786.164
+-   speaker: Unknown
+    transcription: ' And so occasionally you do want to put a circle or put a square
+        around something that''s not in your design.'
+    start: 786.164
+    end: 792.364
+-   speaker: Unknown
+    transcription: ' And I promise it doesn''t look as bad as what I''m doing right
+        now.'
+    start: 793.064
+    end: 796.064
+-   speaker: Unknown
+    transcription: ' One question.'
+    start: 796.364
+    end: 796.864
+-   speaker: Unknown
+    transcription: ' Like, what''s the minimum, like,'
+    start: 797.664
+    end: 799.364
+-   speaker: Unknown
+    transcription: So the laser is 0.15 millimeters of burn.
+    start: 804.864
+    end: 811.764
+-   speaker: Unknown
+    transcription: ' So when you are doing your engraving, so let''s switch this over
+        to fill.'
+    start: 812.464
+    end: 819.664
+-   speaker: Unknown
+    transcription: ' We''re going to get rid of this line by deleting.'
+    start: 821.264
+    end: 825.164
+-   speaker: Unknown
+    transcription: ' So if I double click in the cuts and layers, so sorry, there
+        is usually four tabs over here.'
+    start: 827.964
+    end: 838.164
+-   speaker: Unknown
+    transcription: ' The one that is missing is the move.'
+    start: 838.464
+    end: 839.964
+-   speaker: Unknown
+    transcription: The one that is missing is the move tab, and that is only available
+        when there's a laser cutter connected to it because it moves the laser head
+        around.
+    start: 838.5
+    end: 846.3
+-   speaker: Unknown
+    transcription: ' The cameras will show a camera image of the inside of the laser
+        cutter.'
+    start: 848.2
+    end: 854.4
+-   speaker: Unknown
+    transcription: ' I have the camera.'
+    start: 854.7
+    end: 855.7
+-   speaker: Unknown
+    transcription: ' I have not yet mounted it.'
+    start: 856.0
+    end: 857.5
+-   speaker: Unknown
+    transcription: ' It will be mounted this weekend.'
+    start: 857.6
+    end: 860.6
+-   speaker: Unknown
+    transcription: ' And the variable text, this is not, this is an additional text
+        you can add, but that is not usually what people want.'
+    start: 863.5
+    end: 874.9
+-   speaker: Unknown
+    transcription: ' That works really well for doing test cuts and things.'
+    start: 875.0
+    end: 878.1
+-   speaker: Unknown
+    transcription: ' So cuts and layers, if I double click on the, so I get rid of
+        the image in the background and I double click on this, here is where we get
+        into the settings for what it''s going to do.'
+    start: 879.0
+    end: 891.4
+-   speaker: Unknown
+    transcription: ' If I need to cut through material,'
+    start: 892.6
+    end: 895.4
+-   speaker: Unknown
+    transcription: ' then it depends on the thickness of my material.'
+    start: 898.0
+    end: 900.9
+-   speaker: Unknown
+    transcription: ' And this is going to be something that, again, would normally
+        be kept in the material library.'
+    start: 901.4
+    end: 908.6
+-   speaker: Unknown
+    transcription: ' I have not yet even managed to upload the material library on
+        that machine, but I do know that'
+    start: 909.0
+    end: 915.9
+-   speaker: Unknown
+    transcription: Monport.
+    start: 922.176
+    end: 923.576
+-   speaker: Unknown
+    transcription: ' Nope, that''s the middle one.'
+    start: 941.776
+    end: 943.076
+-   speaker: Unknown
+    transcription: ' Where is it?'
+    start: 943.376
+    end: 944.176
+-   speaker: Unknown
+    transcription: No, that's not it.
+    start: 992.504
+    end: 993.404
+-   speaker: Unknown
+    transcription: ' Software downloads, back-end documentation, setting parameters.'
+    start: 998.404
+    end: 1002.804
+-   speaker: Unknown
+    transcription: ' So if you are cutting through plywood, annoyingly, Monport publishes
+        the thicknesses in imperial, but then gives the actual settings here.'
+    start: 1009.904
+    end: 1022.304
+-   speaker: Unknown
+    transcription: ' But a quarter of an inch is going to be close to a four millimeter
+        thick board.'
+    start: 1022.804
+    end: 1030.504
+-   speaker: Unknown
+    transcription: ' Just doing quick.'
+    start: 1032.004
+    end: 1032.804
+-   speaker: Unknown
+    transcription: ' So if I use these settings, I should be able to get through my
+        four millimeter thick MDF.'
+    start: 1032.904
+    end: 1039.404
+-   speaker: Unknown
+    transcription: ' So these settings, I have run tests and I am building the library,
+        but every single machine needs to have tested on the material.'
+    start: 1039.904
+    end: 1048.804
+-   speaker: Unknown
+    transcription: I have not completed finishing that.
+    start: 1052.856
+    end: 1054.656
+-   speaker: Unknown
+    transcription: ' Here is just good list.'
+    start: 1055.156
+    end: 1058.056
+-   speaker: Unknown
+    transcription: ' You have acrylic settings and leather.'
+    start: 1058.156
+    end: 1063.556
+-   speaker: Unknown
+    transcription: ' These are cutting settings.'
+    start: 1064.256
+    end: 1065.856
+-   speaker: Unknown
+    transcription: ' And then here down here is suggested engraving settings for different
+        materials.'
+    start: 1065.956
+    end: 1070.556
+-   speaker: Unknown
+    transcription: ' So wood, glass, leather, faux leather, stone.'
+    start: 1072.756
+    end: 1075.956
+-   speaker: Unknown
+    transcription: ' So it says like how far it can go into material, right?'
+    start: 1077.656
+    end: 1082.656
+-   speaker: Unknown
+    transcription: ' So it doesn''t say that specifically.'
+    start: 1083.756
+    end: 1088.656
+-   speaker: Unknown
+    transcription: ' This just shows you what a good middle setting would be to not
+        overly burn your material and to make a decent engraving.'
+    start: 1088.756
+    end: 1097.7559999999999
+-   speaker: Unknown
+    transcription: ' I''ll be right back.'
+    start: 1097.9560000000001
+    end: 1098.9560000000001
+-   speaker: Unknown
+    transcription: ' I''ll show you an example of what I mean.'
+    start: 1099.156
+    end: 1100.656
+-   speaker: Unknown
+    transcription: So this is what I mean by setting up material tests.
+    start: 1125.964
+    end: 1128.964
+-   speaker: Unknown
+    transcription: ' If I move too slowly with too much power, I''m going to burn
+        my wood.'
+    start: 1129.464
+    end: 1135.064
+-   speaker: Unknown
+    transcription: ' If I move too quickly with too little power, it won''t really
+        mark the wood.'
+    start: 1135.7640000000001
+    end: 1140.7640000000001
+-   speaker: Unknown
+    transcription: ' So I want to find a middle ground where I am getting depth'
+    start: 1141.164
+    end: 1145.2640000000001
+-   speaker: Unknown
+    transcription: ' into the woods so that I can see the erasing.'
+    start: 1146.2640000000001
+    end: 1148.364
+-   speaker: Unknown
+    transcription: ' And then it''s a matter of taste.'
+    start: 1148.664
+    end: 1150.664
+-   speaker: Unknown
+    transcription: ' You might want it to be a little bit brown.'
+    start: 1151.064
+    end: 1153.364
+-   speaker: Unknown
+    transcription: ' You might want it to not have any color differentiation.'
+    start: 1154.164
+    end: 1157.364
+-   speaker: Unknown
+    transcription: ' You''re just trying to remove a layer.'
+    start: 1157.464
+    end: 1158.964
+-   speaker: Unknown
+    transcription: ' So that''s why having little test blocks like this, so you can
+        see that the setting, if I put it at'
+    start: 1159.564
+    end: 1165.564
+-   speaker: Unknown
+    transcription: ' 310 and 19% power, I get a fairly deep engraving with a little
+        bit of darkness.'
+    start: 1166.464
+    end: 1175.964
+-   speaker: Unknown
+    transcription: ' Yes.'
+    start: 1177.064
+    end: 1177.2640000000001
+-   speaker: Unknown
+    transcription: ' This is birch plywood, Berica Multiflex.'
+    start: 1178.164
+    end: 1183.964
+-   speaker: Unknown
+    transcription: ' So basically the table over there is in one of the fields.'
+    start: 1185.7640000000001
+    end: 1188.664
+-   speaker: Unknown
+    transcription: ' So they just pick a default value, which'
+    start: 1188.664
+    end: 1190.564
+-   speaker: Unknown
+    transcription: Yes, that gives it.
+    start: 1191.564
+    end: 1192.2640000000001
+-   speaker: Unknown
+    transcription: ' So what I do when I do the material tests is I look at what they
+        suggest.'
+    start: 1192.364
+    end: 1199.564
+-   speaker: Unknown
+    transcription: ' I use that as approximately my middle value, what I want to be
+        in the center of this.'
+    start: 1200.2640000000001
+    end: 1207.7640000000001
+-   speaker: Unknown
+    transcription: ' And then I see what it looks like a little bit to the faster,
+        a little bit to the slower, a little bit to the more power, a little bit to
+        the less power.'
+    start: 1207.964
+    end: 1215.2640000000001
+-   speaker: Unknown
+    transcription: ' And the settings then go in the library?'
+    start: 1215.964
+    end: 1218.064
+-   speaker: Unknown
+    transcription: ' Yeah, then that will be saved in the material library, and then
+        that will give you a general start point.'
+    start: 1218.064
+    end: 1223.364
+-   speaker: Unknown
+    transcription: ' And then with these blocks sitting back there, you will be able
+        to see what it is that I, like, what that should end up looking like.'
+    start: 1223.364
+    end: 1232.2640000000001
+-   speaker: Unknown
+    transcription: ' Is there like a window where you open it and it looks like the
+        same?'
+    start: 1233.964
+    end: 1236.964
+-   speaker: Unknown
+    transcription: ' Yes, so if you have brought your own material that doesn''t exist
+        in the material library at all,'
+    start: 1237.964
+    end: 1245.564
+-   speaker: Unknown
+    transcription: ' you can do your own tests by opening the laser tool menu and
+        going to material test.'
+    start: 1246.864
+    end: 1254.2640000000001
+-   speaker: Unknown
+    transcription: ' And then you put your settings.'
+    start: 1256.064
+    end: 1257.664
+-   speaker: Unknown
+    transcription: ' So this is a 10 by 10 block.'
+    start: 1257.964
+    end: 1261.164
+-   speaker: Unknown
+    transcription: ' And that''s because this was, I mean, I did it on this one just
+        because I really wanted to see this was the first one I did.'
+    start: 1261.7640000000001
+    end: 1267.964
+-   speaker: Unknown
+    transcription: ' This one, it''s because there is two layers I''m dealing with.'
+    start: 1268.464
+    end: 1272.564
+-   speaker: Unknown
+    transcription: ' I have the coded layer and then the MDF layer.'
+    start: 1272.664
+    end: 1275.064
+-   speaker: Unknown
+    transcription: ' So I needed a lot.'
+    start: 1275.064
+    end: 1276.064
+-   speaker: Unknown
+    transcription: ' But oftentimes you really only need to test about five variables.'
+    start: 1276.664
+    end: 1280.864
+-   speaker: Unknown
+    transcription: because you will get that.
+    start: 1280.864
+    end: 1282.464
+-   speaker: Unknown
+    transcription: ' When you get that amount of difference with just those small
+        amounts of settings, you don''t need to spend the amount of time doing a full
+        10 by 10 block.'
+    start: 1282.7640000000001
+    end: 1293.364
+-   speaker: Unknown
+    transcription: ' So.'
+    start: 1293.964
+    end: 1294.164
+-   speaker: Unknown
+    transcription: ' So this is like a fact, it''s simple.'
+    start: 1294.364
+    end: 1295.864
+-   speaker: Unknown
+    transcription: ' How much, how long does it take to like, box me?'
+    start: 1296.164
+    end: 1298.564
+-   speaker: Unknown
+    transcription: ' Uh, definitely depends on the material.'
+    start: 1299.464
+    end: 1302.364
+-   speaker: Unknown
+    transcription: ' So like this was, this took,'
+    start: 1302.964
+    end: 1305.464
+-   speaker: Unknown
+    transcription: ' Seven minutes, five minutes, something like that.'
+    start: 1308.964
+    end: 1311.464
+-   speaker: Unknown
+    transcription: ' Not a lot.'
+    start: 1311.564
+    end: 1312.064
+-   speaker: Unknown
+    transcription: ' No, because you have to think about that the setting here is
+        low and here 400.'
+    start: 1316.364
+    end: 1323.364
+-   speaker: Unknown
+    transcription: ' Like this is sitting there going.'
+    start: 1323.464
+    end: 1324.564
+-   speaker: Unknown
+    transcription: ' So like it also depends on what the material is.'
+    start: 1326.064
+    end: 1329.564
+-   speaker: Unknown
+    transcription: ' Some materials you''re going to want to cut or engrave really
+        quickly because you don''t want it to blacken.'
+    start: 1329.564
+    end: 1334.864
+-   speaker: Unknown
+    transcription: ' That are thicker and harder, you''re going to have to move really
+        slowly.'
+    start: 1336.164
+    end: 1341.164
+-   speaker: Unknown
+    transcription: ' And so then it just takes time.'
+    start: 1341.2640000000001
+    end: 1342.2640000000001
+-   speaker: Unknown
+    transcription: ' Is it a little bit more about what materials are safe to use
+        in this?'
+    start: 1342.664
+    end: 1346.164
+-   speaker: Unknown
+    transcription: ' Yes.'
+    start: 1347.664
+    end: 1348.2640000000001
+-   speaker: Unknown
+    transcription: ' I have not actually published that yet, but let me just refer
+        to you to our competitors.'
+    start: 1349.364
+    end: 1356.864
+-   speaker: Unknown
+    transcription: So Happy Lab is the makerspace that is in Neukolln that Melody
+        and I were both members of and taught at and where we learned a lot of the
+        things that we know about these various things.
+    start: 1365.4360000000001
+    end: 1375.636
+-   speaker: Unknown
+    transcription: ' We are still members there.'
+    start: 1376.336
+    end: 1377.4360000000001
+-   speaker: Unknown
+    transcription: ' We are still friends with them.'
+    start: 1377.636
+    end: 1379.036
+-   speaker: Unknown
+    transcription: ' Their wiki is more filled out.'
+    start: 1379.636
+    end: 1382.036
+-   speaker: Unknown
+    transcription: ' And the niche diagnostic material for laser is I''m pretty much
+        going to copy that from them.'
+    start: 1383.536
+    end: 1390.4360000000001
+-   speaker: Unknown
+    transcription: ' So the number one important thing is do not cut PVC or any PVC
+        derivative on a laser cutter.'
+    start: 1390.9360000000001
+    end: 1399.836
+-   speaker: Unknown
+    transcription: ' It creates chlorine gas that is poisonous to you.'
+    start: 1399.9360000000001
+    end: 1403.636
+-   speaker: Unknown
+    transcription: ' Please don''t kill yourself in our makerspace.'
+    start: 1403.7359999999999
+    end: 1406.7359999999999
+-   speaker: Unknown
+    transcription: ' These other, CR is neoprene, what you wear as a wetsuit when
+        you''re going scuba diving, you can''t cut that.'
+    start: 1409.036
+    end: 1416.2359999999999
+-   speaker: Unknown
+    transcription: ' These others are derivative plastics.'
+    start: 1418.036
+    end: 1422.036
+-   speaker: Unknown
+    transcription: ' PTFE is Teflon, what you put in, what''s on the bottom of your
+        pan, you can''t engrave your non-stick pan.'
+    start: 1422.636
+    end: 1429.836
+-   speaker: Unknown
+    transcription: ' With these chemicals, you''re not going to run across them very
+        often, but in Germany, if you are sold a plastic, that plastic must have a
+        delineation of what is in it.'
+    start: 1432.036
+    end: 1443.836
+-   speaker: Unknown
+    transcription: ' So if you are ever in doubt, there should be a sticker on it
+        that tells you.'
+    start: 1444.336
+    end: 1449.136
+-   speaker: Unknown
+    transcription: you what's there and you can double check.
+    start: 1449.136
+    end: 1451.336
+-   speaker: Unknown
+    transcription: ' I will have this list up this weekend as well.'
+    start: 1451.9360000000001
+    end: 1454.636
+-   speaker: Unknown
+    transcription: ' Yes, if you get random thing on AliExpress, random plastic, please
+        don''t get it here.'
+    start: 1459.336
+    end: 1463.9360000000001
+-   speaker: Unknown
+    transcription: ' The other thing that surprises a lot of people is latex.'
+    start: 1467.4360000000001
+    end: 1470.036
+-   speaker: Unknown
+    transcription: ' Latex is a perfectly natural thing, but it creates a very sticky
+        black smoke.'
+    start: 1471.636
+    end: 1475.536
+-   speaker: Unknown
+    transcription: ' And that is therefore very difficult for me to clean off of the
+        laser lens.'
+    start: 1476.136
+    end: 1480.036
+-   speaker: Unknown
+    transcription: ' And one of the things in order for the laser to have consistent
+        power is that I need to regularly clean the lens because, yes, it''s a smoky,
+        dusty environment.'
+    start: 1480.7359999999999
+    end: 1489.636
+-   speaker: Unknown
+    transcription: ' And that is going to cling to the lens.'
+    start: 1490.036
+    end: 1491.836
+-   speaker: Unknown
+    transcription: ' And the more that is on there, the less powerful the machine
+        will be.'
+    start: 1491.836
+    end: 1496.136
+-   speaker: Unknown
+    transcription: ' And you will start to notice it does happen.'
+    start: 1496.2359999999999
+    end: 1498.836
+-   speaker: Unknown
+    transcription: ' I can''t be here all the time cleaning it all the time.'
+    start: 1500.536
+    end: 1502.7359999999999
+-   speaker: Unknown
+    transcription: ' Cleaning it once a day is usually sufficient.'
+    start: 1503.336
+    end: 1505.4360000000001
+-   speaker: Unknown
+    transcription: ' But if you are here on late Sunday night and I haven''t been
+        here on the weekend and you are doing some big project, you will probably
+        notice that there is a difference'
+    start: 1505.9360000000001
+    end: 1518.836
+-   speaker: Unknown
+    transcription: ' of the power when you begin and when you end.'
+    start: 1519.4360000000001
+    end: 1522.136
+-   speaker: Unknown
+    transcription: I don't know what's happened there, but okay.
+    start: 1526.0639999999999
+    end: 1528.364
+-   speaker: Unknown
+    transcription: ' Anyway, so that covers what you can''t do.'
+    start: 1530.664
+    end: 1533.0639999999999
+-   speaker: Unknown
+    transcription: ' So in order to do this quick, you would, if you were doing your
+        tests, if you set five, five, what was the settings that it was offering?'
+    start: 1534.5639999999999
+    end: 1545.864
+-   speaker: Unknown
+    transcription: ' Where were we?'
+    start: 1545.964
+    end: 1546.5639999999999
+-   speaker: Unknown
+    transcription: ' Oh, did I change Windows?'
+    start: 1546.964
+    end: 1549.464
+-   speaker: Unknown
+    transcription: ' No, where was that?'
+    start: 1550.664
+    end: 1551.964
+-   speaker: Unknown
+    transcription: ' Let me scrag this with a pin here.'
+    start: 1552.964
+    end: 1554.464
+-   speaker: Unknown
+    transcription: So what I would do is I would take the setting of nine millimeters
+        a second and 26% power.
+    start: 1559.7759999999998
+    end: 1566.876
+-   speaker: Unknown
+    transcription: ' And then I go in here and the parameter is speed.'
+    start: 1568.076
+    end: 1573.176
+-   speaker: Unknown
+    transcription: ' So my lowest one, I would want to be five.'
+    start: 1573.476
+    end: 1576.876
+-   speaker: Unknown
+    transcription: ' It''s not 55.'
+    start: 1577.376
+    end: 1578.176
+-   speaker: Unknown
+    transcription: ' And my'
+    start: 1579.576
+    end: 1580.7759999999998
+-   speaker: Unknown
+    transcription: ' This thing is jumping?'
+    start: 1584.576
+    end: 1585.376
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 1585.576
+    end: 1585.876
+-   speaker: Unknown
+    transcription: ' I do not understand.'
+    start: 1587.2759999999998
+    end: 1588.7759999999998
+-   speaker: Unknown
+    transcription: ' Probably need a machine or something that understands the acceptance
+        somewhere.'
+    start: 1589.7759999999998
+    end: 1594.176
+-   speaker: Unknown
+    transcription: ' I could imagine.'
+    start: 1594.976
+    end: 1595.676
+-   speaker: Unknown
+    transcription: ' But anyways, you would put in the numbers.'
+    start: 1597.376
+    end: 1598.876
+-   speaker: Unknown
+    transcription: ' You would start a little bit below and a little bit above.'
+    start: 1598.876
+    end: 1601.976
+-   speaker: Unknown
+    transcription: ' Same thing with power.'
+    start: 1602.476
+    end: 1603.576
+-   speaker: Unknown
+    transcription: ' You would not do 10 to 100%.'
+    start: 1603.976
+    end: 1606.176
+-   speaker: Unknown
+    transcription: ' 100% is insane.'
+    start: 1606.376
+    end: 1607.576
+-   speaker: Unknown
+    transcription: ' Also, please don''t ever do 100% on the machine.'
+    start: 1608.176
+    end: 1611.176
+-   speaker: Unknown
+    transcription: ' This is a 150-watt laser.'
+    start: 1611.476
+    end: 1613.176
+-   speaker: Unknown
+    transcription: ' It will cut through very thick material.'
+    start: 1613.476
+    end: 1615.376
+-   speaker: Unknown
+    transcription: ' The laser tube is a piece of glass that is this big that is the
+        entire length of the machine, and it is expensive.'
+    start: 1616.476
+    end: 1625.476
+-   speaker: Unknown
+    transcription: ' If we keep it at 70% power, you will get through probably this
+        thickness of table.'
+    start: 1625.976
+    end: 1634.476
+-   speaker: Unknown
+    transcription: ' And it will save the life of the laser and it will last a lot
+        longer.'
+    start: 1636.676
+    end: 1640.7759999999998
+-   speaker: Unknown
+    transcription: ' If you are constantly jacking this thing up to 100% power,'
+    start: 1641.076
+    end: 1644.976
+-   speaker: Unknown
+    transcription: to say so that you can do it as fast as possible to save your time,
+        my laser will pop and I will have to increase the cost of using the laser
+        because I need to replace it more often.
+    start: 1645.376
+    end: 1657.176
+-   speaker: Unknown
+    transcription: ' So 70% please max power ever, but obviously if it''s suggesting
+        26, then I would do this from 20 to 30.'
+    start: 1658.476
+    end: 1667.076
+-   speaker: Unknown
+    transcription: ' As the suggestions.'
+    start: 1668.076
+    end: 1668.876
+-   speaker: Unknown
+    transcription: ' Let''s see what happens if I put 30 here.'
+    start: 1668.976
+    end: 1671.076
+-   speaker: Unknown
+    transcription: ' Does it say 3000?'
+    start: 1671.476
+    end: 1672.576
+-   speaker: Unknown
+    transcription: ' Oh, wait, no.'
+    start: 1673.876
+    end: 1674.576
+-   speaker: Unknown
+    transcription: I would actually stay at 30%.
+    start: 1676.7
+    end: 1678.2
+-   speaker: Unknown
+    transcription: ' So, um,'
+    start: 1679.2
+    end: 1680.4
+-   speaker: Unknown
+    transcription: ' You can do a preview and it would show you what it''s doing.'
+    start: 1683.4
+    end: 1687.7
+-   speaker: Unknown
+    transcription: ' And it shouldn''t.'
+    start: 1687.9
+    end: 1688.7
+-   speaker: Unknown
+    transcription: ' Ah, okay.'
+    start: 1689.2
+    end: 1689.7
+-   speaker: Unknown
+    transcription: ' What''s in red is what it is moving.'
+    start: 1691.1
+    end: 1694.1
+-   speaker: Unknown
+    transcription: ' And what is in black is it says cut, but that would be just means
+        the laser is on.'
+    start: 1694.6
+    end: 1700.0
+-   speaker: Unknown
+    transcription: ' So when you look at the preview, it looks kind of garbled, but
+        that''s just because this is the, if I turn off the transal moves, then you
+        see what it actually looks like.'
+    start: 1700.4
+    end: 1711.7
+-   speaker: Unknown
+    transcription: and you can actually press play and it will show you what it does.
+    start: 1714.58
+    end: 1719.28
+-   speaker: Unknown
+    transcription: ' Is that what percentage of speed is that?'
+    start: 1725.38
+    end: 1727.28
+-   speaker: Unknown
+    transcription: ' Yes, so that is at one time speed.'
+    start: 1727.68
+    end: 1729.58
+-   speaker: Unknown
+    transcription: ' So that would be how fast this takes to do this block.'
+    start: 1729.68
+    end: 1732.38
+-   speaker: Unknown
+    transcription: ' Five minutes to beat this whole thing.'
+    start: 1738.28
+    end: 1740.28
+-   speaker: Unknown
+    transcription: ' I mean, this looks like it''s going to be about two minutes.'
+    start: 1741.18
+    end: 1743.28
+-   speaker: Unknown
+    transcription: ' The total time estimated is five.'
+    start: 1744.18
+    end: 1746.08
+-   speaker: Unknown
+    transcription: ' Okay, yeah, five.'
+    start: 1746.38
+    end: 1747.48
+-   speaker: Unknown
+    transcription: ' But if you want to just double check your preview that it''s
+        looking all right throughout the whole thing, you can jack it up to 20% on
+        the preview, obviously.'
+    start: 1749.68
+    end: 1757.18
+-   speaker: Unknown
+    transcription: But you can see down here it's getting much slower.
+    start: 1760.52
+    end: 1763.52
+-   speaker: Unknown
+    transcription: ' Okay.'
+    start: 1765.72
+    end: 1765.92
+-   speaker: Unknown
+    transcription: ' Also, the amount that it travels off to the side, that''s because
+        the max setting is at 18,000.'
+    start: 1767.42
+    end: 1774.02
+-   speaker: Unknown
+    transcription: ' So it doesn''t have, when it''s moving that fast, it doesn''t
+        have a good break.'
+    start: 1774.12
+    end: 1778.12
+-   speaker: Unknown
+    transcription: ' So it would have to travel and it would just make sure that it''s
+        turning on when it''s above that thing.'
+    start: 1778.62
+    end: 1783.12
+-   speaker: Unknown
+    transcription: ' So that''s how you do material tests.'
+    start: 1784.32
+    end: 1785.92
+-   speaker: Unknown
+    transcription: ' You can do the same thing for cut tests.'
+    start: 1786.92
+    end: 1790.32
+-   speaker: Unknown
+    transcription: ' So where is that?'
+    start: 1792.52
+    end: 1794.52
+-   speaker: Unknown
+    transcription: Okay, cut test might exist only in the pro version on the actual
+        machine.
+    start: 1805.396
+    end: 1809.496
+-   speaker: Unknown
+    transcription: ' What is it about?'
+    start: 1811.296
+    end: 1811.996
+-   speaker: Unknown
+    transcription: ' Is it about the depth that you''re cutting?'
+    start: 1812.096
+    end: 1814.696
+-   speaker: Unknown
+    transcription: ' No, you need to set a certain power and speed of how you''re
+        getting through.'
+    start: 1815.396
+    end: 1818.796
+-   speaker: Unknown
+    transcription: ' So also, one of the things is this laser has automatic focus,
+        but the automatic focus is on top of the piece.'
+    start: 1818.896
+    end: 1827.696
+-   speaker: Unknown
+    transcription: ' When you are cutting thin material, that''s what you want to
+        do.'
+    start: 1827.996
+    end: 1830.396
+-   speaker: Unknown
+    transcription: ' You want to focus and it will go all the way through the material.'
+    start: 1831.196
+    end: 1834.996
+-   speaker: Unknown
+    transcription: ' When you are doing thicker material, you actually need to set
+        the settings so that it focuses deeper in.'
+    start: 1835.296
+    end: 1841.996
+-   speaker: Unknown
+    transcription: ' And that is a Z offset setting in the focus.'
+    start: 1842.296
+    end: 1845.496
+-   speaker: Unknown
+    transcription: ' That''s not standard.'
+    start: 1845.496
+    end: 1847.196
+-   speaker: Unknown
+    transcription: ' That will be in the wiki, but I recommend you look at a YouTube
+        video of light burn explanation if you really want to get into.'
+    start: 1847.196
+    end: 1855.396
+-   speaker: Unknown
+    transcription: ' One of the things when you''re doing thicker stuff is you do
+        a pass to get through the top layer and then a second pass to get through
+        the rest of it.'
+    start: 1857.596
+    end: 1864.096
+-   speaker: Unknown
+    transcription: ' You need to get to this first depth and then focus at the point
+        where that first depth is to get through the rest of it.'
+    start: 1864.696
+    end: 1871.896
+-   speaker: Unknown
+    transcription: ' How do you do that?'
+    start: 1872.596
+    end: 1873.396
+-   speaker: Unknown
+    transcription: ' It''s a Z offset setting that I don''t think I can show you in
+        because I don''t have the menu on this.'
+    start: 1874.496
+    end: 1880.996
+-   speaker: Unknown
+    transcription: That also means that I can use the same approach, but only to certain
+        depth, right?
+    start: 1885.596
+    end: 1889.896
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 1889.996
+    end: 1890.196
+-   speaker: Unknown
+    transcription: ' How accurate is that?'
+    start: 1891.296
+    end: 1892.296
+-   speaker: Unknown
+    transcription: ' How hard is it if I want to, say, go 4mm speed?'
+    start: 1892.896
+    end: 1897.396
+-   speaker: Unknown
+    transcription: ' That''s to get down to ability to know what you''re doing to
+        get four millimeters deep.'
+    start: 1899.096
+    end: 1904.296
+-   speaker: Unknown
+    transcription: ' You would have to do cut tests and then use the bandsaw to cut
+        your block open and see the depth that you got to.'
+    start: 1904.596
+    end: 1911.196
+-   speaker: Unknown
+    transcription: ' So yes, it''s difficult.'
+    start: 1911.596
+    end: 1912.596
+-   speaker: Unknown
+    transcription: ' It''s possible, but it''s difficult.'
+    start: 1913.596
+    end: 1915.396
+-   speaker: Unknown
+    transcription: ' One more question.'
+    start: 1915.496
+    end: 1916.196
+-   speaker: Unknown
+    transcription: ' If I do the test, does it count like use of machine?'
+    start: 1916.796
+    end: 1920.196
+-   speaker: Unknown
+    transcription: ' Yes.'
+    start: 1920.296
+    end: 1920.496
+-   speaker: Unknown
+    transcription: ' So if I have this like cheapest membership, then I would do,
+        I would need to do one more.'
+    start: 1920.996
+    end: 1926.896
+-   speaker: Unknown
+    transcription: ' Another day, right?'
+    start: 1928.896
+    end: 1930.296
+-   speaker: Unknown
+    transcription: ' Used to the numbers you already have.'
+    start: 1930.396
+    end: 1931.996
+-   speaker: Unknown
+    transcription: ' Yeah, yeah.'
+    start: 1931.996
+    end: 1932.696
+-   speaker: Unknown
+    transcription: ' I''m asking for me.'
+    start: 1933.096
+    end: 1933.996
+-   speaker: Unknown
+    transcription: ' I''m trying to understand.'
+    start: 1934.896
+    end: 1935.796
+-   speaker: Unknown
+    transcription: ' Yes, when you are burning on the machine, it does cost.'
+    start: 1936.696
+    end: 1939.296
+-   speaker: Unknown
+    transcription: ' I will do, again, we are at early access.'
+    start: 1939.396
+    end: 1943.496
+-   speaker: Unknown
+    transcription: ' So I am getting this as set up as I possibly can.'
+    start: 1943.596
+    end: 1946.596
+-   speaker: Unknown
+    transcription: ' And we have it set up so that you can cut MBS and not this thickness
+        of.'
+    start: 1946.896
+    end: 1953.596
+-   speaker: Unknown
+    transcription: ' Plywood, but we can do general.'
+    start: 1956.596
+    end: 1960.196
+-   speaker: Unknown
+    transcription: ' A laser cutter typically 8 millimeters is very easy for it to
+        get through beyond 8 millimeters.'
+    start: 1961.596
+    end: 1966.396
+-   speaker: Unknown
+    transcription: ' Then you start getting to needing to understand a bit more of
+        specialty settings.'
+    start: 1966.396
+    end: 1970.696
+-   speaker: Unknown
+    transcription: ' Okay.'
+    start: 1973.696
+    end: 1973.996
+-   speaker: Unknown
+    transcription: Let me finish the general elements of things that you need to know.
+    start: 1974.896
+    end: 1978.196
+-   speaker: Unknown
+    transcription: ' If you have multiple, so unfortunately I think this is all on
+        one layer.'
+    start: 1979.296
+    end: 1983.896
+-   speaker: Unknown
+    transcription: ' Can I select?'
+    start: 1983.896
+    end: 1984.996
+-   speaker: Unknown
+    transcription: ' Just no.'
+    start: 1986.896
+    end: 1988.496
+-   speaker: Unknown
+    transcription: ' So I need to draw something else.'
+    start: 1990.096
+    end: 1991.396
+-   speaker: Unknown
+    transcription: ' Right now, I have the color black or layer zero set to be my
+        engraving layer.'
+    start: 1996.996
+    end: 2004.396
+-   speaker: Unknown
+    transcription: ' Your layers are over here on the bottom, and the color and number
+        just differentiates what layer it is.'
+    start: 2005.496
+    end: 2014.096
+-   speaker: Unknown
+    transcription: ' So if I want to cut the square out and engrave the star, I would
+        need to select the square and then change what layer it''s on.'
+    start: 2014.596
+    end: 2024.296
+-   speaker: Unknown
+    transcription: ' It does not matter.'
+    start: 2024.396
+    end: 2025.296
+-   speaker: Unknown
+    transcription: ' You can change it to whatever layer you would like, but we''ll
+        just use layer one.'
+    start: 2025.296
+    end: 2029.996
+-   speaker: Unknown
+    transcription: ' And I would leave it at line, and then I would set the settings
+        to cut.'
+    start: 2030.896
+    end: 2036.296
+-   speaker: Unknown
+    transcription: ' I''m not going to mess with this thing, always changing my number.'
+    start: 2036.396
+    end: 2039.696
+-   speaker: Unknown
+    transcription: ' But I''ll show you on the actual machine with an example quickly.'
+    start: 2040.496
+    end: 2043.396
+-   speaker: Unknown
+    transcription: ' So one of the things to remember is that you should always engrave
+        before you cut.'
+    start: 2045.296
+    end: 2051.196
+-   speaker: Unknown
+    transcription: ' If you cut and then you engrave, the problem is that you have
+        fairly flat material, but it''s probably got a little bit of a curve.'
+    start: 2051.796
+    end: 2060.496
+-   speaker: Unknown
+    transcription: ' And if you cut it first, your piece is going to drop and maybe
+        turn slightly.'
+    start: 2060.596
+    end: 2064.896
+-   speaker: Unknown
+    transcription: It's not going to drop that much, but it'll probably shift a little
+        bit, and then your engraving won't be lined up with the cut.
+    start: 2065.196
+    end: 2070.796
+-   speaker: Unknown
+    transcription: ' So you should always engrave first.'
+    start: 2071.196
+    end: 2073.096
+-   speaker: Unknown
+    transcription: ' If you are doing multiple cuts, this is the reason why there
+        is more than just two layers, since the machine can really only do three things.'
+    start: 2074.496
+    end: 2083.596
+-   speaker: Unknown
+    transcription: ' One of the reasons is you should, if you''re cutting out multiple
+        things, you should cut from the center outwards.'
+    start: 2085.796
+    end: 2091.996
+-   speaker: Unknown
+    transcription: ' So if you have a big design like you''re doing with your camper
+        and you need to cut out parts for components to fit through, those should
+        be cut before you cut the outside perimeter.'
+    start: 2092.596
+    end: 2103.796
+-   speaker: Unknown
+    transcription: ' This is not an automatic selection in here with Lightburn.'
+    start: 2104.896
+    end: 2109.296
+-   speaker: Unknown
+    transcription: ' Lightburn does its best and it''s not bad.'
+    start: 2110.096
+    end: 2112.596
+-   speaker: Unknown
+    transcription: ' You can go by random, but to be sure, it''s best to select those
+        vectors and put them on their own layer and say, and to change order, I just
+        click and drag.'
+    start: 2112.596
+    end: 2122.796
+-   speaker: Unknown
+    transcription: ' So if I want.'
+    start: 2122.996
+    end: 2123.596
+-   speaker: Unknown
+    transcription: but I don't want to cut first, I want to cut last, so I put it
+        about them and it moves that.
+    start: 2126.784
+    end: 2132.584
+-   speaker: Unknown
+    transcription: ' So this is the order that things will happen in.'
+    start: 2133.284
+    end: 2135.084
+-   speaker: Unknown
+    transcription: ' I can turn off the output so that if I have all of this selected,
+        whoops, I have,'
+    start: 2136.584
+    end: 2144.784
+-   speaker: Unknown
+    transcription: ' Command Z.'
+    start: 2146.884
+    end: 2147.684
+-   speaker: Unknown
+    transcription: ' Sorry, select.'
+    start: 2149.084
+    end: 2149.984
+-   speaker: Unknown
+    transcription: ' If I have all of this selected, but I don''t want to send the
+        cut line right now, I can turn off the output and only the fill, only the
+        engrave will be sent to the laser cutter.'
+    start: 2150.584
+    end: 2162.284
+-   speaker: Unknown
+    transcription: ' Okay, this is the basics of what you need to know to get your
+        setup onto the machine.'
+    start: 2164.184
+    end: 2172.184
+-   speaker: Unknown
+    transcription: ' Is there any questions before I go actually do it on the machine
+        for you?'
+    start: 2172.384
+    end: 2175.584
+-   speaker: Unknown
+    transcription: ' Yes, the curve offsetting is the inner outer curve.'
+    start: 2176.084
+    end: 2179.584
+-   speaker: Unknown
+    transcription: ' Does that make sense?'
+    start: 2179.684
+    end: 2180.884
+-   speaker: Unknown
+    transcription: ' The kerf is once again 0.15 millimeters.'
+    start: 2182.684
+    end: 2188.484
+-   speaker: Unknown
+    transcription: ' If your design is so tight that you need 0.15 millimeter difference,
+        if you double click on this and go into the, is it in the advanced menu?'
+    start: 2188.484
+    end: 2200.984
+-   speaker: Unknown
+    transcription: ' It''s also about choice.'
+    start: 2201.484
+    end: 2202.684
+-   speaker: Unknown
+    transcription: ' Yeah, no, I understand.'
+    start: 2203.884
+    end: 2204.984
+-   speaker: Unknown
+    transcription: ' Like, it happened.'
+    start: 2205.884
+    end: 2206.584
+-   speaker: Unknown
+    transcription: ' Unfortunately, I don''t see the setting in the basic version.'
+    start: 2210.184
+    end: 2213.984
+-   speaker: Unknown
+    transcription: Yeah, I'm sorry.
+    start: 2215.884
+    end: 2216.484
+-   speaker: Unknown
+    transcription: ' I''ve been like, I was at my other job all day.'
+    start: 2216.484
+    end: 2218.684
+-   speaker: Unknown
+    transcription: ' Ah, here, her faucet.'
+    start: 2218.784
+    end: 2219.884
+-   speaker: Unknown
+    transcription: ' So here, if you set this to 0.15 millimeters, then you are going
+        to have very tight fit.'
+    start: 2221.784
+    end: 2229.684
+-   speaker: Unknown
+    transcription: ' You would want to give yourself a little bit of a tolerance.'
+    start: 2230.584
+    end: 2232.884
+-   speaker: Unknown
+    transcription: ' You try to fit together two pieces of MDF that have'
+    start: 2232.984
+    end: 2237.484
+-   speaker: Unknown
+    transcription: ' sort of a tooth pattern to fit and you have set it to dead up
+        0.15, you will be forcing it together.'
+    start: 2238.484
+    end: 2247.884
+-   speaker: Unknown
+    transcription: ' What''s the curve?'
+    start: 2249.884
+    end: 2250.884
+-   speaker: Unknown
+    transcription: ' Curve is the amount of material that is destroyed by whatever
+        it is that you''re cutting.'
+    start: 2251.684
+    end: 2255.884
+-   speaker: Unknown
+    transcription: ' So if you have a saw blade that is three millimeters thick, then
+        it''s going to turn three millimeters of your wood into sawdust.'
+    start: 2255.884
+    end: 2263.184
+-   speaker: Unknown
+    transcription: ' And that is labeled on the blade as the three millimeter curve.'
+    start: 2263.584
+    end: 2267.784
+-   speaker: Unknown
+    transcription: ' Engraving pretty much.'
+    start: 2268.184
+    end: 2269.584
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 2269.584
+    end: 2269.784
+-   speaker: Unknown
+    transcription: ' So the laser obviously has a very small amount of kerf because
+        it is a point of light, but there is a kerf.'
+    start: 2270.984
+    end: 2278.784
+-   speaker: Unknown
+    transcription: ' One of the other things to know when you''re cutting something
+        like acrylic and you get into cutting thicker things of acrylic, I'
+    start: 2279.084
+    end: 2287.784
+-   speaker: Unknown
+    transcription: ' You can make a watertight tank out of acrylic on the laser cutter.'
+    start: 2288.784
+    end: 2293.184
+-   speaker: Unknown
+    transcription: ' It does a very nice cut, and then you can glue those edges very
+        smoothly.'
+    start: 2293.184
+    end: 2299.084
+-   speaker: Unknown
+    transcription: ' It''s one of the best ways to join acrylic.'
+    start: 2299.384
+    end: 2301.584
+-   speaker: Unknown
+    transcription: ' If you cut acrylic on a saw, then there''s all these...'
+    start: 2301.584
+    end: 2303.984
+-   speaker: Unknown
+    transcription: little scratches, it's very hard to make that watertight.
+    start: 2303.984
+    end: 2306.184
+-   speaker: Unknown
+    transcription: ' But the thicker acrylic, you get a laser cut by focusing.'
+    start: 2306.984
+    end: 2315.984
+-   speaker: Unknown
+    transcription: ' The lens is literally only that far.'
+    start: 2316.284
+    end: 2318.484
+-   speaker: Unknown
+    transcription: ' So the laser is about that thick, bouncing around mirrors until
+        it hits the head block, and then it comes down and it hits a lens that is
+        that far away from your material.'
+    start: 2318.584
+    end: 2329.584
+-   speaker: Unknown
+    transcription: ' So the angle is like this.'
+    start: 2329.984
+    end: 2332.584
+-   speaker: Unknown
+    transcription: ' And if you focus on the top of your material, then if you have
+        a thick thing, you''re going to have not 90 degree cuts.'
+    start: 2333.284
+    end: 2342.184
+-   speaker: Unknown
+    transcription: ' Yeah, you''re going to be like 89, 87.'
+    start: 2343.684
+    end: 2345.984
+-   speaker: Unknown
+    transcription: ' I''m doing a very drastic thing with my hands.'
+    start: 2346.084
+    end: 2348.384
+-   speaker: Unknown
+    transcription: ' But if you have really thick acrylic and you''re trying to build
+        something that turns into a perfect Rubik''s Cube, you''re going to be a little
+        bit disappointed that you''re a little bit trapezoidal.'
+    start: 2348.784
+    end: 2359.784
+-   speaker: Unknown
+    transcription: ' If you''re saying that this is the face that''s going to be bigger
+        than the face up top.'
+    start: 2360.984
+    end: 2365.084
+-   speaker: Unknown
+    transcription: Can you cut this piece out?
+    start: 2369.024
+    end: 2370.124
+-   speaker: Unknown
+    transcription: ' That''s a very good question.'
+    start: 2376.224
+    end: 2377.224
+-   speaker: Unknown
+    transcription: ' I''m not exactly sure if the...'
+    start: 2377.224
+    end: 2380.824
+-   speaker: Unknown
+    transcription: ' I think the face down will be bigger.'
+    start: 2381.124
+    end: 2383.824
+-   speaker: Unknown
+    transcription: ' Yeah, I think the face down is bigger.'
+    start: 2383.924
+    end: 2385.624
+-   speaker: Unknown
+    transcription: ' Yes.'
+    start: 2385.924
+    end: 2386.324
+-   speaker: Unknown
+    transcription: ' I think that the probe probes the top of your material, but it
+        is expecting to focus through the material.'
+    start: 2386.824
+    end: 2394.424
+-   speaker: Unknown
+    transcription: ' So the focus point of the laser should actually be the bottom
+        of the material.'
+    start: 2394.424
+    end: 2398.924
+-   speaker: Unknown
+    transcription: ' So the angle is actually cutting that way.'
+    start: 2399.324
+    end: 2401.324
+-   speaker: Unknown
+    transcription: ' And if you end up not getting all the way through, that''s where
+        you get this crossover where you end up with your sides looking like this.'
+    start: 2401.724
+    end: 2407.524
+-   speaker: Unknown
+    transcription: ' That''s very much advanced level of stuff.'
+    start: 2410.724
+    end: 2413.524
+-   speaker: Unknown
+    transcription: ' I just wanted to mention that, yeah, you have to think about
+        that when you get into thicker materials.'
+    start: 2413.524
+    end: 2418.024
+-   speaker: Unknown
+    transcription: ' Let''s go back to the actual laser cutter and show you a few
+        things on the actual program.'
+    start: 2418.824
+    end: 2423.824
+-   speaker: Unknown
+    transcription: ' You will see that the display on the computer is very small.'
+    start: 2425.024
+    end: 2428.524
+-   speaker: Unknown
+    transcription: ' That''s why I started there.'
+    start: 2428.524
+    end: 2430.424
+-   speaker: Unknown
+    transcription: Nice.
+    start: 2433.064
+    end: 2433.6639999999998
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 2436.964
+    end: 2437.264
+-   speaker: Unknown
+    transcription: ' So we have membership with a company that only accepts businesses
+        to purchase stuff.'
+    start: 2456.564
+    end: 2468.964
+-   speaker: Unknown
+    transcription: ' So you can buy this MDF that''s on the side here is for sale.'
+    start: 2468.964
+    end: 2474.264
+-   speaker: Unknown
+    transcription: ' I am looking for an acrylic supplier.'
+    start: 2474.764
+    end: 2476.964
+-   speaker: Unknown
+    transcription: ' Getting acrylic cheap enough in bulk is very difficult in Germany.'
+    start: 2477.564
+    end: 2481.964
+-   speaker: Unknown
+    transcription: ' So I''m working on it.'
+    start: 2482.064
+    end: 2483.264
+-   speaker: Unknown
+    transcription: ' What is it you''re interested in?'
+    start: 2483.464
+    end: 2484.6639999999998
+-   speaker: Unknown
+    transcription: Yeah, so you could do that with some MDF or with a birch wood.
+    start: 2496.16
+    end: 2504.16
+-   speaker: Unknown
+    transcription: ' That we also have, that''s a mint more for the CNC, but you could
+        definitely engrave that on this.'
+    start: 2507.76
+    end: 2515.96
+-   speaker: Unknown
+    transcription: Definitely engrave that on this machine.
+    start: 2514.0
+    end: 2516.3
+-   speaker: Unknown
+    transcription: ' And in theory, you might be able to cut through that, but it
+        would be very, well, no, I would like, it just depends on like.'
+    start: 2516.7
+    end: 2525.1
+-   speaker: Unknown
+    transcription: ' It''s all YouTube videos.'
+    start: 2525.1
+    end: 2526.3
+-   speaker: Unknown
+    transcription: ' It''s what Sausage showed it.'
+    start: 2526.4
+    end: 2528.1
+-   speaker: Unknown
+    transcription: ' It''s all true.'
+    start: 2528.2
+    end: 2528.9
+-   speaker: Unknown
+    transcription: ' Thicker and stuff.'
+    start: 2529.2
+    end: 2529.8
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 2529.9
+    end: 2530.1
+-   speaker: Unknown
+    transcription: ' It''s possible, but that takes some finicky finagling and working.'
+    start: 2530.7
+    end: 2535.3
+-   speaker: Unknown
+    transcription: ' So this was me making the sign.'
+    start: 2535.9
+    end: 2538.0
+-   speaker: Unknown
+    transcription: ' Let''s get rid of that.'
+    start: 2538.3
+    end: 2539.5
+-   speaker: Unknown
+    transcription: ' And is my thumb drive here?'
+    start: 2546.4
+    end: 2548.9
+-   speaker: Unknown
+    transcription: ' No, of course not.'
+    start: 2548.9
+    end: 2550.1
+-   speaker: Unknown
+    transcription: ' Import.'
+    start: 2550.2
+    end: 2550.9
+-   speaker: Unknown
+    transcription: ' Do I have something that''s not on the thumb drive?'
+    start: 2550.9
+    end: 2553.2
+-   speaker: Unknown
+    transcription: ' Yes.'
+    start: 2554.2
+    end: 2554.6
+-   speaker: Unknown
+    transcription: Great.
+    start: 2557.468
+    end: 2557.768
+-   speaker: Unknown
+    transcription: ' Okay, so just so you get reference of the actual machine here.'
+    start: 2566.468
+    end: 2570.568
+-   speaker: Unknown
+    transcription: ' The machine, our machine is much larger than what I was showing
+        you up there on with that dummy machine.'
+    start: 2571.468
+    end: 2576.068
+-   speaker: Unknown
+    transcription: ' The size of the bed is 1.6 meters by one meter.'
+    start: 2576.168
+    end: 2580.168
+-   speaker: Unknown
+    transcription: ' This is the entire size of the bed.'
+    start: 2581.568
+    end: 2583.568
+-   speaker: Unknown
+    transcription: ' So this cutout pattern is about that big or so, but it looks
+        quite small on the screen because of the amount of space that it is going
+        to actually take for me to cut out here.'
+    start: 2583.668
+    end: 2594.768
+-   speaker: Unknown
+    transcription: ' I don''t want this to be a fill, so I want to change this to
+        cut.'
+    start: 2598.168
+    end: 2603.068
+-   speaker: Unknown
+    transcription: ' So line, the cut for, I''m going to cut this out of 3mm MDF.'
+    start: 2605.068
+    end: 2612.968
+-   speaker: Unknown
+    transcription: ' So if we go...'
+    start: 2613.968
+    end: 2615.668
+-   speaker: Unknown
+    transcription: This is the same thing I was showing you, it just happens to be
+        colored in.
+    start: 2617.576
+    end: 2620.476
+-   speaker: Unknown
+    transcription: ' I''ll do 9 millimeters per second at 26.'
+    start: 2622.576
+    end: 2628.876
+-   speaker: Unknown
+    transcription: ' Yeah, that should be fine.'
+    start: 2630.876
+    end: 2632.176
+-   speaker: Unknown
+    transcription: ' So if I click on this,'
+    start: 2632.976
+    end: 2634.776
+-   speaker: Unknown
+    transcription: ' I''m going to do 27 just to make sure and it was 9 millimeters
+        a second.'
+    start: 2637.076
+    end: 2646.376
+-   speaker: Unknown
+    transcription: You can also do multiple passes through this and then do this is
+        where you do the Z offset.
+    start: 2649.848
+    end: 2653.848
+-   speaker: Unknown
+    transcription: ' So you were asking how you get through thicker material.'
+    start: 2653.948
+    end: 2656.048
+-   speaker: Unknown
+    transcription: ' If you increase your number of passes, then you can start doing
+        Z offsets.'
+    start: 2657.348
+    end: 2663.948
+-   speaker: Unknown
+    transcription: ' It''s currently grayed out.'
+    start: 2664.848
+    end: 2666.248
+-   speaker: Unknown
+    transcription: ' I need to there''s some menu for it to be turned on.'
+    start: 2666.248
+    end: 2670.648
+-   speaker: Unknown
+    transcription: ' So passes mean like the grid, right?'
+    start: 2671.048
+    end: 2675.548
+-   speaker: Unknown
+    transcription: ' Passes means I''ve gone over the whole, what you see is your
+        design.'
+    start: 2676.148
+    end: 2679.648
+-   speaker: Unknown
+    transcription: ' If the laser does that whole thing, that''s one pass.'
+    start: 2680.248
+    end: 2682.748
+-   speaker: Unknown
+    transcription: ' If you wanted to do the exact same thing again, you set two passes.'
+    start: 2682.848
+    end: 2687.348
+-   speaker: Unknown
+    transcription: ' Why would they need two passes?'
+    start: 2687.748
+    end: 2689.248
+-   speaker: Unknown
+    transcription: ' If you''re doing material that thick, then you would do your
+        second pass and you would do a Z offset of a couple of millimeters deep.'
+    start: 2689.448
+    end: 2696.248
+-   speaker: Unknown
+    transcription: ' Oh, so it goes deep.'
+    start: 2696.248
+    end: 2697.448
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 2697.648
+    end: 2697.948
+-   speaker: Unknown
+    transcription: ' So say you say, okay, if you''re down to like eight millimeters,
+        how long would that take?'
+    start: 2698.848
+    end: 2702.348
+-   speaker: Unknown
+    transcription: ' Like how many would it require multiple passes?'
+    start: 2702.648
+    end: 2704.748
+-   speaker: Unknown
+    transcription: ' Eight millimeters, you can get one pass.'
+    start: 2705.148
+    end: 2706.948
+-   speaker: Unknown
+    transcription: ' But the speed that you''re going with when you''re doing an eight
+        millimeter piece of wood is six millimeters per second.'
+    start: 2708.348
+    end: 2714.748
+-   speaker: Unknown
+    transcription: ' So it''s going to take quite a long time.'
+    start: 2715.048
+    end: 2717.148
+-   speaker: Unknown
+    transcription: ' Brian, I missed the Z offset, but then if you''re saying my pass,
+        am I correct that the second time it does the second pass, it''s calculating
+        for the focus, the level?'
+    start: 2718.648
+    end: 2728.248
+-   speaker: Unknown
+    transcription: ' No, you have to tell it that.'
+    start: 2729.048
+    end: 2730.048
+-   speaker: Unknown
+    transcription: ' It''s not doing the calculation itself.'
+    start: 2730.048
+    end: 2731.648
+-   speaker: Unknown
+    transcription: ' Right.'
+    start: 2732.148
+    end: 2732.448
+-   speaker: Unknown
+    transcription: ' You do that first.'
+    start: 2732.648
+    end: 2734.148
+-   speaker: Unknown
+    transcription: And then you set the Z offset.
+    start: 2737.048
+    end: 2738.648
+-   speaker: Unknown
+    transcription: ' Can you put a number bigger than one?'
+    start: 2739.648
+    end: 2741.148
+-   speaker: Unknown
+    transcription: ' No, this is grayed out at the moment.'
+    start: 2741.648
+    end: 2744.048
+-   speaker: Unknown
+    transcription: ' I can''t set the offset.'
+    start: 2745.348
+    end: 2747.448
+-   speaker: Unknown
+    transcription: ' I need to change some settings in here.'
+    start: 2747.748
+    end: 2749.948
+-   speaker: Unknown
+    transcription: ' So I can''t show you that right this second.'
+    start: 2750.748
+    end: 2752.448
+-   speaker: Unknown
+    transcription: ' So that''s everything that I need.'
+    start: 2755.648
+    end: 2757.748
+-   speaker: Unknown
+    transcription: ' There is advanced pausing and things overcut.'
+    start: 2758.348
+    end: 2763.248
+-   speaker: Unknown
+    transcription: ' You do not need to worry about any of this until you get into
+        super advanced things where you''re wanting it to have very...'
+    start: 2764.648
+    end: 2775.948
+-   speaker: Unknown
+    transcription: ' Perfect cornered edges and you don''t want it to burn too much
+        on a corner.'
+    start: 2776.548
+    end: 2780.248
+-   speaker: Unknown
+    transcription: ' So you want it to pass that corner into the rest material and
+        then stop those sort of things.'
+    start: 2780.548
+    end: 2785.748
+-   speaker: Unknown
+    transcription: ' So that should be everything that I need to worry about.'
+    start: 2787.448
+    end: 2789.348
+-   speaker: Unknown
+    transcription: ' Here I can show you a bit more.'
+    start: 2790.148
+    end: 2791.748
+-   speaker: Unknown
+    transcription: ' Here is the move function.'
+    start: 2791.848
+    end: 2793.648
+-   speaker: Unknown
+    transcription: ' This allows you to move elements of the laser while it''s on.'
+    start: 2793.748
+    end: 2797.748
+-   speaker: Unknown
+    transcription: ' This is the laser control down here.'
+    start: 2799.848
+    end: 2802.448
+-   speaker: Unknown
+    transcription: ' You have to turn the laser on.'
+    start: 2803.548
+    end: 2805.148
+-   speaker: Unknown
+    transcription: ' I''ll show you that in just a second.'
+    start: 2805.148
+    end: 2806.548
+-   speaker: Unknown
+    transcription: This laser cutter's home position is in the upper right hand corner.
+    start: 2810.656
+    end: 2814.156
+-   speaker: Unknown
+    transcription: ' That is a little different than most.'
+    start: 2814.456
+    end: 2816.056
+-   speaker: Unknown
+    transcription: ' Most is in the left, but that just depends on where they put
+        the sensors.'
+    start: 2816.156
+    end: 2819.8559999999998
+-   speaker: Unknown
+    transcription: ' So I can''t change that.'
+    start: 2819.8559999999998
+    end: 2821.056
+-   speaker: Unknown
+    transcription: ' The upper right hand corner is where it is.'
+    start: 2821.056
+    end: 2822.8559999999998
+-   speaker: Unknown
+    transcription: ' So I always start my job origin also in the upper right hand
+        corner.'
+    start: 2823.156
+    end: 2828.3559999999998
+-   speaker: Unknown
+    transcription: ' That''s why this point is here.'
+    start: 2828.556
+    end: 2831.156
+-   speaker: Unknown
+    transcription: ' I can tell the laser cutter to cut my design from the absolute
+        coordinates,'
+    start: 2832.3559999999998
+    end: 2840.056
+-   speaker: Unknown
+    transcription: ' which means that it should reference this as the zero point,
+        travel to this point of my material, and cut this out.'
+    start: 2840.8559999999998
+    end: 2848.256
+-   speaker: Unknown
+    transcription: ' This is where your position is.'
+    start: 2848.3559999999998
+    end: 2850.656
+-   speaker: Unknown
+    transcription: ' Here is going to make a lot of difference.'
+    start: 2851.3559999999998
+    end: 2855.956
+-   speaker: Unknown
+    transcription: ' If, however, you are resetting your zero points like you''ve
+        cut out a portion, like I''m going to show you in a second here,'
+    start: 2856.656
+    end: 2864.256
+-   speaker: Unknown
+    transcription: I have already cut a bunch of things out of this.
+    start: 2871.864
+    end: 2873.964
+-   speaker: Unknown
+    transcription: ' I want to use this.'
+    start: 2874.1639999999998
+    end: 2875.6639999999998
+-   speaker: Unknown
+    transcription: ' I don''t need to put the piece of material in there and then
+        figure out where on the entire bed this point is.'
+    start: 2876.764
+    end: 2884.6639999999998
+-   speaker: Unknown
+    transcription: ' I can change my setting here from absolute coordinates to current
+        position.'
+    start: 2885.364
+    end: 2892.464
+-   speaker: Unknown
+    transcription: ' And current position, then is just going to reference that as
+        the corner of my job and start from wherever the laser is.'
+    start: 2894.264
+    end: 2903.464
+-   speaker: Unknown
+    transcription: ' So I can then move the laser over to this point and then it will
+        cut that out of this thing.'
+    start: 2903.764
+    end: 2909.6639999999998
+-   speaker: Unknown
+    transcription: ' That''s a much quicker way to do your zero point.'
+    start: 2910.064
+    end: 2913.064
+-   speaker: Unknown
+    transcription: ' I guess the smallest thing you can put in there is the gap between
+        the lines.'
+    start: 2913.864
+    end: 2917.6639999999998
+-   speaker: Unknown
+    transcription: ' So, there are two types of bed for a laser cutter.'
+    start: 2917.864
+    end: 2921.764
+-   speaker: Unknown
+    transcription: ' There''s the knife bed, and then there is the honeycomb bed.'
+    start: 2922.064
+    end: 2927.864
+-   speaker: Unknown
+    transcription: ' I''m going to trade out the knife bed for the honeycomb bed because
+        you can do things like fabric on the honeycomb bed.'
+    start: 2928.964
+    end: 2935.6639999999998
+-   speaker: Unknown
+    transcription: ' Whenever you go to a makerspace, you will see that they always
+        have the honeycomb bed in there.'
+    start: 2936.6639999999998
+    end: 2943.464
+-   speaker: Unknown
+    transcription: ' That''s because you can do your MDF on the honeycomb bed, you
+        can do your acrylic on the honeycomb bed, and you can also do flimsy material
+        on the honeycomb bed.'
+    start: 2943.964
+    end: 2953.864
+-   speaker: Unknown
+    transcription: ' I don''t like the honeycomb bed.'
+    start: 2954.964
+    end: 2956.764
+-   speaker: Unknown
+    transcription: The knife bed holds strong material flatter.
+    start: 2957.564
+    end: 2961.764
+-   speaker: Unknown
+    transcription: ' So I have been cutting everything on the knife bed.'
+    start: 2962.6639999999998
+    end: 2965.6639999999998
+-   speaker: Unknown
+    transcription: ' I prefer it.'
+    start: 2965.864
+    end: 2966.764
+-   speaker: Unknown
+    transcription: ' But because the honeycomb bed is more versatile, it will be in
+        the machine once I get done doing all the things that I''m quickly trying
+        to get done before it gets into big use.'
+    start: 2968.1639999999998
+    end: 2980.1639999999998
+-   speaker: Unknown
+    transcription: ' So if you ever come and the knife bed is still in and you want
+        to cut the flimsy material, then ask me and I''ll put the honeycomb bed in.'
+    start: 2980.364
+    end: 2986.764
+-   speaker: Unknown
+    transcription: ' It takes me, I have to sit here and pull each one of these things
+        out.'
+    start: 2987.1639999999998
+    end: 2990.764
+-   speaker: Unknown
+    transcription: ' And then insert the honeycomb bed.'
+    start: 2991.6639999999998
+    end: 2994.364
+-   speaker: Unknown
+    transcription: ' There''s lots of online little tutorials about how to do that.'
+    start: 3000.6639999999998
+    end: 3004.364
+-   speaker: Unknown
+    transcription: ' You can also, if you, you can''t cut synthetic because it would
+        melt, but people do engrave synthetic material.'
+    start: 3004.364
+    end: 3015.264
+-   speaker: Unknown
+    transcription: ' And so they just engrave the pattern on it.'
+    start: 3015.264
+    end: 3017.1639999999998
+-   speaker: Unknown
+    transcription: ' It just, you move very fast with very light element.'
+    start: 3017.1639999999998
+    end: 3020.764
+-   speaker: Unknown
+    transcription: ' Before I put the material in, I''ll show you how to turn the
+        machine on.'
+    start: 3023.064
+    end: 3026.6639999999998
+-   speaker: Unknown
+    transcription: When you are a member and once you have completed the training
+        that you are currently sitting in, you receive a member chip like I just gave
+        you.
+    start: 3029.9120000000003
+    end: 3037.812
+-   speaker: Unknown
+    transcription: ' I happen to have a card because this is my card for my other
+        job and I just reused the same thing.'
+    start: 3038.0119999999997
+    end: 3042.812
+-   speaker: Unknown
+    transcription: ' So I can turn the machine on.'
+    start: 3045.212
+    end: 3049.112
+-   speaker: Unknown
+    transcription: ' First, put your card on here so that you''re logged in.'
+    start: 3049.612
+    end: 3053.312
+-   speaker: Unknown
+    transcription: ' You will see that your name appears here.'
+    start: 3054.0119999999997
+    end: 3056.5119999999997
+-   speaker: Unknown
+    transcription: ' You will also see, if I stop this,'
+    start: 3057.0119999999997
+    end: 3058.9120000000003
+-   speaker: Unknown
+    transcription: If the machine is booked, it's currently booked for this right
+        now, the training, but it will also show you the upcoming booking while you're
+        using it.
+    start: 3061.3959999999997
+    end: 3071.596
+-   speaker: Unknown
+    transcription: ' And if the upcoming booking is in the next like five minutes,
+        it will do a bit of a countdown to let you know, because the machine will
+        shut off when the next booking comes.'
+    start: 3072.096
+    end: 3083.2960000000003
+-   speaker: Unknown
+    transcription: ' So the laser cutter is often, we''ve seen in other makerspaces,
+        is often booked back to back.'
+    start: 3083.8959999999997
+    end: 3090.196
+-   speaker: Unknown
+    transcription: ' And you need to plan out your timing because if it jumps into
+        the next person''s time, the machine will shut off and you can''t stop that.'
+    start: 3090.696
+    end: 3099.096
+-   speaker: Unknown
+    transcription: ' It does work with a pay it forward sort of element.'
+    start: 3100.696
+    end: 3104.7960000000003
+-   speaker: Unknown
+    transcription: ' If you have a couple of minutes left on your cut and the next
+        person is here waiting for you, you can say, hey, it''s not going to be done
+        in time.'
+    start: 3104.7960000000003
+    end: 3114.8959999999997
+-   speaker: Unknown
+    transcription: ' Can you put your card?'
+    start: 3114.8959999999997
+    end: 3116.7960000000003
+-   speaker: Unknown
+    transcription: ' It will transfer who is running the thing without turning the
+        machine off.'
+    start: 3117.196
+    end: 3120.7960000000003
+-   speaker: Unknown
+    transcription: ' But that doesn''t work if the person who booked it after you
+        is five minutes late, because nothing can be done at that point.'
+    start: 3121.7960000000003
+    end: 3129.7960000000003
+-   speaker: Unknown
+    transcription: ' That is just...'
+    start: 3129.7960000000003
+    end: 3130.596
+-   speaker: Unknown
+    transcription: ' And is this like what you do about your credits?'
+    start: 3131.096
+    end: 3133.3959999999997
+-   speaker: Unknown
+    transcription: ' Yes.'
+    start: 3133.496
+    end: 3133.7960000000003
+-   speaker: Unknown
+    transcription: ' So this determines your credit usage by the power that the machine
+        is drawing.'
+    start: 3134.2960000000003
+    end: 3139.3959999999997
+-   speaker: Unknown
+    transcription: ' So when I turn this on, when I do this...'
+    start: 3139.8959999999997
+    end: 3142.496
+-   speaker: Unknown
+    transcription: and I turn it on.
+    start: 3144.392
+    end: 3145.492
+-   speaker: Unknown
+    transcription: ' I''m not being charged yet.'
+    start: 3147.892
+    end: 3149.192
+-   speaker: Unknown
+    transcription: ' When the machine turns on, it homes itself automatically.'
+    start: 3150.892
+    end: 3154.292
+-   speaker: Unknown
+    transcription: ' And then it travels back to the position it was at.'
+    start: 3163.792
+    end: 3165.692
+-   speaker: Unknown
+    transcription: ' So it''s kind of reset by the thing with your name or something
+        like that, right?'
+    start: 3167.192
+    end: 3172.192
+-   speaker: Unknown
+    transcription: ' I mean, my card is what gave my name to that.'
+    start: 3172.692
+    end: 3174.492
+-   speaker: Unknown
+    transcription: ' Yeah, so like if he comes and after that you come back, it comes
+        back to the same position?'
+    start: 3174.792
+    end: 3180.492
+-   speaker: Unknown
+    transcription: ' No, no, no, it doesn''t have a memory like that, no.'
+    start: 3180.692
+    end: 3182.792
+-   speaker: Unknown
+    transcription: ' This controls basic movement of the laser.'
+    start: 3186.692
+    end: 3191.092
+-   speaker: Unknown
+    transcription: ' So I have'
+    start: 3191.192
+    end: 3191.992
+-   speaker: Unknown
+    transcription: Forward, back, left, and right here.
+    start: 3194.58
+    end: 3196.18
+-   speaker: Unknown
+    transcription: ' These two buttons up at the top, this is up and down for the
+        bed.'
+    start: 3199.48
+    end: 3203.68
+-   speaker: Unknown
+    transcription: ' So before putting your material in, make sure that you move the
+        laser to the back of the bed.'
+    start: 3204.58
+    end: 3210.68
+-   speaker: Unknown
+    transcription: ' And it is a good idea to lower the bed.'
+    start: 3213.08
+    end: 3216.38
+-   speaker: Unknown
+    transcription: ' Make sure you are lowering the bed.'
+    start: 3216.98
+    end: 3219.2799999999997
+-   speaker: Unknown
+    transcription: ' Do not raise the bed into the laser.'
+    start: 3219.68
+    end: 3222.48
+-   speaker: Unknown
+    transcription: ' If I raise the bed and this knife blade hits the bottom of that
+        laser, nothing is going to stop it.'
+    start: 3222.88
+    end: 3230.48
+-   speaker: Unknown
+    transcription: ' It will just keep going until the laser bends upwards.'
+    start: 3231.18
+    end: 3236.58
+-   speaker: Unknown
+    transcription: ' There is a sensor once it has so much force on it that should
+        shut it down.'
+    start: 3236.58
+    end: 3241.7799999999997
+-   speaker: Unknown
+    transcription: ' But please refrain from running the bed into the laser.'
+    start: 3242.2799999999997
+    end: 3246.08
+-   speaker: Unknown
+    transcription: ' So make sure that you are pressing down.'
+    start: 3246.2799999999997
+    end: 3248.48
+-   speaker: Unknown
+    transcription: It is very difficult to tell how deep this is.
+    start: 3254.532
+    end: 3257.632
+-   speaker: Unknown
+    transcription: ' The last person before you might have been using one millimeter
+        material.'
+    start: 3257.832
+    end: 3261.432
+-   speaker: Unknown
+    transcription: ' You might be using five millimeter material.'
+    start: 3261.532
+    end: 3263.532
+-   speaker: Unknown
+    transcription: ' Don''t just slide the material in.'
+    start: 3263.532
+    end: 3265.732
+-   speaker: Unknown
+    transcription: ' Always leave.'
+    start: 3266.632
+    end: 3267.332
+-   speaker: Unknown
+    transcription: ' Push it down a bit.'
+    start: 3268.832
+    end: 3269.732
+-   speaker: Unknown
+    transcription: ' Also, don''t put your material in and then turn the machine on
+        because of that homing thing.'
+    start: 3271.332
+    end: 3278.532
+-   speaker: Unknown
+    transcription: ' I don''t want it to run into your material and you don''t know
+        what the depth of the last person was.'
+    start: 3279.832
+    end: 3285.032
+-   speaker: Unknown
+    transcription: ' It''s okay.'
+    start: 3285.232
+    end: 3285.532
+-   speaker: Unknown
+    transcription: ' I got it.'
+    start: 3285.732
+    end: 3286.032
+-   speaker: Unknown
+    transcription: So I want to cut my thing from here.
+    start: 3299.1040000000003
+    end: 3304.904
+-   speaker: Unknown
+    transcription: ' This is not fancy, fancy.'
+    start: 3305.6040000000003
+    end: 3308.304
+-   speaker: Unknown
+    transcription: ' You can do multiple things and be sure that you''re in the same
+        spot.'
+    start: 3309.1040000000003
+    end: 3313.1040000000003
+-   speaker: Unknown
+    transcription: ' This is eyeball it.'
+    start: 3313.504
+    end: 3314.804
+-   speaker: Unknown
+    transcription: ' No.'
+    start: 3321.504
+    end: 3321.7039999999997
+-   speaker: Unknown
+    transcription: Just a second.
+    start: 3327.676
+    end: 3328.276
+-   speaker: Unknown
+    transcription: ' So this stylus here is the autofocuser.'
+    start: 3331.376
+    end: 3337.276
+-   speaker: Unknown
+    transcription: ' I press the focus button that''s in the bottom right-hand corner
+        here.'
+    start: 3339.176
+    end: 3342.576
+-   speaker: Unknown
+    transcription: ' You see this?'
+    start: 3344.276
+    end: 3344.776
+-   speaker: Unknown
+    transcription: ' This then says, are you sure?'
+    start: 3347.276
+    end: 3349.676
+-   speaker: Unknown
+    transcription: ' The reason why it says, are you sure, is because'
+    start: 3350.376
+    end: 3353.976
+-   speaker: Unknown
+    transcription: Are you sure?
+    start: 3352.1
+    end: 3352.9
+-   speaker: Unknown
+    transcription: ' It''s because my laser is currently here, my stylus is here.'
+    start: 3353.5
+    end: 3358.9
+-   speaker: Unknown
+    transcription: ' Make sure the stylus is over material.'
+    start: 3359.2
+    end: 3361.6
+-   speaker: Unknown
+    transcription: ' If I say, yes, I''m sure when it''s there, nothing is going to
+        stop the stylus until it''s that it''s focused.'
+    start: 3361.9
+    end: 3369.6
+-   speaker: Unknown
+    transcription: ' So you will also run the laser into the knife blade.'
+    start: 3369.9
+    end: 3372.9
+-   speaker: Unknown
+    transcription: ' Please make sure that you are over the material.'
+    start: 3374.0
+    end: 3378.1
+-   speaker: Unknown
+    transcription: ' Also, this red dot is coming from an extreme angle.'
+    start: 3378.3
+    end: 3383.5
+-   speaker: Unknown
+    transcription: ' There is zero reference that that is the right position until
+        you focus.'
+    start: 3384.2
+    end: 3389.2
+-   speaker: Unknown
+    transcription: ' So don''t assume anything from that red dot.'
+    start: 3389.7
+    end: 3392.3
+-   speaker: Unknown
+    transcription: ' Make sure this is over material, then press enter, which is this
+        button here, ENT.'
+    start: 3393.2
+    end: 3400.6
+-   speaker: Unknown
+    transcription: ' And it will auto focus onto your material.'
+    start: 3402.8
+    end: 3404.8
+-   speaker: Unknown
+    transcription: ' Focus means it zeroes out like the position where you start,
+        right?'
+    start: 3405.5
+    end: 3410.8
+-   speaker: Unknown
+    transcription: ' Yep.'
+    start: 3411.0
+    end: 3411.2
+-   speaker: Unknown
+    transcription: And now the red dot is more or less underneath.
+    start: 3415.532
+    end: 3419.732
+-   speaker: Unknown
+    transcription: ' What I did was I turned the laser on quickly to make a dot, and
+        then I pointed this other laser, laser pointer, at it.'
+    start: 3419.732
+    end: 3429.532
+-   speaker: Unknown
+    transcription: ' So that is very close to what...'
+    start: 3429.732
+    end: 3433.632
+-   speaker: Unknown
+    transcription: ' Should be where the laser is, but doing multiple cuts and trying
+        to get multiple exact zero points is not something the laser cutter does.'
+    start: 3434.232
+    end: 3442.732
+-   speaker: Unknown
+    transcription: ' If you need that level of accuracy, if you''re doing multiple
+        patterns out of one material, and that, that''s a CNC task.'
+    start: 3443.432
+    end: 3450.732
+-   speaker: Unknown
+    transcription: ' Here you are putting your whole pattern and the whole design
+        in.'
+    start: 3451.532
+    end: 3456.432
+-   speaker: Unknown
+    transcription: ' And as long as you have the same zero point, that''s your start
+        point for every single thing.'
+    start: 3456.832
+    end: 3463.732
+-   speaker: Unknown
+    transcription: ' It will do that exactly perfectly every single time.'
+    start: 3464.532
+    end: 3467.232
+-   speaker: Unknown
+    transcription: ' But you should always leave yourself.'
+    start: 3467.732
+    end: 3469.932
+-   speaker: Unknown
+    transcription: a little bit of waste room between you and the edge.
+    start: 3472.32
+    end: 3476.62
+-   speaker: Unknown
+    transcription: ' You are going to waste some material.'
+    start: 3476.62
+    end: 3480.12
+-   speaker: Unknown
+    transcription: ' You''re not going to get every last millimeter out of your material.'
+    start: 3480.22
+    end: 3483.72
+-   speaker: Unknown
+    transcription: ' Okay, now I want to make sure that what I''m about to cut actually
+        fits where I have material and that I don''t end up trying to cut in this
+        hole.'
+    start: 3484.32
+    end: 3494.92
+-   speaker: Unknown
+    transcription: ' To do that,'
+    start: 3495.92
+    end: 3496.82
+-   speaker: Unknown
+    transcription: ' There are two buttons, frame square, frame rubber band.'
+    start: 3503.32
+    end: 3508.92
+-   speaker: Unknown
+    transcription: ' It shows a circle, but it''s called rubber band.'
+    start: 3509.22
+    end: 3511.42
+-   speaker: Unknown
+    transcription: ' So when I do frame square, it''s going to basically do around
+        these points.'
+    start: 3512.12
+    end: 3518.42
+-   speaker: Unknown
+    transcription: ' If I do frame rubber band, it will do an angle between here and
+        here.'
+    start: 3519.32
+    end: 3525.62
+-   speaker: Unknown
+    transcription: ' So it gives us slightly more.'
+    start: 3526.02
+    end: 3527.82
+-   speaker: Unknown
+    transcription: ' Imagine if you stretched a rubber band over that.'
+    start: 3528.52
+    end: 3531.22
+-   speaker: Unknown
+    transcription: ' That is the movement.'
+    start: 3531.32
+    end: 3533.52
+-   speaker: Unknown
+    transcription: ' So I will click that right now.'
+    start: 3533.82
+    end: 3535.12
+-   speaker: Unknown
+    transcription: ' Ah.'
+    start: 3536.52
+    end: 3536.82
+-   speaker: Unknown
+    transcription: ' When you turn light burn on, I''ve had it on for a while, so
+        it''s already there.'
+    start: 3538.32
+    end: 3543.62
+-   speaker: Unknown
+    transcription: ' But the speed is usually set at a very slow speed.'
+    start: 3544.82
+    end: 3549.82
+-   speaker: Unknown
+    transcription: ' 200 is pretty good.'
+    start: 3549.92
+    end: 3550.82
+-   speaker: Unknown
+    transcription: ' But it''s usually when you turn it on, it''s set at 13.'
+    start: 3551.92
+    end: 3554.62
+-   speaker: Unknown
+    transcription: ' If you press frame while it''s set at 13, expect to be standing
+        here for a while for it to just go.'
+    start: 3555.02
+    end: 3560.22
+-   speaker: Unknown
+    transcription: 200, which I currently have it at already, is a very reasonable
+        speed.
+    start: 3564.82
+    end: 3569.52
+-   speaker: Unknown
+    transcription: ' You can frame while this is open.'
+    start: 3569.92
+    end: 3572.22
+-   speaker: Unknown
+    transcription: ' Don''t stick your hand in there and press frame.'
+    start: 3573.62
+    end: 3575.92
+-   speaker: Unknown
+    transcription: ' Yeah, that is the amount of area that will in general be cut
+        from what I''m about to do.'
+    start: 3588.72
+    end: 3593.82
+-   speaker: Unknown
+    transcription: ' Okay.'
+    start: 3594.92
+    end: 3595.12
+-   speaker: Unknown
+    transcription: ' Once you rotate it though, for, right?'
+    start: 3595.32
+    end: 3598.42
+-   speaker: Unknown
+    transcription: ' We want to rotate this.'
+    start: 3599.42
+    end: 3600.62
+-   speaker: Unknown
+    transcription: ' No, I don''t really care.'
+    start: 3602.62
+    end: 3603.32
+-   speaker: Unknown
+    transcription: I mean, you see the arrows, you can do that, but I'm not going
+        to do that right now.
+    start: 3606.492
+    end: 3610.292
+-   speaker: Unknown
+    transcription: ' Okay, so everything is set.'
+    start: 3611.292
+    end: 3613.092
+-   speaker: Unknown
+    transcription: ' I''m going to build a little box over this.'
+    start: 3615.392
+    end: 3617.492
+-   speaker: Unknown
+    transcription: ' Please don''t mess with this control.'
+    start: 3617.592
+    end: 3619.192
+-   speaker: Unknown
+    transcription: ' This is the exact current control of the laser.'
+    start: 3620.292
+    end: 3626.792
+-   speaker: Unknown
+    transcription: ' I have it set what I want.'
+    start: 3626.892
+    end: 3627.892
+-   speaker: Unknown
+    transcription: ' Please don''t twiddle that knob.'
+    start: 3628.392
+    end: 3629.692
+-   speaker: Unknown
+    transcription: ' Okay, so the addition that is not currently available.'
+    start: 3633.092
+    end: 3637.392
+-   speaker: Unknown
+    transcription: This is a camera that will be mounted.
+    start: 3640.812
+    end: 3643.912
+-   speaker: Unknown
+    transcription: ' Here and pointed directly down into the machine.'
+    start: 3645.912
+    end: 3650.012
+-   speaker: Unknown
+    transcription: ' What this will do is with the camera menu, you will have your
+        material behind your design.'
+    start: 3651.212
+    end: 3661.012
+-   speaker: Unknown
+    transcription: ' That''s how you get a little bit more exact with setting things
+        up.'
+    start: 3661.412
+    end: 3664.712
+-   speaker: Unknown
+    transcription: ' So once the camera is in there, then you will, while the lid
+        is up, you will see a representation of where the material is compared to
+        where you have set the thing.'
+    start: 3664.712
+    end: 3677.112
+-   speaker: Unknown
+    transcription: ' I have to do some calibration.'
+    start: 3677.412
+    end: 3679.012
+-   speaker: Unknown
+    transcription: ' I also, when I got this, this USB cord is not long enough, so
+        I had to get some extensions.'
+    start: 3679.412
+    end: 3684.212
+-   speaker: Unknown
+    transcription: ' It''s something I will take care of this weekend.'
+    start: 3685.612
+    end: 3686.912
+-   speaker: Unknown
+    transcription: ' It''s like top view camera.'
+    start: 3687.012
+    end: 3688.712
+-   speaker: Unknown
+    transcription: ' Yep.'
+    start: 3689.012
+    end: 3689.212
+-   speaker: Unknown
+    transcription: ' So it would show me where my holes are and I could drag my design
+        to the right spot.'
+    start: 3690.112
+    end: 3696.612
+-   speaker: Unknown
+    transcription: Right, yeah.
+    start: 3700.848
+    end: 3701.748
+-   speaker: Unknown
+    transcription: ' You should be able to sit there and look at that and go, okay,
+        that seems good, and then go here and specifically move the design exactly
+        to the edge as close as you want to get it.'
+    start: 3701.948
+    end: 3714.448
+-   speaker: Unknown
+    transcription: ' So that will be calibrated for the sizes and whatever and should
+        work fine.'
+    start: 3715.648
+    end: 3719.948
+-   speaker: Unknown
+    transcription: ' Also, it will give you the ability to see a little something
+        of what''s going on in the machine while it''s cutting because right now,
+        because of protection for your eyes, you can''t see anything that''s happening
+        while that''s going on.'
+    start: 3720.448
+    end: 3732.248
+-   speaker: Unknown
+    transcription: ' You will see a little bit of light, but you won''t really see
+        the cut.'
+    start: 3732.448
+    end: 3735.048
+-   speaker: Unknown
+    transcription: ' There is other laser cutters that have different colored safety
+        glass that allows you to see inside of it.'
+    start: 3737.348
+    end: 3745.648
+-   speaker: Unknown
+    transcription: ' This one did not come with that.'
+    start: 3746.148
+    end: 3747.348
+-   speaker: Unknown
+    transcription: ' I''m sorry.'
+    start: 3747.348
+    end: 3747.848
+-   speaker: Unknown
+    transcription: ' You have to deal with a dark thing.'
+    start: 3748.248
+    end: 3750.448
+-   speaker: Unknown
+    transcription: ' If you want to see the progress of your thing, this little display
+        shows cut lines as they happen.'
+    start: 3751.648
+    end: 3757.448
+-   speaker: Unknown
+    transcription: ' So I will press start and then you will see it will draw that.'
+    start: 3757.548
+    end: 3762.548
+-   speaker: Unknown
+    transcription: ' Before pressing start, you need to turn on the ventilation.'
+    start: 3766.848
+    end: 3770.448
+-   speaker: Unknown
+    transcription: Red one, right?
+    start: 3773.228
+    end: 3773.828
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 3773.928
+    end: 3774.128
+-   speaker: Unknown
+    transcription: ' Just leave it at whatever setting it''s at.'
+    start: 3779.728
+    end: 3781.828
+-   speaker: Unknown
+    transcription: ' 100% was because I was doing that white MDF.'
+    start: 3783.228
+    end: 3786.728
+-   speaker: Unknown
+    transcription: ' And the acrylic and coated MDF has a bit more of a smell.'
+    start: 3787.728
+    end: 3793.328
+-   speaker: Unknown
+    transcription: ' Uncoated MDF has less, so I''m going to turn it down.'
+    start: 3794.128
+    end: 3797.0280000000002
+-   speaker: Unknown
+    transcription: ' But in general, just leave it at 100%.'
+    start: 3797.628
+    end: 3800.128
+-   speaker: Unknown
+    transcription: ' Okay, so I just press start and it will do its thing.'
+    start: 3802.328
+    end: 3806.428
+-   speaker: Unknown
+    transcription: I think that Lightburn has that capability, but I haven't found
+        that yet.
+    start: 3833.6639999999998
+    end: 3837.564
+-   speaker: Unknown
+    transcription: ' Lightburn is still, the other system, I''ve used many different
+        systems.'
+    start: 3837.564
+    end: 3841.864
+-   speaker: Unknown
+    transcription: ' I am still a little bit new to Lightburn.'
+    start: 3842.364
+    end: 3845.464
+-   speaker: Unknown
+    transcription: ' There is a runtime counter.'
+    start: 3845.864
+    end: 3849.364
+-   speaker: Unknown
+    transcription: but I don't see anything that's a countdown on here.
+    start: 3854.672
+    end: 3857.172
+-   speaker: Unknown
+    transcription: ' Runtime counter is here.'
+    start: 3857.572
+    end: 3858.572
+-   speaker: Unknown
+    transcription: ' No, it''s not really a risk.'
+    start: 3872.9719999999998
+    end: 3874.372
+-   speaker: Unknown
+    transcription: ' There is air assist.'
+    start: 3876.9719999999998
+    end: 3878.9719999999998
+-   speaker: Unknown
+    transcription: ' You can hear a little whistling going on.'
+    start: 3879.072
+    end: 3881.272
+-   speaker: Unknown
+    transcription: ' The purpose of air assist is as you are cutting through it, that
+        the flame is actually happening underneath your material.'
+    start: 3881.9719999999998
+    end: 3890.272
+-   speaker: Unknown
+    transcription: ' The size of that flame is in general like a candle sort of flame.'
+    start: 3890.672
+    end: 3894.9719999999998
+-   speaker: Unknown
+    transcription: ' Occasionally, your...'
+    start: 3896.772
+    end: 3898.872
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 3899.772
+    end: 3899.9719999999998
+-   speaker: Unknown
+    transcription: So when it is done, it beats at you.
+    start: 3902.132
+    end: 3904.732
+-   speaker: Unknown
+    transcription: ' Don''t immediately open this.'
+    start: 3905.132
+    end: 3906.832
+-   speaker: Unknown
+    transcription: ' Let the smoke get sucked out of it.'
+    start: 3907.132
+    end: 3908.732
+-   speaker: Unknown
+    transcription: ' When...'
+    start: 3912.532
+    end: 3915.232
+-   speaker: Unknown
+    transcription: ' If you see a flame in here that is not going out, you will see
+        occasionally flame.'
+    start: 3916.832
+    end: 3923.132
+-   speaker: Unknown
+    transcription: ' Like most of the flame is happening underneath it where you can''t
+        see it and that''s not a problem.'
+    start: 3923.532
+    end: 3927.832
+-   speaker: Unknown
+    transcription: ' Occasionally things will stay burning a little bit.'
+    start: 3928.332
+    end: 3930.832
+-   speaker: Unknown
+    transcription: ' That''s also not in general a problem.'
+    start: 3932.032
+    end: 3934.932
+-   speaker: Unknown
+    transcription: ' If there is a flame in there and it is just starting to get bigger,
+        if you open the lid, there is a sensor that will immediately shut off the
+        laser.'
+    start: 3935.932
+    end: 3945.632
+-   speaker: Unknown
+    transcription: ' And then you can assess what is going on.'
+    start: 3946.732
+    end: 3949.132
+-   speaker: Unknown
+    transcription: ' You can use the arrow keys to move the laser away from it so
+        that you''re not burning the wiring of the laser.'
+    start: 3950.232
+    end: 3957.032
+-   speaker: Unknown
+    transcription: ' And most burning that will happen from material that should be
+        in a laser cutter can be blown out by just going,'
+    start: 3958.032
+    end: 3964.632
+-   speaker: Unknown
+    transcription: ' If it is bigger, you are an adult, you are capable of understanding
+        a flame that is getting out of control.'
+    start: 3967.032
+    end: 3974.232
+-   speaker: Unknown
+    transcription: ' The first step to do would be to, after you''ve opened the material,
+        okay, I did not have the power set on.'
+    start: 3975.232
+    end: 3982.432
+-   speaker: Unknown
+    transcription: ' I thought it was moving too fast.'
+    start: 3982.632
+    end: 3983.932
+-   speaker: Unknown
+    transcription: ' Ah, it was at 400.'
+    start: 3985.532
+    end: 3987.232
+-   speaker: Unknown
+    transcription: ' It did not accept my change of speed.'
+    start: 3987.632
+    end: 3989.732
+-   speaker: Unknown
+    transcription: ' I thought that happened.'
+    start: 3989.832
+    end: 3990.532
+-   speaker: Unknown
+    transcription: really, really quickly.
+    start: 3990.732
+    end: 3991.532
+-   speaker: Unknown
+    transcription: ' If this was on fire right now, it would not be a bonfire.'
+    start: 3993.432
+    end: 4000.032
+-   speaker: Unknown
+    transcription: ' You would see some flame.'
+    start: 4000.132
+    end: 4001.332
+-   speaker: Unknown
+    transcription: ' But I don''t want to melt the interior of this.'
+    start: 4001.732
+    end: 4005.532
+-   speaker: Unknown
+    transcription: ' So you can grab the material and throw it on the floor.'
+    start: 4006.232
+    end: 4010.532
+-   speaker: Unknown
+    transcription: ' Worst case scenario.'
+    start: 4012.232
+    end: 4013.432
+-   speaker: Unknown
+    transcription: ' Shouldn''t ever happen.'
+    start: 4014.232
+    end: 4015.332
+-   speaker: Unknown
+    transcription: ' But you are here.'
+    start: 4016.132
+    end: 4018.632
+-   speaker: Unknown
+    transcription: ' It is your Hofstich Visitorium as well as our Visitorium.'
+    start: 4018.732
+    end: 4022.032
+-   speaker: Unknown
+    transcription: ' And in some fluke instance, this thing could be burning so bad
+        that it''s not going out.'
+    start: 4022.632
+    end: 4030.232
+-   speaker: Unknown
+    transcription: ' And throwing it on the floor is not enough.'
+    start: 4030.632
+    end: 4034.232
+-   speaker: Unknown
+    transcription: ' Or you can''t grab it because too much of it is burning.'
+    start: 4034.332
+    end: 4037.932
+-   speaker: Unknown
+    transcription: ' The fire extinguisher is there.'
+    start: 4038.632
+    end: 4041.032
+-   speaker: Unknown
+    transcription: ' I moved it from over there because I wanted it to be closer to
+        the laser cutter.'
+    start: 4042.432
+    end: 4045.532
+-   speaker: Unknown
+    transcription: ' Obviously, I will move the sign and the actual mount so that
+        it is more obvious that here is the fire extinguisher.'
+    start: 4045.532
+    end: 4052.232
+-   speaker: Unknown
+    transcription: ' If at all possible, please douse your material on the cement
+        floor and not the inside of my laser cutter.'
+    start: 4052.932
+    end: 4061.732
+-   speaker: Unknown
+    transcription: ' If it is impossible, go ahead.'
+    start: 4062.332
+    end: 4064.932
+-   speaker: Unknown
+    transcription: ' Don''t burn the building down.'
+    start: 4065.132
+    end: 4066.532
+-   speaker: Unknown
+    transcription: I don't know.
+    start: 4070.0280000000002
+    end: 4070.328
+-   speaker: Unknown
+    transcription: ' I haven''t thought about it.'
+    start: 4070.828
+    end: 4071.328
+-   speaker: Unknown
+    transcription: ' I''m going to buy a fire blanket.'
+    start: 4075.328
+    end: 4076.328
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 4076.928
+    end: 4077.128
+-   speaker: Unknown
+    transcription: ' I don''t feel like now is the time I want to learn to play guitar.'
+    start: 4081.5280000000002
+    end: 4086.128
+-   speaker: Unknown
+    transcription: ' I thank you for the invitation.'
+    start: 4088.128
+    end: 4089.228
+-   speaker: Unknown
+    transcription: ' This lid is so long that if you constantly open and close it
+        using only one handle, that it won''t really fit.'
+    start: 4091.128
+    end: 4102.628
+-   speaker: Unknown
+    transcription: ' So I usually grab it and then when I get down here,'
+    start: 4103.228
+    end: 4106.528
+-   speaker: Unknown
+    transcription: ' control it down with one.'
+    start: 4107.128
+    end: 4108.728
+-   speaker: Unknown
+    transcription: ' If I''m doing just one handle, you can see it gets a little caught
+        there.'
+    start: 4108.8279999999995
+    end: 4113.628
+-   speaker: Unknown
+    transcription: ' So better to let it down with both.'
+    start: 4114.428
+    end: 4117.528
+-   speaker: Unknown
+    transcription: ' Now, it will not start if it''s open.'
+    start: 4118.028
+    end: 4121.528
+-   speaker: Unknown
+    transcription: ' You can move it around, but the laser will not come on while
+        this is open.'
+    start: 4122.028
+    end: 4124.928
+-   speaker: Unknown
+    transcription: ' The sensor is'
+    start: 4124.928
+    end: 4126.128
+-   speaker: Unknown
+    transcription: ' here and it needs to have a magnetic reference.'
+    start: 4128.128
+    end: 4131.428
+-   speaker: Unknown
+    transcription: ' It is not a, oh, I can just hold my finger here and have the
+        thing go.'
+    start: 4131.428
+    end: 4135.128
+-   speaker: Unknown
+    transcription: ' No, it needs, yes.'
+    start: 4135.528
+    end: 4137.3279999999995
+-   speaker: Unknown
+    transcription: ' If you have a magnet, then yes, you could do something incredibly
+        dangerous.'
+    start: 4137.528
+    end: 4143.228
+-   speaker: Unknown
+    transcription: ' Please don''t.'
+    start: 4144.128
+    end: 4144.628
+-   speaker: Unknown
+    transcription: ' Okay, what just happened?'
+    start: 4145.028
+    end: 4146.628
+-   speaker: Unknown
+    transcription: ' I looked up the setting for the speed and you guys asked questions
+        and I put the number in and I didn''t hit enter.'
+    start: 4147.3279999999995
+    end: 4155.228
+-   speaker: Unknown
+    transcription: ' So it went at 400.'
+    start: 4156.028
+    end: 4157.728
+-   speaker: Unknown
+    transcription: instead of nine.
+    start: 4157.8279999999995
+    end: 4158.728
+-   speaker: Unknown
+    transcription: ' So obviously it didn''t cut all the way through.'
+    start: 4159.128
+    end: 4160.8279999999995
+-   speaker: Unknown
+    transcription: ' I have not touched the material.'
+    start: 4161.428
+    end: 4163.028
+-   speaker: Unknown
+    transcription: ' I have not moved the laser.'
+    start: 4163.928
+    end: 4165.3279999999995
+-   speaker: Unknown
+    transcription: ' The laser and the material are in the exact same place.'
+    start: 4165.428
+    end: 4167.8279999999995
+-   speaker: Unknown
+    transcription: ' I can do the cut again with the right settings and it will follow
+        exactly the same lines.'
+    start: 4167.8279999999995
+    end: 4172.228
+-   speaker: Unknown
+    transcription: ' So I can come over here.'
+    start: 4172.628
+    end: 4174.128
+-   speaker: Unknown
+    transcription: ' I wanted it at nine, not 400.'
+    start: 4181.8279999999995
+    end: 4183.8279999999995
+-   speaker: Unknown
+    transcription: ' I wanted it much slower than that.'
+    start: 4186.128
+    end: 4188.028
+-   speaker: Unknown
+    transcription: ' And it''s 27% power.'
+    start: 4188.628
+    end: 4190.8279999999995
+-   speaker: Unknown
+    transcription: ' Yes.'
+    start: 4191.228
+    end: 4191.628
+-   speaker: Unknown
+    transcription: Yes.
+    start: 4191.3
+    end: 4191.6
+-   speaker: Unknown
+    transcription: ' What was the question now?'
+    start: 4193.2
+    end: 4194.0
+-   speaker: Unknown
+    transcription: ' Oh, I was going to be like, could you say you wanted it, like,
+        could you cumulatively add your time up so that you wanted it?'
+    start: 4194.5
+    end: 4202.4
+-   speaker: Unknown
+    transcription: ' Yeah, you could kind of build it up.'
+    start: 4204.4
+    end: 4206.1
+-   speaker: Unknown
+    transcription: ' It''s not exactly an additive process, but in general, yes.'
+    start: 4206.4
+    end: 4210.3
+-   speaker: Unknown
+    transcription: ' But with the multiple depth things, when you''re trying to get
+        through deeper and deeper material, there comes a point where it won''t go
+        any deeper unless you change the focus.'
+    start: 4211.0
+    end: 4220.3
+-   speaker: Unknown
+    transcription: ' So it''s not just an increased power and hope it goes deeper.'
+    start: 4220.6
+    end: 4224.2
+-   speaker: Unknown
+    transcription: ' It is for basic things like this level of material.'
+    start: 4225.7
+    end: 4228.7
+-   speaker: Unknown
+    transcription: ' If you didn''t get through, slow it down a little bit or increase
+        the power.'
+    start: 4228.8
+    end: 4232.1
+-   speaker: Unknown
+    transcription: ' That''s the other thing.'
+    start: 4232.8
+    end: 4233.5
+-   speaker: Unknown
+    transcription: ' Power, speed are the two things you''re dealing with.'
+    start: 4235.9
+    end: 4239.4
+-   speaker: Unknown
+    transcription: ' Obviously, if you...'
+    start: 4240.8
+    end: 4243.2
+-   speaker: Unknown
+    transcription: ' This thing can move around really fast and it can be really powerful.'
+    start: 4245.1
+    end: 4248.5
+-   speaker: Unknown
+    transcription: ' I do recommend using the suggested settings.'
+    start: 4249.7
+    end: 4252.4
+-   speaker: Unknown
+    transcription: ' You can follow that diagonal up and make things happen faster
+        at a higher power.'
+    start: 4252.7
+    end: 4260.0
+-   speaker: Unknown
+    transcription: ' But then you''re running more risks of turning your material
+        into charcoal and causing the little fire.'
+    start: 4260.8
+    end: 4267.7
+-   speaker: Unknown
+    transcription: ' So don''t get extreme.'
+    start: 4268.0
+    end: 4269.9
+-   speaker: Unknown
+    transcription: ' Don''t go, oh, well, if it''s 9 millimeters at 26%, then I can
+        do 30 millimeters at 70%.'
+    start: 4270.0
+    end: 4279.2
+-   speaker: Unknown
+    transcription: Oh, that's what's going to start turning your thing into charcoal.
+    start: 4280.0
+    end: 4284.1
+-   speaker: Unknown
+    transcription: ' Fabric, what I''m going to do is I''m going to draw my own little
+        squares and just sit there with really low power and see what it takes to
+        get through it and what it looks like when it does it.'
+    start: 4291.4
+    end: 4299.9
+-   speaker: Unknown
+    transcription: ' But I''m not going to do those little tests.'
+    start: 4300.6
+    end: 4304.5
+-   speaker: Unknown
+    transcription: ' Okay, so we have our settings 9 and 27 seem a lot better.'
+    start: 4304.7
+    end: 4309.0
+-   speaker: Unknown
+    transcription: ' Yes, but that first pass didn''t really do anything.'
+    start: 4314.4
+    end: 4317.2
+-   speaker: Unknown
+    transcription: ' Now you can see there is a standard little bit of flame.'
+    start: 4317.8
+    end: 4321.8
+-   speaker: Unknown
+    transcription: material, can you just go overboard?
+    start: 4333.34
+    end: 4335.74
+-   speaker: Unknown
+    transcription: ' I feel like I just want to cut through this thing.'
+    start: 4335.84
+    end: 4337.54
+-   speaker: Unknown
+    transcription: ' Like, say I was like, oh, I''ll just cut through this there at
+        that point.'
+    start: 4338.34
+    end: 4341.74
+-   speaker: Unknown
+    transcription: ' Like, I could really precisely work out the exact what it was,
+        and then I just like, overshoot.'
+    start: 4341.84
+    end: 4346.54
+-   speaker: Unknown
+    transcription: ' You can overshoot, but then you''re like, the material is going
+        to react differently.'
+    start: 4347.94
+    end: 4351.94
+-   speaker: Unknown
+    transcription: ' So like, it''s fine in general to overshoot.'
+    start: 4351.94
+    end: 4354.84
+-   speaker: Unknown
+    transcription: ' Like, I specifically did a slightly higher power setting on this
+        because I did want to overshoot a little bit.'
+    start: 4354.94
+    end: 4360.94
+-   speaker: Unknown
+    transcription: ' But yeah.'
+    start: 4361.94
+    end: 4362.24
+-   speaker: Unknown
+    transcription: When you are finished with your cut and you take it out, please
+        make sure that there is no little bits left in the machine.
+    start: 4366.792
+    end: 4380.792
+-   speaker: Unknown
+    transcription: ' You can laser cut Grau Papa.'
+    start: 4381.392
+    end: 4383.392
+-   speaker: Unknown
+    transcription: ' But if you cut out a whole bunch of little squares of graupapa
+        and then you leave all of that in the bottom of the machine,'
+    start: 4384.192
+    end: 4391.592
+-   speaker: Unknown
+    transcription: ' that''s when the next person has the power on too much and a
+        little burning ember falls down, lights that bed of graupapa, and that''s
+        when you get a bonfire.'
+    start: 4392.292
+    end: 4402.592
+-   speaker: Unknown
+    transcription: ' That''s when there''s a problem.'
+    start: 4402.692
+    end: 4403.692
+-   speaker: Unknown
+    transcription: ' So the inside of the machine should always be clean.'
+    start: 4403.692
+    end: 4406.992
+-   speaker: Unknown
+    transcription: ' Do not open this while the laser is cutting, but you can turn
+        that and this one and this door will come down and there is a drawer that
+        can be pulled out.'
+    start: 4408.192
+    end: 4422.492
+-   speaker: Unknown
+    transcription: ' In general, with the knife blade, you can just pull one of the
+        blades out and reach in there.'
+    start: 4423.292
+    end: 4431.392
+-   speaker: Unknown
+    transcription: ' You don''t need to do the underneath drawer.'
+    start: 4431.492
+    end: 4433.692
+-   speaker: Unknown
+    transcription: ' With the honeycomb, things are probably not going to fall through.'
+    start: 4434.892
+    end: 4438.592
+-   speaker: Unknown
+    transcription: ' You will just simply have to pick everything up off of the top.'
+    start: 4438.592
+    end: 4441.592
+-   speaker: Unknown
+    transcription: ' Yes, the vacuum can be used.'
+    start: 4444.092
+    end: 4447.192
+-   speaker: Unknown
+    transcription: ' That is perfectly fine to stick the vacuum cleaner in there and
+        suck things out.'
+    start: 4447.692
+    end: 4451.292
+-   speaker: Unknown
+    transcription: ' There is also...'
+    start: 4451.692
+    end: 4452.592
+-   speaker: Unknown
+    transcription: compressed air, but please don't blow your little bits into the
+        back of the machine.
+    start: 4452.692
+    end: 4458.892
+-   speaker: Unknown
+    transcription: ' That would be really bad.'
+    start: 4458.992
+    end: 4459.792
+-   speaker: Unknown
+    transcription: ' But, ah.'
+    start: 4462.392
+    end: 4463.892
+-   speaker: Unknown
+    transcription: ' You are not allowed to walk away from the machine while it is
+        burning.'
+    start: 4465.792
+    end: 4469.692
+-   speaker: Unknown
+    transcription: ' Every two minutes, it will start doing a flash.'
+    start: 4470.392
+    end: 4474.592
+-   speaker: Unknown
+    transcription: ' And if you don''t respond in 30 seconds, it''ll start beeping
+        at you.'
+    start: 4474.892
+    end: 4478.392
+-   speaker: Unknown
+    transcription: ' If you fail to do that, it will shut the machine off.'
+    start: 4481.392
+    end: 4483.692
+-   speaker: Unknown
+    transcription: If you run out of credits, what happens is it converts to the same
+        way the nine-year-old membership works.
+    start: 4487.4
+    end: 4493.8
+-   speaker: Unknown
+    transcription: ' It starts charging you 10 cents per credit.'
+    start: 4493.8
+    end: 4495.9
+-   speaker: Unknown
+    transcription: ' So the laser cutter costs six credits per minute.'
+    start: 4496.4
+    end: 4499.8
+-   speaker: Unknown
+    transcription: ' So if you did it without credits, that would be 60 cents per
+        minute.'
+    start: 4499.8
+    end: 4503.5
+-   speaker: Unknown
+    transcription: ' Okay, so you just get billed after.'
+    start: 4503.6
+    end: 4505.1
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 4505.2
+    end: 4505.3
+-   speaker: Unknown
+    transcription: ' So you can buy bundles of credit.'
+    start: 4505.3
+    end: 4506.9
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 4506.9
+    end: 4507.1
+-   speaker: Unknown
+    transcription: ' If you''re out of credit, sorry, I''m stopping right now.'
+    start: 4507.1
+    end: 4511.0
+-   speaker: Unknown
+    transcription: ' No, it will just cycle through.'
+    start: 4511.1
+    end: 4513.9
+-   speaker: Unknown
+    transcription: ' It is a good idea to occasionally check the member portal and
+        see how many credits you''ve used.'
+    start: 4514.7
+    end: 4519.4
+-   speaker: Unknown
+    transcription: ' I can book, for example, one hour.'
+    start: 4522.7
+    end: 4524.3
+-   speaker: Unknown
+    transcription: ' And in one hour, I pretty much can play.'
+    start: 4525.1
+    end: 4528.8
+-   speaker: Unknown
+    transcription: ' We are building stuff, putting all the layers.'
+    start: 4529.3
+    end: 4532.4
+-   speaker: Unknown
+    transcription: ' Then it counts only credits when I use it.'
+    start: 4532.8
+    end: 4536.0
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 4536.1
+    end: 4536.9
+-   speaker: Unknown
+    transcription: ' So much for the most important parts.'
+    start: 4537.9
+    end: 4541.0
+-   speaker: Unknown
+    transcription: ' Get the diagnosis to get a...'
+    start: 4541.8
+    end: 4543.9
+-   speaker: Unknown
+    transcription: ' So...'
+    start: 4544.4
+    end: 4544.7
+-   speaker: Unknown
+    transcription: ' For the beginning, for example, try it out.'
+    start: 4545.2
+    end: 4547.0
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 4547.2
+    end: 4547.5
+-   speaker: Unknown
+    transcription: ' The machine usage works on a booking slash first come, first
+        serve.'
+    start: 4548.2
+    end: 4553.4
+-   speaker: Unknown
+    transcription: ' If the machine is not booked and you are here, you can use the
+        machine.'
+    start: 4554.2
+    end: 4558.8
+-   speaker: Unknown
+    transcription: ' You do not have to have it booked.'
+    start: 4558.9
+    end: 4560.5
+-   speaker: Unknown
+    transcription: ' But if somebody else has it booked, then...'
+    start: 4560.9
+    end: 4564.0
+-   speaker: Unknown
+    transcription: ' Could someone be a dick?'
+    start: 4565.3
+    end: 4566.2
+-   speaker: Unknown
+    transcription: ' Like you just come and start doing what you want, maybe go on
+        the website and look at it from right now?'
+    start: 4566.3
+    end: 4570.1
+-   speaker: Unknown
+    transcription: ' No.'
+    start: 4570.2
+    end: 4570.4
+-   speaker: Unknown
+    transcription: ' You need to have two or three.'
+    start: 4571.2
+    end: 4574.0
+-   speaker: Unknown
+    transcription: Four hours in advance to make a booking.
+    start: 4574.1
+    end: 4576.0
+-   speaker: Unknown
+    transcription: ' Yeah, he''s actually looking like that.'
+    start: 4579.1
+    end: 4580.7
+-   speaker: Unknown
+    transcription: ' Okay, I think that I''m cutting too much.'
+    start: 4588.4
+    end: 4590.6
+-   speaker: Unknown
+    transcription: ' That flame seems like it''s burning too much and not actually
+        getting through the material.'
+    start: 4590.6
+    end: 4595.0
+-   speaker: Unknown
+    transcription: ' I think I''m turning this into charcoal.'
+    start: 4595.4
+    end: 4597.4
+-   speaker: Unknown
+    transcription: ' It has at least twice as long to keep going, so I am going to
+        stop it and look at what''s happening here.'
+    start: 4598.9
+    end: 4607.4
+-   speaker: Unknown
+    transcription: ' Once I do this, there''s no way to start from where it''s currently
+        at.'
+    start: 4608.5
+    end: 4611.8
+-   speaker: Unknown
+    transcription: ' I would have to start over from the beginning or erase the section
+        that it has already done out of my design.'
+    start: 4611.9
+    end: 4618.7
+-   speaker: Unknown
+    transcription: ' But I just, the amount that that is flaming right now is not
+        dangerous to the machine, but I think I''m just ruining material and there''s
+        no point in keeping doing this.'
+    start: 4619.3
+    end: 4627.7
+-   speaker: Unknown
+    transcription: ' So I''m going to check.'
+    start: 4627.7
+    end: 4628.6
+-   speaker: Unknown
+    transcription: ' I can press stop here.'
+    start: 4630.2
+    end: 4632.8
+-   speaker: Unknown
+    transcription: ' I can press the emergency stop if I think there''s some drastic
+        problem.'
+    start: 4632.8
+    end: 4636.3
+-   speaker: Unknown
+    transcription: ' I can...'
+    start: 4636.6
+    end: 4637.4
+-   speaker: Unknown
+    transcription: ' I learned this the hard way.'
+    start: 4639.5
+    end: 4642.4
+-   speaker: Unknown
+    transcription: ' I can press the space bar.'
+    start: 4642.7
+    end: 4644.1
+-   speaker: Unknown
+    transcription: ' You don''t want to accidentally press the space bar if you do
+        want it to keep going.'
+    start: 4647.8
+    end: 4651.0
+-   speaker: Unknown
+    transcription: ' The display went to sleep and I was like, hit the space bar to
+        wake it up and the machine stopped.'
+    start: 4654.6
+    end: 4658.8
+-   speaker: Unknown
+    transcription: ' And I was like, what?'
+    start: 4658.8
+    end: 4660.3
+-   speaker: Unknown
+    transcription: ' Why is that a feature?'
+    start: 4661.0
+    end: 4662.3
+-   speaker: Unknown
+    transcription: What I'm...
+    start: 4664.7
+    end: 4665.2
+-   speaker: Unknown
+    transcription: ' Let''s try.'
+    start: 4668.6
+    end: 4669.5
+-   speaker: Unknown
+    transcription: ' I''m going to press pause.'
+    start: 4669.7
+    end: 4670.7
+-   speaker: Unknown
+    transcription: ' Open, see what''s happening.'
+    start: 4675.0
+    end: 4676.3
+-   speaker: Unknown
+    transcription: ' Yeah, see, it''s just burning it.'
+    start: 4677.9
+    end: 4679.7
+-   speaker: Unknown
+    transcription: ' So this is what happens when you overshoot too much.'
+    start: 4682.3
+    end: 4686.2
+-   speaker: Unknown
+    transcription: ' I chose a random thickness because the thickness is listed in
+        imperial measurements and not in actual millimeters.'
+    start: 4686.8
+    end: 4693.4
+-   speaker: Unknown
+    transcription: ' And so I must have chosen 5 millimeter MDF instead of 3 millimeter
+        in depth for my settings.'
+    start: 4694.4
+    end: 4699.8
+-   speaker: Unknown
+    transcription: ' So it''s moving too slow and spending too long.'
+    start: 4700.2
+    end: 4702.6
+-   speaker: Unknown
+    transcription: ' And so therefore it''s just, I mean,'
+    start: 4703.1
+    end: 4705.5
+-   speaker: Unknown
+    transcription: ' This will be in the material library, but it''s currently not
+        there.'
+    start: 4708.5
+    end: 4711.4
+-   speaker: Unknown
+    transcription: ' I took the settings from here and I chose this.'
+    start: 4711.5
+    end: 4715.8
+-   speaker: Unknown
+    transcription: ' I probably should have chosen this.'
+    start: 4716.4
+    end: 4718.6
+-   speaker: Unknown
+    transcription: But you can see, I don't know how much you saw there.
+    start: 4722.564
+    end: 4725.764
+-   speaker: Unknown
+    transcription: ' That amount of flame that was coming off of the back of it, I
+        was like, that''s not right.'
+    start: 4726.364
+    end: 4730.764
+-   speaker: Unknown
+    transcription: ' But maybe it''ll sort itself out.'
+    start: 4731.264
+    end: 4733.564
+-   speaker: Unknown
+    transcription: ' I gave it a little bit of time because I wasn''t sure exactly
+        what I was doing.'
+    start: 4733.664
+    end: 4736.664
+-   speaker: Unknown
+    transcription: ' So, yeah.'
+    start: 4737.264
+    end: 4738.964
+-   speaker: Unknown
+    transcription: ' If you overshoot by too much, this is what happens.'
+    start: 4739.364
+    end: 4741.864
+-   speaker: Unknown
+    transcription: ' Your material just can''t handle the intensity and the amount
+        of time it''s sitting on it.'
+    start: 4741.864
+    end: 4745.864
+-   speaker: Unknown
+    transcription: ' But these sort of mistakes are good to do in a...'
+    start: 4746.364
+    end: 4750.864
+-   speaker: Unknown
+    transcription: ' I''m tuning so that you guys see what can happen.'
+    start: 4751.064
+    end: 4753.964
+-   speaker: Unknown
+    transcription: ' So, start over.'
+    start: 4754.264
+    end: 4756.964
+-   speaker: Unknown
+    transcription: Yeah, yeah.
+    start: 4763.072
+    end: 4763.472
+-   speaker: Unknown
+    transcription: ' The camera then will obviously end up being here and give you
+        sort of a warped perspective of what''s going on, but you can still see better
+        what''s going on.'
+    start: 4763.572
+    end: 4773.072
+-   speaker: Unknown
+    transcription: ' I was a little bit disappointed by the darkness of these things,
+        but for your safety, I can''t do anything about that, and I can''t afford
+        to put new things on there.'
+    start: 4773.572
+    end: 4784.972
+-   speaker: Unknown
+    transcription: ' Okay, so 17 and 24.'
+    start: 4785.372
+    end: 4787.872
+-   speaker: Unknown
+    transcription: So changing my speed to 17 millimeters a second, and I'm going
+        to overshoot and be 25 for my max power.
+    start: 4793.82
+    end: 4802.12
+-   speaker: Unknown
+    transcription: ' I always put my max power and min power the same.'
+    start: 4802.72
+    end: 4805.42
+-   speaker: Unknown
+    transcription: ' The min power is going to be kind of what it starts at.'
+    start: 4808.92
+    end: 4811.22
+-   speaker: Unknown
+    transcription: ' And if you want it to ramp up slightly because you''re doing
+        something like engraving, where it might be doubling as it goes back and forth
+        over it, then it makes sense to give a 5% power.'
+    start: 4811.32
+    end: 4823.22
+-   speaker: Unknown
+    transcription: ' Is it possible to make engravings like this?'
+    start: 4823.32
+    end: 4825.52
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 4826.72
+    end: 4826.82
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 4827.52
+    end: 4827.72
+-   speaker: Unknown
+    transcription: ' Absolutely.'
+    start: 4828.62
+    end: 4829.02
+-   speaker: Unknown
+    transcription: Yes.
+    start: 4832.004
+    end: 4832.204
+-   speaker: Unknown
+    transcription: ' Would you like to just not cut that first, but just cut a simple
+        shape to see if it works?'
+    start: 4832.604
+    end: 4838.504
+-   speaker: Unknown
+    transcription: ' Yeah, sure.'
+    start: 4842.904
+    end: 4843.404
+-   speaker: Unknown
+    transcription: ' So if you want to make absolutely sure that you are getting through
+        your material, like you don''t, you have something,'
+    start: 4844.804
+    end: 4851.404
+-   speaker: Unknown
+    transcription: ' I''m not going that hard.'
+    start: 4853.904
+    end: 4855.004
+-   speaker: Unknown
+    transcription: ' So I have my, this design in black and this design in red.'
+    start: 4857.104
+    end: 4864.504
+-   speaker: Unknown
+    transcription: ' I am, or yeah, I''m going to turn off the output of the, that
+        design and it will gray it out.'
+    start: 4865.804
+    end: 4875.504
+-   speaker: Unknown
+    transcription: ' I will turn on the output of this one and put the same settings,
+        17.'
+    start: 4875.904
+    end: 4880.104
+-   speaker: Unknown
+    transcription: And 25.
+    start: 4882.32
+    end: 4883.22
+-   speaker: Unknown
+    transcription: ' And then this, even though this is all the way up there, I''m
+        still referencing it based on where my laser is.'
+    start: 4888.92
+    end: 4896.22
+-   speaker: Unknown
+    transcription: ' So it will do it where it currently is.'
+    start: 4896.32
+    end: 4898.32
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 4902.62
+    end: 4902.72
+-   speaker: Unknown
+    transcription: ' We''ll just...'
+    start: 4904.32
+    end: 4904.92
+-   speaker: Unknown
+    transcription: ' Do a little thing there.'
+    start: 4909.92
+    end: 4910.72
+-   speaker: Unknown
+    transcription: ' This is a very good way to ensure that you have the right settings
+        to cut all the way through the first time and not do, hey, let''s just not
+        get anywhere and then burn the heck out of it the second time.'
+    start: 4912.22
+    end: 4923.62
+-   speaker: Unknown
+    transcription: It's really showing us that now.
+    start: 4928.064
+    end: 4930.064
+-   speaker: Unknown
+    transcription: ' The machine is still paused.'
+    start: 4933.264
+    end: 4934.564
+-   speaker: Unknown
+    transcription: ' We press pause so it won''t accept the new thing because we paused
+        it.'
+    start: 4935.364
+    end: 4939.164
+-   speaker: Unknown
+    transcription: ' So I need to press stop.'
+    start: 4939.464
+    end: 4940.764
+-   speaker: Unknown
+    transcription: ' Yes.'
+    start: 4945.364
+    end: 4945.664
+-   speaker: Unknown
+    transcription: ' The pause then did hold it in place and I could continue from
+        there.'
+    start: 4946.564
+    end: 4949.964
+-   speaker: Unknown
+    transcription: ' Pause, look, and then...'
+    start: 4955.464
+    end: 4956.864
+-   speaker: Unknown
+    transcription: When I pressed stop, it moved back to the initial start point of
+        that.
+    start: 4960.256
+    end: 4965.356
+-   speaker: Unknown
+    transcription: ' Yeah, which is fine.'
+    start: 4967.0560000000005
+    end: 4968.356
+-   speaker: Unknown
+    transcription: ' We can do the little square there.'
+    start: 4968.456
+    end: 4969.656
+-   speaker: Unknown
+    transcription: ' That''s fine.'
+    start: 4969.756
+    end: 4970.256
+-   speaker: Unknown
+    transcription: ' Yes, you can pause and then adjust things.'
+    start: 4977.156
+    end: 4980.256
+-   speaker: Unknown
+    transcription: Yeah, that's a good approach for the new business.
+    start: 4991.848
+    end: 4994.348
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 4994.448
+    end: 4994.648
+-   speaker: Unknown
+    transcription: ' No, this is great.'
+    start: 4995.548
+    end: 4996.948
+-   speaker: Unknown
+    transcription: ' This is why it''s good to have feedback, because I haven''t done
+        the training with this laser that often.'
+    start: 4997.248
+    end: 5002.448
+-   speaker: Unknown
+    transcription: ' So I doubt that that is all the way through because it is in
+        general only over one knife and I believe it would have fallen if it had been,
+        but I can press and check and no.'
+    start: 5005.048
+    end: 5019.448
+-   speaker: Unknown
+    transcription: Yeah, that's not all the way through.
+    start: 5024.192
+    end: 5026.092
+-   speaker: Unknown
+    transcription: ' The reason for that is it is time for me to clean the lens.'
+    start: 5027.092
+    end: 5029.992
+-   speaker: Unknown
+    transcription: It is time for me to clean the lens.
+    start: 5028.4
+    end: 5030.2
+-   speaker: Unknown
+    transcription: ' I engraved the Altmaker sign that you saw when you came in.'
+    start: 5031.0
+    end: 5035.4
+-   speaker: Unknown
+    transcription: ' That caused a lot of white dust.'
+    start: 5035.7
+    end: 5037.4
+-   speaker: Unknown
+    transcription: ' I need to clean it.'
+    start: 5037.5
+    end: 5038.5
+-   speaker: Unknown
+    transcription: ' I''ll do that later tonight.'
+    start: 5038.5
+    end: 5039.6
+-   speaker: Unknown
+    transcription: ' Yes, that should be the right settings for this material, but
+        in this situation,'
+    start: 5046.4
+    end: 5051.5
+-   speaker: Unknown
+    transcription: ' I will do that same square again.'
+    start: 5053.7
+    end: 5055.7
+-   speaker: Unknown
+    transcription: No, unfortunately.
+    start: 5062.816
+    end: 5063.816
+-   speaker: Unknown
+    transcription: ' Let''s lower this to 12.'
+    start: 5067.516
+    end: 5070.516
+-   speaker: Unknown
+    transcription: ' I have used this time and time again, and there has been nobody
+        that''s trained that is coming around to use the laser cutter.'
+    start: 5078.816
+    end: 5086.616
+-   speaker: Unknown
+    transcription: ' So I have been lackadaisical on cleaning it.'
+    start: 5086.616
+    end: 5091.016
+-   speaker: Unknown
+    transcription: ' But I promise that I will do a daily cleaning on it when I am
+        here.'
+    start: 5091.116
+    end: 5095.716
+-   speaker: Unknown
+    transcription: ' I won''t be here every single day.'
+    start: 5096.016
+    end: 5098.416
+-   speaker: Unknown
+    transcription: ' So there will be, we''ll publish our office hours so that you
+        will.'
+    start: 5098.516
+    end: 5102.716
+-   speaker: Unknown
+    transcription: ' Know that maybe, but it is as you''re saying.'
+    start: 5103.516
+    end: 5106.416
+-   speaker: Unknown
+    transcription: ' Cut a small square, make sure your settings are good.'
+    start: 5107.416
+    end: 5109.616
+-   speaker: Unknown
+    transcription: ' There''s a general principle that I used to always do when I
+        first started doing laser cutting and then I got overly cocky because I''ve
+        been doing it for many years.'
+    start: 5109.616
+    end: 5119.116
+-   speaker: Unknown
+    transcription: ' I''m like, oh yeah, this will be fine.'
+    start: 5119.516
+    end: 5120.816
+-   speaker: Unknown
+    transcription: ' I''m gonna be like, oh no, actually.'
+    start: 5120.916
+    end: 5122.416
+-   speaker: Unknown
+    transcription: If it's a natural fabric, then yeah, probably.
+    start: 5135.18
+    end: 5137.18
+-   speaker: Unknown
+    transcription: ' The safety glass protects your eyes from the laser.'
+    start: 5144.28
+    end: 5147.28
+-   speaker: Unknown
+    transcription: ' It''s perfectly fine to look at the laser.'
+    start: 5147.38
+    end: 5149.38
+-   speaker: Unknown
+    transcription: ' However, Monport, as just a general element of security and precaution,
+        does say in the manual, don''t stare at the laser while it''s burning.'
+    start: 5149.88
+    end: 5159.98
+-   speaker: Unknown
+    transcription: ' So don''t sit here and spend your whole time just being like,'
+    start: 5160.78
+    end: 5164.08
+-   speaker: Unknown
+    transcription: That now is what we would expect to have happen.
+    start: 5170.996
+    end: 5173.496
+-   speaker: Unknown
+    transcription: ' It has fallen through down the bottom.'
+    start: 5173.996
+    end: 5175.596
+-   speaker: Unknown
+    transcription: ' So if I wanted to retrieve that,'
+    start: 5179.796
+    end: 5181.996
+-   speaker: Unknown
+    transcription: ' This unfortunately goes all the way to the ground.'
+    start: 5183.896
+    end: 5186.096
+-   speaker: Unknown
+    transcription: ' It would be nice if it just opened a little bit, but it goes
+        all the way down.'
+    start: 5186.096
+    end: 5189.796
+-   speaker: Unknown
+    transcription: ' And then.'
+    start: 5191.296
+    end: 5191.696
+-   speaker: Unknown
+    transcription: ' There''s a drawer and you can just empty your trash.'
+    start: 5194.196
+    end: 5198.296
+-   speaker: Unknown
+    transcription: ' Which, by the way, the mullet on the cane, so you actually have
+        somewhere to put your scrap.'
+    start: 5200.596
+    end: 5204.596
+-   speaker: Unknown
+    transcription: We're going to have a general maker space or makers free box where
+        people can put, you got a couple of leftover screws, you've got worthwhile
+        material.
+    start: 5223.852
+    end: 5236.052
+-   speaker: Unknown
+    transcription: ' Please don''t chuck this in there.'
+    start: 5236.152
+    end: 5240.452
+-   speaker: Unknown
+    transcription: ' But if there is a strip of material that is, I would say bigger
+        than five centimeters, smaller than five centimeters, I don''t really want
+        to deal with.'
+    start: 5240.652
+    end: 5250.452
+-   speaker: Unknown
+    transcription: Okay, so let's move it to where we want and then I'll cut out that
+        design.
+    start: 5252.596
+    end: 5255.796
+-   speaker: Unknown
+    transcription: ' You do not need to stay and watch me do that if you don''t want
+        to, but you''re more than welcome to.'
+    start: 5257.696
+    end: 5262.096
+-   speaker: Unknown
+    transcription: ' I would like to have an example to show people of what the laser
+        cutter does.'
+    start: 5262.796
+    end: 5267.696
+-   speaker: Unknown
+    transcription: ' And the last time I did this, there was a kid who asked me for
+        it.'
+    start: 5269.296
+    end: 5272.896
+-   speaker: Unknown
+    transcription: ' So now I want to output that and not this.'
+    start: 5277.396
+    end: 5282.596
+-   speaker: Unknown
+    transcription: ' But it is still referencing this because I have this selected.'
+    start: 5284.296
+    end: 5288.896
+-   speaker: Unknown
+    transcription: ' What means air?'
+    start: 5289.496
+    end: 5290.396
+-   speaker: Unknown
+    transcription: ' Air is the air assist.'
+    start: 5291.896
+    end: 5293.196
+-   speaker: Unknown
+    transcription: ' There is a general principle of...'
+    start: 5295.596
+    end: 5299.396
+-   speaker: Unknown
+    transcription: ' Actually, I''m just going to erase this because I''m worried
+        that it''ll zero itself from there.'
+    start: 5300.096
+    end: 5303.596
+-   speaker: Unknown
+    transcription: ' Because you see now this yellow dot, that''s where the zero is.'
+    start: 5305.196
+    end: 5307.896
+-   speaker: Unknown
+    transcription: ' While I still have that in their design, even though I turned
+        off the output, it shouldn''t do that.'
+    start: 5307.896
+    end: 5311.996
+-   speaker: Unknown
+    transcription: ' But I''ve wasted enough of this material.'
+    start: 5311.996
+    end: 5314.996
+-   speaker: Unknown
+    transcription: ' Okay, sorry, I''m colorblind.'
+    start: 5316.696
+    end: 5317.696
+-   speaker: Unknown
+    transcription: ' Oh my god.'
+    start: 5318.096
+    end: 5318.696
+-   speaker: Unknown
+    transcription: ' Did I answer your question, sir?'
+    start: 5324.796
+    end: 5326.496
+-   speaker: Unknown
+    transcription: ' I just wanted to know what there means.'
+    start: 5327.196
+    end: 5329.296
+-   speaker: Unknown
+    transcription: ' Okay.'
+    start: 5329.896
+    end: 5330.096
+-   speaker: Unknown
+    transcription: ' Yes, actually, that should be on.'
+    start: 5331.096
+    end: 5332.696
+-   speaker: Unknown
+    transcription: ' There is a principle.'
+    start: 5334.896
+    end: 5336.696
+-   speaker: Unknown
+    transcription: ' So the air assist is what keeps the flame from going up.'
+    start: 5336.796
+    end: 5339.996
+-   speaker: Unknown
+    transcription: the little spout where the laser is coming in so it keeps the laser
+        clean.
+    start: 5340.996
+    end: 5344.396
+-   speaker: Unknown
+    transcription: ' It also blows the material out.'
+    start: 5344.796
+    end: 5346.796
+-   speaker: Unknown
+    transcription: ' It''s better to have the air assist on that you will see people
+        online in videos saying that they turn the air assist on when they cut, but
+        they turn it off when they engrave.'
+    start: 5348.396
+    end: 5360.396
+-   speaker: Unknown
+    transcription: ' If you think about it, when you are engraving, all of the material
+        stays on top and you are turning it into a very fine dust that you''re burning.'
+    start: 5361.096
+    end: 5371.596
+-   speaker: Unknown
+    transcription: ' If you blow that, then you''re just cycling that up into the
+        possibility of making it dirtier.'
+    start: 5371.896
+    end: 5377.996
+-   speaker: Unknown
+    transcription: ' I don''t think there''s a difference.'
+    start: 5378.796
+    end: 5380.396
+-   speaker: Unknown
+    transcription: ' And honestly, when I listen to this machine, I don''t think this
+        machine is paying attention to that control because I think the air assist
+        is still on even if I''ve turned it off.'
+    start: 5380.896
+    end: 5389.396
+-   speaker: Unknown
+    transcription: ' So that''s something I have to take up with Monfort.'
+    start: 5389.996
+    end: 5392.996
+-   speaker: Unknown
+    transcription: ' But I don''t think it makes a difference.'
+    start: 5394.496
+    end: 5395.996
+-   speaker: Unknown
+    transcription: ' Just leave it on.'
+    start: 5396.296
+    end: 5396.896
+-   speaker: Unknown
+    transcription: Okay, I just pressed play, and because we were messing around with
+        other things, this is no longer selected.
+    start: 5402.204
+    end: 5407.204
+-   speaker: Unknown
+    transcription: ' Lightburn does want you to actually select the thing that you''re
+        cutting.'
+    start: 5407.704
+    end: 5410.604
+-   speaker: Unknown
+    transcription: ' This software is always on this computer.'
+    start: 5414.804
+    end: 5417.604
+-   speaker: Unknown
+    transcription: ' I mean, if it''s closed,'
+    start: 5418.904
+    end: 5421.604
+-   speaker: Unknown
+    transcription: ' It''s on the desktop here.'
+    start: 5423.904
+    end: 5424.704
+-   speaker: Unknown
+    transcription: ' And this is not something that is a makerspace license.'
+    start: 5427.504
+    end: 5430.404
+-   speaker: Unknown
+    transcription: ' This is a license that is on this machine and only this machine.'
+    start: 5430.404
+    end: 5434.404
+-   speaker: Unknown
+    transcription: ' The CNC, we have a makerspace license that gives you the ability
+        to log in on your accounts with our main thing, but to use the V-carve thing
+        at home.'
+    start: 5435.004
+    end: 5445.804
+-   speaker: Unknown
+    transcription: ' Lightburn doesn''t offer that.'
+    start: 5446.904
+    end: 5448.004
+-   speaker: Unknown
+    transcription: I don't know, that was literally me the first time trying the demo
+        version and you saw what it was doing and I was like, but the one thing I
+        didn't do is I told it to create a default machine because I didn't have time.
+    start: 5455.048
+    end: 5469.648
+-   speaker: Unknown
+    transcription: ' If you look up, this is the Monport 150 watt laser.'
+    start: 5470.048
+    end: 5474.148
+-   speaker: Unknown
+    transcription: ' If you look up this machine and ask, it gives you the ability,
+        you have to set up a machine on the free version.'
+    start: 5474.748
+    end: 5482.448
+-   speaker: Unknown
+    transcription: ' If you give it the actual, what it needs to control this machine,
+        maybe it won''t go haywire.'
+    start: 5484.248
+    end: 5491.348
+-   speaker: Unknown
+    transcription: ' I don''t know.'
+    start: 5491.648
+    end: 5492.248
+-   speaker: Unknown
+    transcription: ' Haven''t tried it.'
+    start: 5492.648
+    end: 5493.348
+-   speaker: Unknown
+    transcription: That's how I already checked out.
+    start: 5499.152
+    end: 5501.152
+-   speaker: Unknown
+    transcription: ' So.'
+    start: 5508.952
+    end: 5511.552
+-   speaker: Unknown
+    transcription: ' Yeah, this is going to take a while.'
+    start: 5512.152
+    end: 5513.352
+-   speaker: Unknown
+    transcription: ' This design is what you call a living hinge.'
+    start: 5514.852
+    end: 5517.952
+-   speaker: Unknown
+    transcription: ' And so it''s a bunch of lines that don''t connect.'
+    start: 5519.052
+    end: 5522.552
+-   speaker: Unknown
+    transcription: ' And so it does cut this line and then leave a little space and
+        then cut this line and leave a little space.'
+    start: 5523.052
+    end: 5529.552
+-   speaker: Unknown
+    transcription: ' And so you''ve got these two spaces here.'
+    start: 5529.852
+    end: 5531.452
+-   speaker: Unknown
+    transcription: ' When it does the next line, it leaves the space here and cuts
+        this line and leaves a space here and cuts this line.'
+    start: 5531.752
+    end: 5538.352
+-   speaker: Unknown
+    transcription: ' That way it does a accordion fold and gives you a nice radius,
+        which you can see if you wait for 15 minutes.'
+    start: 5538.952
+    end: 5549.552
+-   speaker: Unknown
+    transcription: That's just what the name of it is.
+    start: 5556.164
+    end: 5557.464
+-   speaker: Unknown
+    transcription: ' I don''t know who called it that, but that''s what it is.'
+    start: 5557.664
+    end: 5560.164
+-   speaker: Unknown
+    transcription: ' I saw people also like that, really.'
+    start: 5560.764
+    end: 5564.364
+-   speaker: Unknown
+    transcription: ' Do you have something like, where they like, they warm it and
+        then they bend it?'
+    start: 5565.164
+    end: 5569.464
+-   speaker: Unknown
+    transcription: ' The electronics equipment will have a hot air gun for soldering
+        SMD.'
+    start: 5572.364
+    end: 5578.964
+-   speaker: Unknown
+    transcription: ' Like when you''re soldering little small things instead of using
+        a...'
+    start: 5579.164
+    end: 5584.164
+-   speaker: Unknown
+    transcription: ' Soldering the spool, right?'
+    start: 5584.264
+    end: 5585.864
+-   speaker: Unknown
+    transcription: ' Loton?'
+    start: 5586.864
+    end: 5587.264
+-   speaker: Unknown
+    transcription: ' Electronics when you need to put the little metal melt metal
+        you have a soldering iron with normal things when you''re doing really small
+        things you put a paste on it and you do hot air and'
+    start: 5589.964
+    end: 5601.564
+-   speaker: Unknown
+    transcription: ' that hot air will have a temperature control setting on it and
+        you could dial it in for'
+    start: 5602.664
+    end: 5609.464
+-   speaker: Unknown
+    transcription: ' bending acrylic.'
+    start: 5610.664
+    end: 5611.364
+-   speaker: Unknown
+    transcription: ' It would be possible.'
+    start: 5611.364
+    end: 5612.164
+-   speaker: Unknown
+    transcription: ' That door right there.'
+    start: 5614.764
+    end: 5615.464
+-   speaker: Unknown
+    transcription: You know, I was 20 minutes.
+    start: 5619.792
+    end: 5621.592
+-   speaker: Unknown
+    transcription: ' I mean, it''s over 50% done.'
+    start: 5625.492
+    end: 5629.492
+-   speaker: Unknown
+    transcription: ' And it''s...'
+    start: 5629.692
+    end: 5630.492
+-   speaker: Unknown
+    transcription: ' I believe it''s the worst.'
+    start: 5630.992
+    end: 5633.092
+-   speaker: Unknown
+    transcription: ' This is, once again, an element of, like, we''ve...'
+    start: 5635.892
+    end: 5639.592
+-   speaker: Unknown
+    transcription: ' we''re getting our feet under us with new equipment.'
+    start: 5641.392
+    end: 5644.292
+-   speaker: Unknown
+    transcription: ' Like I''ve used,'
+    start: 5644.392
+    end: 5646.192
+-   speaker: Unknown
+    transcription: ' six or seven different versions of a laser cutter, but I''ve
+        never used this one until we got it.'
+    start: 5648.092
+    end: 5652.792
+-   speaker: Unknown
+    transcription: ' And there was massive delivery problems, so I got it a month
+        later than I expected to get it.'
+    start: 5654.292
+    end: 5661.192
+-   speaker: Unknown
+    transcription: ' It was from the US?'
+    start: 5661.392
+    end: 5663.192
+-   speaker: Unknown
+    transcription: ' Well, no, because all laser cutters are from China.'
+    start: 5663.792
+    end: 5666.992
+-   speaker: Unknown
+    transcription: ' I don''t care who the maker is, they''re all from China.'
+    start: 5667.392
+    end: 5670.192
+-   speaker: Unknown
+    transcription: I mean, this huge thing, how long they said it was a day.
+    start: 5672.148
+    end: 5677.548
+-   speaker: Unknown
+    transcription: ' You can find it on Instagram.'
+    start: 5680.048
+    end: 5681.448
+-   speaker: Unknown
+    transcription: ' There''s a picture of Melody sitting on top of the box.'
+    start: 5681.548
+    end: 5684.148
+-   speaker: Unknown
+    transcription: ' It was a hassle.'
+    start: 5688.048
+    end: 5689.348
+-   speaker: Unknown
+    transcription: ' It doesn''t fit through the door set like this.'
+    start: 5689.748
+    end: 5691.848
+-   speaker: Unknown
+    transcription: ' We had to put it on its side to get it in here.'
+    start: 5691.948
+    end: 5694.148
+-   speaker: Unknown
+    transcription: ' This is a water-cooled laser.'
+    start: 5715.548
+    end: 5717.348
+-   speaker: Unknown
+    transcription: ' The cooler is integrated into the machine.'
+    start: 5717.748
+    end: 5720.448
+-   speaker: Unknown
+    transcription: ' Occasionally while it''s running, you will hear the cooler turn
+        on.'
+    start: 5720.648
+    end: 5724.748
+-   speaker: Unknown
+    transcription: ' Don''t be worried.'
+    start: 5725.348
+    end: 5726.048
+-   speaker: Unknown
+    transcription: ' It''s just doing its job.'
+    start: 5726.148
+    end: 5727.448
+-   speaker: Unknown
+    transcription: ' There is a sensor that if the water cooler is not doing its job
+        properly, will shut down the machine.'
+    start: 5727.948
+    end: 5736.048
+-   speaker: Unknown
+    transcription: ' This is to save the laser.'
+    start: 5736.448
+    end: 5737.948
+-   speaker: Unknown
+    transcription: It is above 35 degrees in this room.
+    start: 5743.816
+    end: 5747.816
+-   speaker: Unknown
+    transcription: ' You can''t use the laser cutter because the cooler can''t possibly
+        cool it.'
+    start: 5748.616
+    end: 5752.016
+-   speaker: Unknown
+    transcription: ' 35 degrees?'
+    start: 5752.216
+    end: 5752.916
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 5753.016
+    end: 5753.216
+-   speaker: Unknown
+    transcription: ' Luckily, the stone of this keeps it cooler than the outside temperature.'
+    start: 5754.016
+    end: 5759.616
+-   speaker: Unknown
+    transcription: ' I am going to buy a thermometer and put it on the wall.'
+    start: 5760.916
+    end: 5763.416
+-   speaker: Unknown
+    transcription: ' I mean, these walls, like, this is Think Mall Shoots, really
+        thick-walled stone.'
+    start: 5765.516
+    end: 5772.116
+-   speaker: Unknown
+    transcription: ' It''s kind of like being at a cave in here.'
+    start: 5772.416
+    end: 5774.716
+-   speaker: Unknown
+    transcription: ' I just mentioned to these guys, this is a water-cooled laser.'
+    start: 5778.016
+    end: 5781.016
+-   speaker: Unknown
+    transcription: ' There is a chiller in the back here corner.'
+    start: 5781.116
+    end: 5783.416
+-   speaker: Unknown
+    transcription: ' You will hear it occasionally turn on and do its job.'
+    start: 5783.516
+    end: 5786.016
+-   speaker: Unknown
+    transcription: ' If it is above 35 degrees in this room, it can''t really do its
+        job.'
+    start: 5787.016
+    end: 5791.316
+-   speaker: Unknown
+    transcription: ' I''m going to put a thermometer on the wall back here.'
+    start: 5791.416
+    end: 5793.916
+-   speaker: Unknown
+    transcription: ' If it is super, super hot, double check.'
+    start: 5793.916
+    end: 5796.716
+-   speaker: Unknown
+    transcription: ' Please don''t use the laser when it''s too hot.'
+    start: 5796.816
+    end: 5799.416
+-   speaker: Unknown
+    transcription: You are now trained.
+    start: 5805.78
+    end: 5806.58
+-   speaker: Unknown
+    transcription: ' You are allowed to press the check mark for me.'
+    start: 5806.58
+    end: 5808.58
+-   speaker: Unknown
+    transcription: ' You are allowed to bring your friends to do stuff with you, but
+        the person who is in charge of the machine is the person who has a membership.'
+    start: 5811.28
+    end: 5816.98
+-   speaker: Unknown
+    transcription: ' So this thing asking you, are you still there, needs to be you
+        or another trained member.'
+    start: 5817.48
+    end: 5825.68
+-   speaker: Unknown
+    transcription: ' If you have your random friend here and you need to go to the
+        bathroom or something, you can''t.'
+    start: 5826.08
+    end: 5831.18
+-   speaker: Unknown
+    transcription: ' Say to your friend, can you press the check mark for me?'
+    start: 5831.38
+    end: 5834.58
+-   speaker: Unknown
+    transcription: It starts blinking every two minutes.
+    start: 5839.224
+    end: 5841.024
+-   speaker: Unknown
+    transcription: ' It shuts off after three.'
+    start: 5841.124
+    end: 5842.124
+-   speaker: Unknown
+    transcription: ' The CNC, I have now changed to five minutes just because it was
+        a little bit annoying.'
+    start: 5843.524
+    end: 5852.824
+-   speaker: Unknown
+    transcription: ' But the laser is faster, and I don''t want people wandering off.'
+    start: 5852.824
+    end: 5857.324
+-   speaker: Unknown
+    transcription: We will be setting up very soon a video system that will look at
+        the situation.
+    start: 5866.0
+    end: 5878.5
+-   speaker: Unknown
+    transcription: ' And so, this is in our insurance.'
+    start: 5879.1
+    end: 5881.9
+-   speaker: Unknown
+    transcription: ' So our insurance looks at if something happens, and you can''t
+        do it.'
+    start: 5883.0
+    end: 5887.5
+-   speaker: Unknown
+    transcription: ' It is a venture to see.'
+    start: 5888.8
+    end: 5890.9
+-   speaker: Unknown
+    transcription: ' And so, if it''s talking to us, actually running the laser there,
+        that holds our interest, and we look at it, and we would say, that''s a pure
+        year picture that''s not employed.'
+    start: 5891.3
+    end: 5906.3
+-   speaker: Unknown
+    transcription: ' So that''s why we like the open air, we''ve got that.'
+    start: 5907.0
+    end: 5910.2
+-   speaker: Unknown
+    transcription: See?
+    start: 5916.76
+    end: 5917.16
+-   speaker: Unknown
+    transcription: ' I need to clean it.'
+    start: 5917.76
+    end: 5918.56
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 5920.36
+    end: 5920.66
+-   speaker: Unknown
+    transcription: ' We''re not getting what I would like out of it.'
+    start: 5921.66
+    end: 5923.86
+-   speaker: Unknown
+    transcription: ' So that''s not, if I had not moved it, I could run over it again
+        quickly, but I did move it so I can punch that through, but it''s not going
+        to be super clean.'
+    start: 5925.86
+    end: 5935.66
+-   speaker: Unknown
+    transcription: ' But this is also me wanting to know what it is.'
+    start: 5945.76
+    end: 5947.86
+-   speaker: Unknown
+    transcription: So yeah, you can see it didn't get all the way through.
+    start: 5968.808
+    end: 5971.308
+-   speaker: Unknown
+    transcription: ' And that over on this corner, it liked it less and less.'
+    start: 5972.708
+    end: 5977.508
+-   speaker: Unknown
+    transcription: ' The living hinge is not going to work as nicely because I didn''t
+        get really through it.'
+    start: 5978.708
+    end: 5982.508
+-   speaker: Unknown
+    transcription: ' Yeah, it''s breaking.'
+    start: 5984.108
+    end: 5985.408
+-   speaker: Unknown
+    transcription: ' It''s nice and raving.'
+    start: 5986.708
+    end: 5987.808
+-   speaker: Unknown
+    transcription: So, yeah.
+    start: 5992.956
+    end: 5993.556
+-   speaker: Unknown
+    transcription: ' This is what''s supposed to fall, right?'
+    start: 5994.156
+    end: 5996.456
+-   speaker: Unknown
+    transcription: ' Yeah, that should do a radius.'
+    start: 5996.656
+    end: 5998.856
+-   speaker: Unknown
+    transcription: ' But, yep, it''s time to clean the laser, but that is something
+        that is not.'
+    start: 6000.856
+    end: 6006.456
+-   speaker: Unknown
+    transcription: ' It takes me a while.'
+    start: 6008.156
+    end: 6008.956
+-   speaker: Unknown
+    transcription: ' Hmm.'
+    start: 6010.956
+    end: 6011.156
+-   speaker: Unknown
+    transcription: ' It''s wet down there.'
+    start: 6011.656
+    end: 6012.256
+-   speaker: Unknown
+    transcription: ' I''m sorry I didn''t end up with a really nice clean product
+        to show you at the end of all of this.'
+    start: 6016.756
+    end: 6021.256
+-   speaker: Unknown
+    transcription: So, yeah.
+    start: 6024.54
+    end: 6024.94
+-   speaker: Unknown
+    transcription: ' That''s all right.'
+    start: 6026.44
+    end: 6026.94
+-   speaker: Unknown
+    transcription: ' I''m going to leave that.'
+    start: 6026.94
+    end: 6027.64
+-   speaker: Unknown
+    transcription: ' When you''re done and you pull out your material, make sure that
+        you don''t hit the laser.'
+    start: 6029.64
+    end: 6034.54
+-   speaker: Unknown
+    transcription: ' Also, make sure that you don''t raise the bed because turning
+        it off and turning it on causes it to home.'
+    start: 6036.74
+    end: 6043.74
+-   speaker: Unknown
+    transcription: ' It''s a good idea to even lower the bed a little bit when you
+        are done, unless you are about to cut the exact same material again, then
+        you can leave it.'
+    start: 6044.34
+    end: 6053.34
+-   speaker: Unknown
+    transcription: That honestly could have been a focus problem as well, because
+        we moved from where it was.
+    start: 6056.092
+    end: 6060.492
+-   speaker: Unknown
+    transcription: ' So I probably should have refocused it at the new point, because
+        your material can''t be perfectly level everywhere across the whole thing.'
+    start: 6060.992
+    end: 6068.692
+-   speaker: Unknown
+    transcription: ' MDF should be though.'
+    start: 6069.892
+    end: 6070.992
+-   speaker: Unknown
+    transcription: ' So I don''t think that was a focus problem, so much as I need
+        to finish the material library.'
+    start: 6072.092
+    end: 6078.392
+-   speaker: Unknown
+    transcription: ' And that is just me sitting here with a freshly cleaned laser
+        and going, okay, let''s try this.'
+    start: 6079.192
+    end: 6085.092
+-   speaker: Unknown
+    transcription: ' Let''s try this.'
+    start: 6085.692
+    end: 6086.492
+-   speaker: Unknown
+    transcription: ' Yeah, that''s why we''re here.'
+    start: 6087.792
+    end: 6089.392
+-   speaker: Unknown
+    transcription: But I want to, before you start using it, I want to, you know,
+        make sure that you have all of the settings set up.
+    start: 6091.752
+    end: 6098.352
+-   speaker: Unknown
+    transcription: ' So I promise I will get that done.'
+    start: 6100.152
+    end: 6102.752
+-   speaker: Unknown
+    transcription: ' tomorrow.'
+    start: 6104.752
+    end: 6105.152
+-   speaker: Unknown
+    transcription: ' So focus, put the power, thickness, and go.'
+    start: 6106.752
+    end: 6112.552
+-   speaker: Unknown
+    transcription: ' Pretty much.'
+    start: 6113.352
+    end: 6113.952
+-   speaker: Unknown
+    transcription: ' Yeah, I mean, ultimately we''ve covered quite a lot, but the
+        steps are import, choose what is engraved, choose what is cut,'
+    start: 6114.552
+    end: 6125.552
+-   speaker: Unknown
+    transcription: ' Put the power and the speed for your material.'
+    start: 6126.652
+    end: 6129.052
+-   speaker: Unknown
+    transcription: ' Put material in.'
+    start: 6130.152
+    end: 6131.152
+-   speaker: Unknown
+    transcription: ' Focus.'
+    start: 6131.852
+    end: 6132.352
+-   speaker: Unknown
+    transcription: ' Put it at the right spot.'
+    start: 6133.152
+    end: 6134.052
+-   speaker: Unknown
+    transcription: ' Press start and go.'
+    start: 6136.152
+    end: 6136.852
+-   speaker: Unknown
+    transcription: ' But as you''ve seen, do test cuts of a square first.'
+    start: 6138.052
+    end: 6140.952
+-   speaker: Unknown
+    transcription: ' Yeah, lots of clear numbers.'
+    start: 6141.552
+    end: 6143.952
+-   speaker: Unknown
+    transcription: If what?
+    start: 6149.456
+    end: 6149.856
+-   speaker: Unknown
+    transcription: ' I mean, here you can very much tell that that hasn''t been cleaned
+        because you can see all of the dust down here.'
+    start: 6152.156
+    end: 6158.856
+-   speaker: Unknown
+    transcription: ' If you look in here, that is the last mirror it does before it
+        goes down in there.'
+    start: 6162.956
+    end: 6169.856
+-   speaker: Unknown
+    transcription: ' The lens and the mirror tend to get dirty.'
+    start: 6172.156
+    end: 6175.356
+-   speaker: Unknown
+    transcription: ' So you will see a little dusty spot on that mirror right now.'
+    start: 6175.456
+    end: 6179.256
+-   speaker: Unknown
+    transcription: ' So if you want to double check, then just look.'
+    start: 6180.356
+    end: 6184.956
+-   speaker: Unknown
+    transcription: ' Yeah, I mean, you can see the...'
+    start: 6186.956
+    end: 6188.256
+-   speaker: Unknown
+    transcription: ' Okay, now, like I said, I ended my stuff.'
+    start: 6188.956
+    end: 6191.656
+-   speaker: Unknown
+    transcription: ' I click stop there, and then, like, I end up the whole booking.'
+    start: 6192.556
+    end: 6197.756
+-   speaker: Unknown
+    transcription: ' Okay, so now if I press the X for the booking, it''s going to
+        shut off the actual laser power.'
+    start: 6197.956
+    end: 6204.756
+-   speaker: Unknown
+    transcription: And then press the emergency stop for the lights to shut down as
+        well.
+    start: 6206.984
+    end: 6211.984
+-   speaker: Unknown
+    transcription: ' This, keep all this on.'
+    start: 6213.184
+    end: 6214.784
+-   speaker: Unknown
+    transcription: ' Yeah, don''t mess with the switch.'
+    start: 6215.384
+    end: 6216.484
+-   speaker: Unknown
+    transcription: ' I mean.'
+    start: 6216.984
+    end: 6217.384
+-   speaker: Unknown
+    transcription: ' Huh?'
+    start: 6222.584
+    end: 6222.784
+-   speaker: Unknown
+    transcription: ' Yeah, you should pull the emergency stop.'
+    start: 6226.784
+    end: 6228.284
+-   speaker: Unknown
+    transcription: ' There''s no other main switch on.'
+    start: 6228.284
+    end: 6229.884
+-   speaker: Unknown
+    transcription: ' The charging is only when the laser is physically on.'
+    start: 6236.484
+    end: 6239.784
+-   speaker: Unknown
+    transcription: ' The reason why it''s capable of moving right now, even though
+        I don''t have my card connected to it, is because if I have it turn on and
+        off the entire system, the cooler causes too much fluctuation and power for
+        me to separate it out.'
+    start: 6240.284
+    end: 6255.184
+-   speaker: Unknown
+    transcription: ' I will change that, but that is me having to go into this box
+        and rewire the electronics.'
+    start: 6255.984
+    end: 6262.584
+-   speaker: Unknown
+    transcription: ' So for now, what it is, is that the laser can''t be turned on
+        without your card.'
+    start: 6263.384
+    end: 6270.084
+-   speaker: Unknown
+    transcription: ' So you can move it around.'
+    start: 6270.484
+    end: 6274.884
+-   speaker: Unknown
+    transcription: ' I don''t like that.'
+    start: 6275.584
+    end: 6276.484
+-   speaker: Unknown
+    transcription: ' I don''t like that any member that is not trained could actually
+        turn this on and move it around because it''s an expensive machine.'
+    start: 6276.584
+    end: 6284.084
+-   speaker: Unknown
+    transcription: ' But...'
+    start: 6284.884
+    end: 6285.184
+-   speaker: Unknown
+    transcription: ' I guess they did that just to see the training.'
+    start: 6285.184
+    end: 6287.684
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 6287.684
+    end: 6287.884
+-   speaker: Unknown
+    transcription: ' But now we know.'
+    start: 6288.784
+    end: 6289.584
+-   speaker: Unknown
+    transcription: ' But...'
+    start: 6291.184
+    end: 6291.784
+-   speaker: Unknown
+    transcription: ' Yeah.'
+    start: 6293.184
+    end: 6293.384
+-   speaker: Unknown
+    transcription: So that covers that element.
+    start: 6295.284
+    end: 6297.684
+-   speaker: Unknown
+    transcription: ' And I will fix this, but again, this is a problem with early
+        access.'
+    start: 6298.484
+    end: 6302.284
+-   speaker: Unknown
+    transcription: ' The hundreds of small things that need to be done that you can''t
+        realize need to be done until you actually get there.'
+    start: 6302.384
+    end: 6311.084
+-   speaker: Unknown
+    transcription: ' And you''re like...'
+    start: 6311.084
+    end: 6312.084
+-   speaker: Unknown
+    transcription: ' Connect the entire thing, you have everything set up so that
+        all power runs through this one thing, and then you''re like, oh, that cooler
+        takes more current pull than the laser does.'
+    start: 6312.684
+    end: 6322.984
+-   speaker: Unknown
+    transcription: ' So now you know pretty much that we are already been here and
+        we can apply for the membership and then we can pick on the name.'
+    start: 6327.384
+    end: 6337.184
+-   speaker: Unknown
+    transcription: ' The members that are already signed up, I will now go to the
+        computer and I will add the training so that they have the ability to book
+        the machine and to turn the laser on.'
+    start: 6337.584
+    end: 6351.084
+-   speaker: Unknown
+    transcription: ' Those that have not gotten their membership yet, when you get
+        your membership, please send us an email saying, hey, this is me.'
+    start: 6351.684
+    end: 6360.384
+-   speaker: Unknown
+    transcription: ' I just signed up and I did the training on this day.'
+    start: 6360.384
+    end: 6363.884
+-   speaker: Unknown
+    transcription: ' We have your email from getting your ticket for the training,
+        but we''re not going to look up everybody that comes for a training that maybe
+        doesn''t get a membership when they sign up for a membership.'
+    start: 6364.584
+    end: 6376.684
+-   speaker: Unknown
+    transcription: ' Like that''s too much.'
+    start: 6376.684
+    end: 6378.184
+-   speaker: Unknown
+    transcription: ' So if you just let us know, then we will double check and activate
+        it.'
+    start: 6379.484
+    end: 6382.884
+-   speaker: Unknown
+    transcription: ' But those that are already members.'
+    start: 6383.584
+    end: 6385.184
+-   speaker: Unknown
+    transcription: You will be capable of booking the machine in five minutes when
+        I go to my computer.
+    start: 6386.784
+    end: 6391.984
+-   speaker: Unknown
+    transcription: ' Yep.'
+    start: 6398.184
+    end: 6398.384
